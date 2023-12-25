@@ -1,5 +1,4 @@
 dataset/
-more/
-aug_more/
-wild_model.h5
+augmentation/more/
+augmentation/aug_more/
 weight/
