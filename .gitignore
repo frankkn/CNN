@@ -1,4 +1,6 @@
 dataset/
-augmentation/more/
-augmentation/aug_more/
+augmentation/*
+!/augmentation/data_aug/
 weight/
+2classes/4500/TEST.ipynb
+2classes/4500/.ipynb_checkpoints/
