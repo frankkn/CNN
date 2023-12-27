@@ -1,4 +1,5 @@
-dataset/
+dataset/*
+!dataset/demo/
 augmentation/*
 !/augmentation/data_aug/
 weight/
