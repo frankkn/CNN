@@ -1,0 +1,811 @@
+img_path,label
+..\..\dataset\4500\owner\KWLU2092474-1.jpg,0
+..\..\dataset\4500\owner\KWLU5355867_1.jpg,0
+..\..\dataset\4500\owner\XINU8196230_130720_01.jpg,0
+..\..\dataset\4500\owner\KWLU5091050-3.jpg,0
+..\..\dataset\4500\owner\GESU3902770-1.jpg,0
+..\..\dataset\4500\owner\TGHU6549485_130726_02.jpg,0
+..\..\dataset\4500\shipper\TGHU6550779_130930_03.jpg,1
+..\..\dataset\4500\owner\WFHU1351170_130528_03.jpg,0
+..\..\dataset\4500\shipper\GESU 3459678-2.jpg,1
+..\..\dataset\4500\owner\WFHU1350553- (5).JPG,0
+..\..\dataset\4500\owner\TGHU6256912_130726_02.jpg,0
+..\..\dataset\4500\owner\TEMU2422783_131224_08.jpg,0
+..\..\dataset\4500\owner\KWLU2092772-A.jpg,0
+..\..\dataset\4500\shipper\GATU0851150_130610_07.jpg,1
+..\..\dataset\4500\owner\KWLU2092448_140617_02.jpg,0
+..\..\dataset\4500\shipper\KWCU 2070475-2.jpg,1
+..\..\dataset\4500\owner\KWLU5130520-2.jpg,0
+..\..\dataset\4500\owner\XINU8199498_130726_01.jpg,0
+..\..\dataset\4500\shipper\KWLU 2090018-1.jpg,1
+..\..\dataset\4500\owner\TGHU6256260_130615_03.jpg,0
+..\..\dataset\4500\shipper\GESU6380052_131004_02.jpg,1
+..\..\dataset\4500\owner\GESU5458900-B.jpg,0
+..\..\dataset\4500\owner\KWLU2970815_131204_03.jpg,0
+..\..\dataset\4500\shipper\KWLU 2091288-4.jpg,1
+..\..\dataset\4500\owner\FSCU3435602_130603_01.jpg,0
+..\..\dataset\4500\owner\KWLU5091363_130619_01.jpg,0
+..\..\dataset\4500\shipper\KWLU5090259+ (5).JPG,1
+..\..\dataset\4500\owner\XINU8196230_131001_01.jpg,0
+..\..\dataset\4500\shipper\WFHU5133005_140604_03.jpg,1
+..\..\dataset\4500\owner\KWLU2092746_131224_02.jpg,0
+..\..\dataset\4500\owner\TEMU2421642-B.jpg,0
+..\..\dataset\4500\owner\KWLU5092586_140531_03.jpg,0
+..\..\dataset\4500\owner\GESU6379555_131004_02.jpg,0
+..\..\dataset\4500\shipper\TEMU2423584_131118_03.jpg,1
+..\..\dataset\4500\owner\KWLU2092129_130619_03.jpg,0
+..\..\dataset\4500\owner\KWLU2121464-B.jpg,0
+..\..\dataset\4500\shipper\CAXU6605100_140603_05.jpg,1
+..\..\dataset\4500\owner\XINU8200557-B.jpg,0
+..\..\dataset\4500\shipper\KWLU2091307-2.jpg,1
+..\..\dataset\4500\owner\KWLU5120163-2.jpg,0
+..\..\dataset\4500\owner\GVCU5068063-B.jpg,0
+..\..\dataset\4500\shipper\K SEGU 5509915R (2) (Small)_0.jpg,1
+..\..\dataset\4500\owner\GESU3904217_130507_04.jpg,0
+..\..\dataset\4500\owner\KWLU2092772-B.jpg,0
+..\..\dataset\4500\owner\GESU3904201_130603_04.jpg,0
+..\..\dataset\4500\owner\GESU6380854_131203_02.jpg,0
+..\..\dataset\4500\owner\TGHU6256403_131129_02.jpg,0
+..\..\dataset\4500\owner\KWLU3611851-3.jpg,0
+..\..\dataset\4500\shipper\KWLU2970055_131207_02.jpg,1
+..\..\dataset\4500\shipper\KWLU2092577_140307_03.jpg,1
+..\..\dataset\4500\shipper\TGHU6550906_131004_07 (2).jpg,1
+..\..\dataset\4500\shipper\WFHU 1285817-1-2.jpg,1
+..\..\dataset\4500\owner\KWLU2121130_130610_02.jpg,0
+..\..\dataset\4500\shipper\GESU2723940_140227_07 (2).jpg,1
+..\..\dataset\4500\owner\KWLU2090580-A.jpg,0
+..\..\dataset\4500\shipper\KWLU2091457_131224_03.jpg,1
+..\..\dataset\4500\owner\UESU4782652-3.jpg,0
+..\..\dataset\4500\owner\WFHU1351020- (1).JPG,0
+..\..\dataset\4500\shipper\KWLU2970163_131207_04.jpg,1
+..\..\dataset\4500\owner\TGHU6256105-A.jpg,0
+..\..\dataset\4500\owner\WFHU1351375-5.jpg,0
+..\..\dataset\4500\shipper\KKTU7291359_130520_04.jpg,1
+..\..\dataset\4500\owner\KWLU3614589_130812_01.jpg,0
+..\..\dataset\4500\shipper\GESU6919226-4.jpg,1
+..\..\dataset\4500\owner\TEMU 2420902-3.jpg,0
+..\..\dataset\4500\owner\KWLU2091992-A.jpg,0
+..\..\dataset\4500\shipper\KWLU5012430-5.jpg,1
+..\..\dataset\4500\shipper\KWLU2120323_131207_04.jpg,1
+..\..\dataset\4500\shipper\WFHU1351420_131217_04.jpg,1
+..\..\dataset\4500\owner\KWLU5090942_140604_01.jpg,0
+..\..\dataset\4500\owner\WFHU1350872_130702_01.jpg,0
+..\..\dataset\4500\shipper\KWCU 3628258-1.jpg,1
+..\..\dataset\4500\shipper\KWLU5813933- (2).JPG,1
+..\..\dataset\4500\shipper\GESU3902678_130710_01.jpg,1
+..\..\dataset\4500\owner\KWLU2071002_130618_02.jpg,0
+..\..\dataset\4500\owner\XINU8198090_130909_01.jpg,0
+..\..\dataset\4500\owner\KWLU5130670_140617_01.jpg,0
+..\..\dataset\4500\owner\FCIU2459616-A.jpg,0
+..\..\dataset\4500\shipper\KWLU2070475_130702_02.jpg,1
+..\..\dataset\4500\owner\GESU1407700_130528_04.jpg,0
+..\..\dataset\4500\owner\WFHU1349824_130326_07.jpg,0
+..\..\dataset\4500\owner\KWLU4130573-1.jpg,0
+..\..\dataset\4500\owner\GSTU2976492_140603_01.jpg,0
+..\..\dataset\4500\shipper\KWLU2092432_130603_02.jpg,1
+..\..\dataset\4500\owner\UESU4735970-B.jpg,0
+..\..\dataset\4500\owner\KWLU5091907-A.jpg,0
+..\..\dataset\4500\shipper\TEMU 2420522-3-1.JPG,1
+..\..\dataset\4500\shipper\GESU1407757_130528_03.jpg,1
+..\..\dataset\4500\shipper\GESU6574546_131202_06.jpg,1
+..\..\dataset\4500\owner\WFHU5140410-3.jpg,0
+..\..\dataset\4500\shipper\GESU5294129_130624_03.jpg,1
+..\..\dataset\4500\owner\KWLU2090147_140210_01.jpg,0
+..\..\dataset\4500\shipper\KWLU2120880_130401_01.jpg,1
+..\..\dataset\4500\owner\GESU2723929_130716_02.jpg,0
+..\..\dataset\4500\shipper\GESU6379766_131004_08.jpg,1
+..\..\dataset\4500\shipper\KWLU 5092462-2.jpg,1
+..\..\dataset\4500\owner\UESU5086690_140623_04.jpg,0
+..\..\dataset\4500\shipper\DSCF5476_0.jpg,1
+..\..\dataset\4500\owner\KWLU2092638-A.jpg,0
+..\..\dataset\4500\owner\WFHU1349526_140624_06.jpg,0
+..\..\dataset\4500\shipper\WFHU5137757_131004_03.jpg,1
+..\..\dataset\4500\shipper\GESU3905086_131016_02.jpg,1
+..\..\dataset\4500\owner\TGHU6550906_131004_02.jpg,0
+..\..\dataset\4500\shipper\KWLU2070881_130823_01.jpg,1
+..\..\dataset\4500\owner\TEMU2421133_131118_05.jpg,0
+..\..\dataset\4500\owner\TEMU2420939-A.jpg,0
+..\..\dataset\4500\owner\KWLU5120800-3.jpg,0
+..\..\dataset\4500\owner\GESU6576744.JPG,0
+..\..\dataset\4500\shipper\DSCF0032_0.jpg,1
+..\..\dataset\4500\owner\KWLU2120719_130528_01.jpg,0
+..\..\dataset\4500\owner\KWLU2090527_140616_05.jpg,0
+..\..\dataset\4500\shipper\WFHU 1285817-1-1.jpg,1
+..\..\dataset\4500\shipper\GESU6380730_131004_03.jpg,1
+..\..\dataset\4500\owner\GESU6574865-2.jpg,0
+..\..\dataset\4500\shipper\KWLU5813933_130805_07.jpg,1
+..\..\dataset\4500\owner\TGHU6549443-5.jpg,0
+..\..\dataset\4500\owner\KWLU2092936_130326_02.jpg,0
+..\..\dataset\4500\owner\XINU8198193_131129_03.jpg,0
+..\..\dataset\4500\owner\TEMU2422778_131224_02.jpg,0
+..\..\dataset\4500\shipper\TEMU2420707-2.jpg,1
+..\..\dataset\4500\owner\XINU8199501-B.jpg,0
+..\..\dataset\4500\owner\KWLU2892137_130904_03.jpg,0
+..\..\dataset\4500\shipper\DSCF6253_0.jpg,1
+..\..\dataset\4500\owner\KWLU2090912_140618_05.jpg,0
+..\..\dataset\4500\shipper\TEMU2422931_140227_03.jpg,1
+..\..\dataset\4500\owner\KWLU5091466_140617_02.jpg,0
+..\..\dataset\4500\owner\KWLU2092828_131207_02.jpg,0
+..\..\dataset\4500\shipper\KWLU1190476_130904_01.jpg,1
+..\..\dataset\4500\owner\KWLU5120820_130723_06.jpg,0
+..\..\dataset\4500\owner\KWLU3611851-B.jpg,0
+..\..\dataset\4500\owner\WFHU1349655_131202_04.jpg,0
+..\..\dataset\4500\owner\KWLU5133094-2.jpg,0
+..\..\dataset\4500\shipper\1702895764244.jpg,1
+..\..\dataset\4500\owner\KWLU5090876_140604_07.jpg,0
+..\..\dataset\4500\owner\GESU 5415215-3-1.jpg,0
+..\..\dataset\4500\owner\KWLU5355867_4.jpg,0
+..\..\dataset\4500\owner\WFHU5133659_140617_02.jpg,0
+..\..\dataset\4500\owner\TEMU2422700_130702_02.jpg,0
+..\..\dataset\4500\shipper\GESU2699843_130731_04.jpg,1
+..\..\dataset\4500\shipper\KWLU 2091077-1.JPG,1
+..\..\dataset\4500\owner\GESU3516320_130619_01.jpg,0
+..\..\dataset\4500\shipper\UESU5077683_140617_03.jpg,1
+..\..\dataset\4500\shipper\GESU5555768_140506_07.jpg,1
+..\..\dataset\4500\owner\KWLU2092746_131224_08.jpg,0
+..\..\dataset\4500\owner\TGHU6256168-2.jpg,0
+..\..\dataset\4500\shipper\KWLU 2070520-4.JPG,1
+..\..\dataset\4500\shipper\DSCF5493_0.jpg,1
+..\..\dataset\4500\owner\GESU3206026_130624_01.jpg,0
+..\..\dataset\4500\shipper\KWLU4070216_131004_02.jpg,1
+..\..\dataset\4500\owner\FSCU7538511_131207_02.jpg,0
+..\..\dataset\4500\shipper\WFHU5133659_131004_02.jpg,1
+..\..\dataset\4500\owner\GESU3033698_130611_07.jpg,0
+..\..\dataset\4500\owner\WFHU5029053-A.jpg,0
+..\..\dataset\4500\owner\KWLU2092812_130507_01.jpg,0
+..\..\dataset\4500\owner\GESU1407931_130520_02.jpg,0
+..\..\dataset\4500\shipper\KWCU 3627396-2.jpg,1
+..\..\dataset\4500\owner\KWLU2970034 (1).JPG,0
+..\..\dataset\4500\owner\UMLU2023684_130423_01.jpg,0
+..\..\dataset\4500\shipper\DSCF0038_0.jpg,1
+..\..\dataset\4500\owner\TEMU2421642-A.jpg,0
+..\..\dataset\4500\owner\KWLU2970728_130930_04.jpg,0
+..\..\dataset\4500\owner\XINU8196230_131001_04.jpg,0
+..\..\dataset\4500\shipper\KWLU2582152_130716_02.jpg,1
+..\..\dataset\4500\owner\KWLU5845186_131004_02.jpg,0
+..\..\dataset\4500\owner\KWLU 5121616-1.jpg,0
+..\..\dataset\4500\shipper\GESU 3903484-1-1.jpg,1
+..\..\dataset\4500\shipper\KWLU2120046_130401_06.jpg,1
+..\..\dataset\4500\shipper\WFHU1072391+ (1).JPG,1
+..\..\dataset\4500\shipper\GESU2723940_140227_06.jpg,1
+..\..\dataset\4500\owner\IDCU2014916_130426_01.jpg,0
+..\..\dataset\4500\owner\GESU2239468_130610_03.jpg,0
+..\..\dataset\4500\owner\GESU6575265_130930_05.jpg,0
+..\..\dataset\4500\owner\UESU5092878_140623_02.jpg,0
+..\..\dataset\4500\owner\KWLU5092586_140531_05.jpg,0
+..\..\dataset\4500\owner\KWLU 2122584-1.JPG,0
+..\..\dataset\4500\owner\220182_0.jpg,0
+..\..\dataset\4500\owner\GESU6574546_131202_07.jpg,0
+..\..\dataset\4500\owner\GESU6574865-4.jpg,0
+..\..\dataset\4500\shipper\GESU3904773_130610_05.jpg,1
+..\..\dataset\4500\owner\KWLU2090912_140618_03.jpg,0
+..\..\dataset\4500\owner\KWLU5091851_140604_02.jpg,0
+..\..\dataset\4500\owner\WFHU1349763_140624_01.jpg,0
+..\..\dataset\4500\owner\GESU5076636_131202_03.jpg,0
+..\..\dataset\4500\owner\GESU3904942_140210_04.jpg,0
+..\..\dataset\4500\shipper\GESU 1408394-1.JPG,1
+..\..\dataset\4500\owner\GESU 6920103-1.jpg,0
+..\..\dataset\4500\owner\CRXU9507972_140103_02.jpg,0
+..\..\dataset\4500\owner\KWLU2091396_140307_03.jpg,0
+..\..\dataset\4500\shipper\GESU6575305_140617_04.jpg,1
+..\..\dataset\4500\shipper\WFHU1349980_130527_03.jpg,1
+..\..\dataset\4500\owner\KWLU2092303_131224_04.jpg,0
+..\..\dataset\4500\owner\GESU 6380833-1.jpg,0
+..\..\dataset\4500\shipper\TGHU6256928-3.jpg,1
+..\..\dataset\4500\owner\GESU6576636_131202_01.jpg,0
+..\..\dataset\4500\owner\YMLU2705375_130702_02.jpg,0
+..\..\dataset\4500\owner\KWCU 2092860-1.jpg,0
+..\..\dataset\4500\owner\KWLU5122314_130930_02.jpg,0
+..\..\dataset\4500\shipper\KWLU2070686_140307_05.jpg,1
+..\..\dataset\4500\owner\TEMU2421703_130702_02.jpg,0
+..\..\dataset\4500\shipper\KWLU 2090717-2.jpg,1
+..\..\dataset\4500\owner\KWLU2092134-2.jpg,0
+..\..\dataset\4500\owner\XINU8196040-4.jpg,0
+..\..\dataset\4500\owner\KWLU2070881_130823_03.jpg,0
+..\..\dataset\4500\owner\KWLU2070330_140227_03.jpg,0
+..\..\dataset\4500\owner\TGHU6549438-C.jpg,0
+..\..\dataset\4500\owner\KWLU2070285_130520_05.jpg,0
+..\..\dataset\4500\owner\KWLU2070407_130520_01.jpg,0
+..\..\dataset\4500\owner\KWLU2090759_140226_01.jpg,0
+..\..\dataset\4500\owner\XINU8200670_131129_03.jpg,0
+..\..\dataset\4500\owner\KWLU2091570-B.jpg,0
+..\..\dataset\4500\shipper\GESU2120782_140603_04.jpg,1
+..\..\dataset\4500\owner\GESU2842147_130702_03.jpg,0
+..\..\dataset\4500\owner\UESU4735970-3.jpg,0
+..\..\dataset\4500\shipper\GESU6919252_140617_03.jpg,1
+..\..\dataset\4500\shipper\KWLU5120456_131004_04.jpg,1
+..\..\dataset\4500\shipper\KWCU 2070578-1.jpg,1
+..\..\dataset\4500\owner\KWLU5092204_130930_05.jpg,0
+..\..\dataset\4500\shipper\TEMU2425170_130625_02.jpg,1
+..\..\dataset\4500\owner\UESU5093468_140318_03.jpg,0
+..\..\dataset\4500\shipper\GESU6380448_140617_04.jpg,1
+..\..\dataset\4500\owner\GESU1406180_130626_05.jpg,0
+..\..\dataset\4500\owner\KWLU 3320692-1.jpg,0
+..\..\dataset\4500\owner\KWLU5091511_140506_01.jpg,0
+..\..\dataset\4500\owner\KWLU5120610_140617_01.jpg,0
+..\..\dataset\4500\shipper\GESU1263752_131207_04.jpg,1
+..\..\dataset\4500\owner\UMLU2023684_130423_03.jpg,0
+..\..\dataset\4500\owner\TGHU6256424_140616_01.jpg,0
+..\..\dataset\4500\shipper\KWLU2091565_131207_04.jpg,1
+..\..\dataset\4500\shipper\GESU1406323_130716_03.jpg,1
+..\..\dataset\4500\owner\TEMU2423748_130930_02.jpg,0
+..\..\dataset\4500\owner\GESU 2824837-1.jpg,0
+..\..\dataset\4500\owner\GESU3904963_130326_05.jpg,0
+..\..\dataset\4500\owner\KWLU3614589_130702_02.jpg,0
+..\..\dataset\4500\shipper\DSCF6254_0 (2).jpg,1
+..\..\dataset\4500\owner\TGHU6256260_130615_04.jpg,0
+..\..\dataset\4500\owner\KWLU2970923_140607_02.jpg,0
+..\..\dataset\4500\shipper\GESU3303659_130624_05.jpg,1
+..\..\dataset\4500\owner\GESU 6784584-1.jpg,0
+..\..\dataset\4500\owner\KWLU9695567-C.jpg,0
+..\..\dataset\4500\owner\GESU3904156_130507_01.jpg,0
+..\..\dataset\4500\owner\KWLU2092638-B.jpg,0
+..\..\dataset\4500\owner\KWLU2125156_131011_02.jpg,0
+..\..\dataset\4500\owner\GESU3904834_130520_02.jpg,0
+..\..\dataset\4500\owner\WFHU1172929_131220_03.jpg,0
+..\..\dataset\4500\owner\TEMU2424209-5.jpg,0
+..\..\dataset\4500\owner\TEMU2424209-C.jpg,0
+..\..\dataset\4500\owner\KWLU2092495_130704_01.jpg,0
+..\..\dataset\4500\shipper\GESU2865013_130730_01.jpg,1
+..\..\dataset\4500\owner\KWLU2122136_140617_02.jpg,0
+..\..\dataset\4500\owner\WFHU1349824_130812_02.jpg,0
+..\..\dataset\4500\shipper\GESU 5945299-1.jpg,1
+..\..\dataset\4500\shipper\KWLU 2070578-1.jpg,1
+..\..\dataset\4500\shipper\GESU3903041_140625_04.jpg,1
+..\..\dataset\4500\owner\GESU6379508-C.jpg,0
+..\..\dataset\4500\owner\WFHU1349824_130812_01.jpg,0
+..\..\dataset\4500\owner\GESU5763484-1.jpg,0
+..\..\dataset\4500\owner\GESU 1409699-3.JPG,0
+..\..\dataset\4500\owner\GATU0830835_130904_01.jpg,0
+..\..\dataset\4500\owner\TEMU2420266- (1).JPG,0
+..\..\dataset\4500\shipper\XINU8198193_130930_03.jpg,1
+..\..\dataset\4500\owner\GESU6379555_131004_04.jpg,0
+..\..\dataset\4500\owner\GESU 3902699-2.jpg,0
+..\..\dataset\4500\shipper\GESU6380556_131004_05 (3).jpg,1
+..\..\dataset\4500\shipper\TGHU6256131_140319_03.jpg,1
+..\..\dataset\4500\owner\GESU5532377_140611_06.jpg,0
+..\..\dataset\4500\owner\GESU2890968_130618_03.jpg,0
+..\..\dataset\4500\shipper\GESU5982986_130917_02.jpg,1
+..\..\dataset\4500\owner\KWLU5090201_131217_01.jpg,0
+..\..\dataset\4500\owner\KWLU4070828-B.jpg,0
+..\..\dataset\4500\shipper\GESU 5966373-2.jpg,1
+..\..\dataset\4500\shipper\GESU1299035_140616_08.jpg,1
+..\..\dataset\4500\shipper\GESU6017999 (1).JPG,1
+..\..\dataset\4500\shipper\SCZU7396960_130720_01.jpg,1
+..\..\dataset\4500\owner\TEMU2421410_140603_01.jpg,0
+..\..\dataset\4500\shipper\GESU3535968_130625_03.jpg,1
+..\..\dataset\4500\owner\KWLU2070731_130520_01.jpg,0
+..\..\dataset\4500\owner\TGHU6257884-4.jpg,0
+..\..\dataset\4500\owner\TEMU2421257-D.jpg,0
+..\..\dataset\4500\shipper\UESU4622715_131004_02.jpg,1
+..\..\dataset\4500\owner\TEMU2421160_140219_01.jpg,0
+..\..\dataset\4500\shipper\KWLU 5120498-1-1.JPG,1
+..\..\dataset\4500\owner\TEMU2421703_130702_01.jpg,0
+..\..\dataset\4500\owner\GESU6919571-1.jpg,0
+..\..\dataset\4500\owner\KWLU2070942_140219_01.jpg,0
+..\..\dataset\4500\owner\GESU3904984_130702_03.jpg,0
+..\..\dataset\4500\shipper\WFHU5141079_130723_04.jpg,1
+..\..\dataset\4500\owner\TEMU2422910_130625_02.jpg,0
+..\..\dataset\4500\owner\KWLU2070773_130528_01.jpg,0
+..\..\dataset\4500\owner\WFHU5133324-2.jpg,0
+..\..\dataset\4500\shipper\TEMU2423136_130326_05.jpg,1
+..\..\dataset\4500\owner\KWLU5092950-1.jpg,0
+..\..\dataset\4500\owner\KWLU 5090367-1.jpg,0
+..\..\dataset\4500\shipper\XINU8193294_130624_02.jpg,1
+..\..\dataset\4500\owner\KWLU2092812_130507_03.jpg,0
+..\..\dataset\4500\shipper\KWLU2130506_140607_02.jpg,1
+..\..\dataset\4500\shipper\KWLU2091586_131118_02.jpg,1
+..\..\dataset\4500\owner\CRXU9855788-B.jpg,0
+..\..\dataset\4500\shipper\KWLU 2070691-2.JPG,1
+..\..\dataset\4500\owner\KWLU5130500-5.jpg,0
+..\..\dataset\4500\owner\GESU3902940_131227_01.jpg,0
+..\..\dataset\4500\owner\UESU4782652-B.jpg,0
+..\..\dataset\4500\owner\GESU3903951_140616_06.jpg,0
+..\..\dataset\4500\owner\KWLU3608689_130904_01.jpg,0
+..\..\dataset\4500\shipper\WFHU5141227_130928_01.jpg,1
+..\..\dataset\4500\owner\KWLU2122516_130823_02.jpg,0
+..\..\dataset\4500\owner\TEMU2424209-4.jpg,0
+..\..\dataset\4500\owner\KWLU2070773_130528_05.jpg,0
+..\..\dataset\4500\shipper\TGHU6256086_140526_03.jpg,1
+..\..\dataset\4500\owner\GESU3904731-1.jpg,0
+..\..\dataset\4500\owner\GESU3262729_140618_02.jpg,0
+..\..\dataset\4500\shipper\TGHU6550906_131004_06.jpg,1
+..\..\dataset\4500\shipper\POCU0481314_140618_04.jpg,1
+..\..\dataset\4500\owner\GESU1406160_130610_02.jpg,0
+..\..\dataset\4500\owner\KWLU2070900_131220_03.jpg,0
+..\..\dataset\4500\shipper\KWLU5092668_131004_04.jpg,1
+..\..\dataset\4500\shipper\WFHU5132919_130720_02.jpg,1
+..\..\dataset\4500\owner\TEMU2420461-2.jpg,0
+..\..\dataset\4500\owner\GESU 3903925-1.jpg,0
+..\..\dataset\4500\shipper\KWCU 2092860-2.jpg,1
+..\..\dataset\4500\owner\GESU2643588_130619_01.jpg,0
+..\..\dataset\4500\shipper\FSCU7538511_131207_05.jpg,1
+..\..\dataset\4500\owner\SCZU7934813+ (3).JPG,0
+..\..\dataset\4500\shipper\KWLU2070623_130824_01 (3).jpg,1
+..\..\dataset\4500\owner\KWLU5091759-4.jpg,0
+..\..\dataset\4500\owner\GESU3724745_140531_02.jpg,0
+..\..\dataset\4500\owner\XINU4026597_131129_02.jpg,0
+..\..\dataset\4500\shipper\KWLU2970693_131118_05.jpg,1
+..\..\dataset\4500\owner\TGHU6256168-3.jpg,0
+..\..\dataset\4500\shipper\GESU1408394_130520_01.jpg,1
+..\..\dataset\4500\shipper\GESU3904201_130603_06.jpg,1
+..\..\dataset\4500\owner\KWLU2070829_140210_06.jpg,0
+..\..\dataset\4500\shipper\KWLU2091713- (3).JPG,1
+..\..\dataset\4500\shipper\1702895731686 (2).jpg,1
+..\..\dataset\4500\shipper\KWLU2130044_140607_02.jpg,1
+..\..\dataset\4500\owner\KWLU2122692_131202_01.jpg,0
+..\..\dataset\4500\shipper\CRXU9830692_140617_03.jpg,1
+..\..\dataset\4500\owner\GESU5424710_130617_02.jpg,0
+..\..\dataset\4500\shipper\GESU2723940_140227_07.jpg,1
+..\..\dataset\4500\shipper\WFHU1349932_140618_02.jpg,1
+..\..\dataset\4500\shipper\GESU3904259_140618_04.jpg,1
+..\..\dataset\4500\owner\GESU6916660_130617_01.jpg,0
+..\..\dataset\4500\owner\TEMU2425170-A.jpg,0
+..\..\dataset\4500\owner\WFHU1349824_130812_05.jpg,0
+..\..\dataset\4500\shipper\TEMU2420878_140319_03.jpg,1
+..\..\dataset\4500\owner\KWLU5120327-A.jpg,0
+..\..\dataset\4500\owner\GESU1409678-B.jpg,0
+..\..\dataset\4500\owner\WFHU1351170_130702_02.jpg,0
+..\..\dataset\4500\owner\KWLU2121607-3.jpg,0
+..\..\dataset\4500\owner\GESU3904217_130507_05.jpg,0
+..\..\dataset\4500\owner\GESU1263752_131207_02.jpg,0
+..\..\dataset\4500\owner\TEMU2420311-2.jpg,0
+..\..\dataset\4500\shipper\GESU6380730_131004_02.jpg,1
+..\..\dataset\4500\shipper\CRXU9830692_140617_02.jpg,1
+..\..\dataset\4500\shipper\GESU6908284_140902_06_9W-1_11zon.jpg,1
+..\..\dataset\4500\owner\GESU 3904290-1.JPG,0
+..\..\dataset\4500\shipper\GESU1409678_130716_03.jpg,1
+..\..\dataset\4500\shipper\FCIU2361487_130723_03.jpg,1
+..\..\dataset\4500\shipper\GESU3905091_140617_02.jpg,1
+..\..\dataset\4500\owner\TGHU6550906_131004_04.jpg,0
+..\..\dataset\4500\owner\GESU3903273_130520_03.jpg,0
+..\..\dataset\4500\shipper\KWLU2121910_140617_02.jpg,1
+..\..\dataset\4500\owner\TEMU2420435_130528_02.jpg,0
+..\..\dataset\4500\owner\KWLU2070881_130823_02.jpg,0
+..\..\dataset\4500\owner\KWLU4394750_130617_02.jpg,0
+..\..\dataset\4500\shipper\GESU3267910_130610_02.jpg,1
+..\..\dataset\4500\shipper\WFHU1285057_130520_01.jpg,1
+..\..\dataset\4500\shipper\FCIU2403920_140127_04.jpg,1
+..\..\dataset\4500\owner\KWLU5091511_140506_06.jpg,0
+..\..\dataset\4500\owner\KWLU2092432_130603_01.jpg,0
+..\..\dataset\4500\shipper\WFHU5133704_131217_02.jpg,1
+..\..\dataset\4500\owner\TEMU2425170-2.jpg,0
+..\..\dataset\4500\owner\GESU3904670_130528_02.jpg,0
+..\..\dataset\4500\owner\WFHU1280121_130619_01.jpg,0
+..\..\dataset\4500\shipper\UESU5114088_140604_02.jpg,1
+..\..\dataset\4500\owner\GESU3904259_140618_03.jpg,0
+..\..\dataset\4500\owner\KWLU2091230_130720_05.jpg,0
+..\..\dataset\4500\owner\KWLU2090050_140307_04.jpg,0
+..\..\dataset\4500\owner\GESU6380371_131129_02.jpg,0
+..\..\dataset\4500\owner\GESU6574865_140604_03.jpg,0
+..\..\dataset\4500\shipper\DSCF0031_0 (2).jpg,1
+..\..\dataset\4500\owner\TEMU2420693-A.jpg,0
+..\..\dataset\4500\owner\TGHU6550779_130930_05.jpg,0
+..\..\dataset\4500\owner\GESU3724745_140531_03.jpg,0
+..\..\dataset\4500\shipper\KWLU2070691+ (4).JPG,1
+..\..\dataset\4500\owner\KWLU5121262_130720_03.jpg,0
+..\..\dataset\4500\owner\GESU5424710_130617_03.jpg,0
+..\..\dataset\4500\shipper\GESU3904259_140618_05.jpg,1
+..\..\dataset\4500\shipper\TEMU2423795 (1).JPG,1
+..\..\dataset\4500\owner\KWLU5130238-B.jpg,0
+..\..\dataset\4500\owner\KWLU2092047_130401_01.jpg,0
+..\..\dataset\4500\owner\GESU 3902791-2.JPG,0
+..\..\dataset\4500\shipper\TEMU2420646_130520_02.jpg,1
+..\..\dataset\4500\shipper\TEMU 2421555-3.jpg,1
+..\..\dataset\4500\shipper\KWLU5813933_130805_03.jpg,1
+..\..\dataset\4500\shipper\GESU2723929_130716_03.jpg,1
+..\..\dataset\4500\owner\GATU0019371-1.jpg,0
+..\..\dataset\4500\owner\KWLU5090789-2.jpg,0
+..\..\dataset\4500\owner\GESU3033698_130809_01.jpg,0
+..\..\dataset\4500\shipper\GESU6915792_130726_05 (2).jpg,1
+..\..\dataset\4500\owner\GESU2980927_140219_04.jpg,0
+..\..\dataset\4500\owner\KWLU2970076_131220_02.jpg,0
+..\..\dataset\4500\shipper\KWLU5091229_131203_02.jpg,1
+..\..\dataset\4500\shipper\XINU8202879_130726_01.jpg,1
+..\..\dataset\4500\owner\TEMU 2421350-2.JPG,0
+..\..\dataset\4500\shipper\KWLU2090050_140307_05.jpg,1
+..\..\dataset\4500\owner\GESU6380263-3.jpg,0
+..\..\dataset\4500\shipper\GESU2723940_140227_03.jpg,1
+..\..\dataset\4500\owner\TGHU6549891-C.jpg,0
+..\..\dataset\4500\owner\KWLU2092936_130326_03.jpg,0
+..\..\dataset\4500\owner\TEMU 2420651-1.jpg,0
+..\..\dataset\4500\owner\GESU 2383095-2.jpg,0
+..\..\dataset\4500\owner\KWLU5090773-2.jpg,0
+..\..\dataset\4500\shipper\TGHU6256928-4.jpg,1
+..\..\dataset\4500\shipper\GESU2358174_130611_03.jpg,1
+..\..\dataset\4500\owner\8900353-AV-1110-010.jpg,0
+..\..\dataset\4500\owner\GESU2985826_130703_02.jpg,0
+..\..\dataset\4500\owner\TEMU2420435_130507_02.jpg,0
+..\..\dataset\4500\shipper\GESU6380005_140623_02.jpg,1
+..\..\dataset\4500\owner\CRXU9855788-2.jpg,0
+..\..\dataset\4500\owner\TGHU 6246302-1.jpg,0
+..\..\dataset\4500\shipper\CAXU6605100_140603_04.jpg,1
+..\..\dataset\4500\owner\KWLU4046415-3.jpg,0
+..\..\dataset\4500\shipper\GESU6575291-7.jpg,1
+..\..\dataset\4500\owner\KWLU 5090367-2.jpg,0
+..\..\dataset\4500\owner\TEMU2420311_130625_02.jpg,0
+..\..\dataset\4500\shipper\WFHU1349824_130326_08.jpg,1
+..\..\dataset\4500\shipper\KWLU2121340_130401_01.jpg,1
+..\..\dataset\4500\shipper\KWLU5092966_130617_03.jpg,1
+..\..\dataset\4500\shipper\WFHU1350065_140512_03.jpg,1
+..\..\dataset\4500\shipper\KWLU2091307-3.jpg,1
+..\..\dataset\4500\owner\GESU1407700_130528_08.jpg,0
+..\..\dataset\4500\owner\GATU0019371-A.jpg,0
+..\..\dataset\4500\owner\KWLU2091992-3.jpg,0
+..\..\dataset\4500\owner\KWLU2070330_140227_05.jpg,0
+..\..\dataset\4500\owner\GESU5418410- (3).JPG,0
+..\..\dataset\4500\owner\WFHU1349655_131202_05.jpg,0
+..\..\dataset\4500\owner\TEMU2421133_131118_06.jpg,0
+..\..\dataset\4500\shipper\GESU3903036_130520_01.jpg,1
+..\..\dataset\4500\owner\GESU2594014_130731_06.jpg,0
+..\..\dataset\4500\owner\GESU3903289_130930_07.jpg,0
+..\..\dataset\4500\owner\TGHU6256928-B.jpg,0
+..\..\dataset\4500\shipper\XINU8198193_130930_04.jpg,1
+..\..\dataset\4500\shipper\XINU8196230_131001_05.jpg,1
+..\..\dataset\4500\owner\GATU0830835- (3).JPG,0
+..\..\dataset\4500\owner\KWLU5091738-2.jpg,0
+..\..\dataset\4500\shipper\GSTU2976492_140603_03.jpg,1
+..\..\dataset\4500\owner\TGHU6257884_131202_06.jpg,0
+..\..\dataset\4500\shipper\GESU6574989_140604_03.jpg,1
+..\..\dataset\4500\owner\KWLU5092586_140531_01.jpg,0
+..\..\dataset\4500\shipper\GESU3033698_131118_04.jpg,1
+..\..\dataset\4500\owner\GESU6916762_130702_02.jpg,0
+..\..\dataset\4500\shipper\TEMU 2420902-4.jpg,1
+..\..\dataset\4500\owner\GESU6919226-5.jpg,0
+..\..\dataset\4500\owner\GESU3903720_130824_03.jpg,0
+..\..\dataset\4500\owner\KWLU5130520-C.jpg,0
+..\..\dataset\4500\owner\KWLU2070011_140618_03.jpg,0
+..\..\dataset\4500\owner\TEMU2425150-.JPG,0
+..\..\dataset\4500\owner\KWLU2120350_130812_04.jpg,0
+..\..\dataset\4500\shipper\GESU3725947_130702_04.jpg,1
+..\..\dataset\4500\owner\TGHU6256105-B.jpg,0
+..\..\dataset\4500\owner\KWLU2090569_131224_02.jpg,0
+..\..\dataset\4500\owner\KWLU2070048_131118_02.jpg,0
+..\..\dataset\4500\owner\KWLU2091380_130401_04.jpg,0
+..\..\dataset\4500\shipper\KWLU 2091349-3.JPG,1
+..\..\dataset\4500\shipper\KWLU2120046_130401_02.jpg,1
+..\..\dataset\4500\shipper\GESU5828800_140617_04.jpg,1
+..\..\dataset\4500\owner\GESU3233377_140307_03.jpg,0
+..\..\dataset\4500\shipper\GESU 5415215-4-1.jpg,1
+..\..\dataset\4500\owner\GESU2594014_130731_03.jpg,0
+..\..\dataset\4500\shipper\KWLU 2091550-1.jpg,1
+..\..\dataset\4500\shipper\GESU6380005_140623_02 (2).jpg,1
+..\..\dataset\4500\shipper\GESU3725000_140603_02.jpg,1
+..\..\dataset\4500\owner\KWLU2121309_140603_02.jpg,0
+..\..\dataset\4500\owner\GESU2721525_131118_04.jpg,0
+..\..\dataset\4500\owner\WFHU5133670_130613_02.jpg,0
+..\..\dataset\4500\shipper\K SEGU 6333116R (8) (Small)_1.jpg,1
+..\..\dataset\4500\owner\KWLU2130574_140227_04.jpg,0
+..\..\dataset\4500\shipper\XINU8198193_130930_02.jpg,1
+..\..\dataset\4500\shipper\CRXU1613900_140618_03.jpg,1
+..\..\dataset\4500\owner\KWLU2121530_140618_03.jpg,0
+..\..\dataset\4500\owner\KWLU5092992_130726_05.jpg,0
+..\..\dataset\4500\owner\WFHU5133427_131118_05.jpg,0
+..\..\dataset\4500\shipper\GESU3593774_140617_04.jpg,1
+..\..\dataset\4500\owner\KWLU3623889_130326_04.jpg,0
+..\..\dataset\4500\owner\KWLU2091842-A.jpg,0
+..\..\dataset\4500\owner\KWLU2092495_130704_02.jpg,0
+..\..\dataset\4500\owner\GESU3033698_130611_01.jpg,0
+..\..\dataset\4500\owner\KWLU3623889_130326_02.jpg,0
+..\..\dataset\4500\owner\GESU3902641_130520_02.jpg,0
+..\..\dataset\4500\shipper\GESU6919530_140624_07.jpg,1
+..\..\dataset\4500\owner\TRLU 8096095-1.jpg,0
+..\..\dataset\4500\shipper\TTNU2168270_140624_02.jpg,1
+..\..\dataset\4500\owner\KWLU2090569_131224_04.jpg,0
+..\..\dataset\4500\owner\KWLU2121417_140228_02.jpg,0
+..\..\dataset\4500\owner\GESU6575120-3.jpg,0
+..\..\dataset\4500\shipper\GESU6380005_140623_03.jpg,1
+..\..\dataset\4500\shipper\WFHU 1349681-3.JPG,1
+..\..\dataset\4500\owner\KWLU2092474-5.jpg,0
+..\..\dataset\4500\owner\GSTU3386736_140603_01.jpg,0
+..\..\dataset\4500\owner\WFHU5137736_131203_04.jpg,0
+..\..\dataset\4500\owner\KWLU2122007_140124_03.jpg,0
+..\..\dataset\4500\owner\KWLU5092312_140607_01.jpg,0
+..\..\dataset\4500\owner\WFHU1349824_130326_04.jpg,0
+..\..\dataset\4500\owner\CRXU1608077_140609_02.jpg,0
+..\..\dataset\4500\owner\TGHU6257523_131004_03.jpg,0
+..\..\dataset\4500\owner\GESU2823023_140603_03.jpg,0
+..\..\dataset\4500\shipper\CMUU2266756_131004_04.jpg,1
+..\..\dataset\4500\owner\GESU1406513-B.jpg,0
+..\..\dataset\4500\owner\KWLU 2091483-1.JPG,0
+..\..\dataset\4500\owner\WFHU5012390-4.jpg,0
+..\..\dataset\4500\owner\KWLU2091776_130507_01.jpg,0
+..\..\dataset\4500\owner\TEMU2420970_130923_02.jpg,0
+..\..\dataset\4500\shipper\WFHU 1351462-2-1.jpg,1
+..\..\dataset\4500\owner\TEMU2424209-2.jpg,0
+..\..\dataset\4500\owner\TTNU4362500-3.jpg,0
+..\..\dataset\4500\owner\KWLU2091821-B.jpg,0
+..\..\dataset\4500\owner\KWLU3607980_130730_01.jpg,0
+..\..\dataset\4500\shipper\KWLU2121947_130603_03.jpg,1
+..\..\dataset\4500\owner\KWLU2092772-4.jpg,0
+..\..\dataset\4500\owner\GESU6576683_130930_02.jpg,0
+..\..\dataset\4500\shipper\KWLU2092920_140227_04.jpg,1
+..\..\dataset\4500\owner\TEMU2420435_130528_01.jpg,0
+..\..\dataset\4500\owner\GESU1407700_130528_02.jpg,0
+..\..\dataset\4500\owner\圖片6.jpg,0
+..\..\dataset\4500\owner\KWLU 2122408-1.JPG,0
+..\..\dataset\4500\owner\KWLU5130942_131203_03.jpg,0
+..\..\dataset\4500\shipper\KWLU5120158_131004_03.jpg,1
+..\..\dataset\4500\owner\KWLU2536500-4.jpg,0
+..\..\dataset\4500\owner\KWLU2092005_140410_03.jpg,0
+..\..\dataset\4500\owner\TGHU6257523_131004_02.jpg,0
+..\..\dataset\4500\shipper\FSCU9888859_140617_02.jpg,1
+..\..\dataset\4500\shipper\KWLU5813933_130805_04.jpg,1
+..\..\dataset\4500\owner\TEMU2422931-1.jpg,0
+..\..\dataset\4500\shipper\K SEGU 6333116R (9) (Small)_0.jpg,1
+..\..\dataset\4500\shipper\GESU3106109_130726_03.jpg,1
+..\..\dataset\4500\owner\KWLU 2070032-1-1.jpg,0
+..\..\dataset\4500\owner\KWLU2970184_131118_01.jpg,0
+..\..\dataset\4500\owner\KWLU2120160_130528_02.jpg,0
+..\..\dataset\4500\owner\KWLU 2090717-1.jpg,0
+..\..\dataset\4500\shipper\KWLU5092668_131004_03.jpg,1
+..\..\dataset\4500\owner\GESU1298872_140603_02.jpg,0
+..\..\dataset\4500\owner\TGHU6550906_131004_13.jpg,0
+..\..\dataset\4500\owner\GESU 5410044-2-1.jpg,0
+..\..\dataset\4500\owner\TEMU2420970_130923_01.jpg,0
+..\..\dataset\4500\owner\KWLU2092448_130603_02.jpg,0
+..\..\dataset\4500\shipper\GESU3902765_130610_02.jpg,1
+..\..\dataset\4500\shipper\KWLU2070032_131004_03.jpg,1
+..\..\dataset\4500\shipper\GESU 1408202-4.jpg,1
+..\..\dataset\4500\shipper\GESU3904984_130702_05.jpg,1
+..\..\dataset\4500\owner\TEMU2420332_130610_02.jpg,0
+..\..\dataset\4500\owner\KWLU2092480_131207_04.jpg,0
+..\..\dataset\4500\owner\KWLU6580796_130730_02.jpg,0
+..\..\dataset\4500\shipper\TGHU6550779_130930_04.jpg,1
+..\..\dataset\4500\shipper\GESU2361481_130702_02.jpg,1
+..\..\dataset\4500\shipper\2002865 (2)_0.jpg,1
+..\..\dataset\4500\shipper\KWLU5813933-8.jpg,1
+..\..\dataset\4500\owner\KWLU5120163-3.jpg,0
+..\..\dataset\4500\owner\GESU3902641_130520_03.jpg,0
+..\..\dataset\4500\owner\KWLU2092746_140603_02.jpg,0
+..\..\dataset\4500\owner\WFHU1351077_140617_04.jpg,0
+..\..\dataset\4500\owner\KWLU5121827-3.jpg,0
+..\..\dataset\4500\owner\GESU6574823_130701_02.jpg,0
+..\..\dataset\4500\shipper\TEMU 2420651-2.jpg,1
+..\..\dataset\4500\shipper\GESU 1407715-1-3.JPG,1
+..\..\dataset\4500\owner\WFHU1349655_131004_04.jpg,0
+..\..\dataset\4500\owner\GESU3904855_140219_05.jpg,0
+..\..\dataset\4500\owner\GESU3904731_130816_01.jpg,0
+..\..\dataset\4500\shipper\TGHU6256131_140319_04.jpg,1
+..\..\dataset\4500\shipper\KWLU2121931_140609_02.jpg,1
+..\..\dataset\4500\owner\KWLU2070140_130603_02.jpg,0
+..\..\dataset\4500\owner\GESU6575120-2.jpg,0
+..\..\dataset\4500\owner\FSCU4256345-2.jpg,0
+..\..\dataset\4500\owner\GESU6574989-6.jpg,0
+..\..\dataset\4500\shipper\WFHU 1351462-3.jpg,1
+..\..\dataset\4500\owner\GESU3904942+ (1).JPG,0
+..\..\dataset\4500\shipper\TEMU 2421004-1.jpg,1
+..\..\dataset\4500\owner\GESU6380793.JPG,0
+..\..\dataset\4500\owner\TEMU2421196_140114_03.jpg,0
+..\..\dataset\4500\shipper\KWLU 5091738-1.jpg,1
+..\..\dataset\4500\shipper\GESU1409678- (1).JPG,1
+..\..\dataset\4500\shipper\SUDU5090747_130715_01.jpg,1
+..\..\dataset\4500\owner\GESU3458394_130326_01.jpg,0
+..\..\dataset\4500\shipper\GESU5828800_140617_12 (2).jpg,1
+..\..\dataset\4500\shipper\GESU5555768_140506_06.jpg,1
+..\..\dataset\4500\owner\KWLU2120832_131224_09.jpg,0
+..\..\dataset\4500\shipper\WFHU5138265_131004_03.jpg,1
+..\..\dataset\4500\owner\KWLU2092725_131207_03.jpg,0
+..\..\dataset\4500\owner\XINU4026597_131129_07.jpg,0
+..\..\dataset\4500\owner\KWLU5091403_130930_04.jpg,0
+..\..\dataset\4500\shipper\GESU2890968_130823_02.jpg,1
+..\..\dataset\4500\owner\KWLU5092992_130726_02.jpg,0
+..\..\dataset\4500\shipper\TEMU 2421093-2.JPG,1
+..\..\dataset\4500\shipper\GESU5424710_130617_08.jpg,1
+..\..\dataset\4500\owner\WLNU2907575-.JPG,0
+..\..\dataset\4500\owner\GESU6915597_140623_03.jpg,0
+..\..\dataset\4500\shipper\KWLU2970712_131207_03.jpg,1
+..\..\dataset\4500\owner\KWLU 5121690-1.jpg,0
+..\..\dataset\4500\shipper\TEMU 2421540-1.jpg,1
+..\..\dataset\4500\owner\KWLU2125156_131011_04.jpg,0
+..\..\dataset\4500\owner\GESU2594014_130731_01.jpg,0
+..\..\dataset\4500\owner\KWLU 2090300-1.jpg,0
+..\..\dataset\4500\owner\GESU1407952_131224_02.jpg,0
+..\..\dataset\4500\owner\KWLU2090147_140210_03.jpg,0
+..\..\dataset\4500\owner\KWLU5091050-B.jpg,0
+..\..\dataset\4500\owner\GESU5610340-B.jpg,0
+..\..\dataset\4500\shipper\KWLU2092140_140624_04.jpg,1
+..\..\dataset\4500\owner\KWLU5132729-B.jpg,0
+..\..\dataset\4500\shipper\XINU4026637_130930_02.jpg,1
+..\..\dataset\4500\owner\WFHU5137850_131129_03.jpg,0
+..\..\dataset\4500\shipper\GESU3303659_130624_06.jpg,1
+..\..\dataset\4500\shipper\GESU2525754_140618_04.jpg,1
+..\..\dataset\4500\owner\TEMU2420461-B.jpg,0
+..\..\dataset\4500\owner\FSCU3435602_130603_04.jpg,0
+..\..\dataset\4500\shipper\WFHU5141192_140526_03.jpg,1
+..\..\dataset\4500\owner\KWLU5130500-3.jpg,0
+..\..\dataset\4500\owner\GESU1409678-A.jpg,0
+..\..\dataset\4500\owner\KWLU2121905_130619_03.jpg,0
+..\..\dataset\4500\shipper\GESU2833989_130731_04.jpg,1
+..\..\dataset\4500\owner\KWLU2130574_140227_02.jpg,0
+..\..\dataset\4500\owner\KWLU2120350_130812_03.jpg,0
+..\..\dataset\4500\shipper\KWLU2120874_140617_02.jpg,1
+..\..\dataset\4500\owner\XINU8199800-A.jpg,0
+..\..\dataset\4500\shipper\1702895731686.jpg,1
+..\..\dataset\4500\shipper\4183130-DM-1209-006_0.jpg,1
+..\..\dataset\4500\owner\FHMU4191469_130909_01.jpg,0
+..\..\dataset\4500\owner\UESU5091932_140607_03.jpg,0
+..\..\dataset\4500\owner\KWLU5122818_131118_01.jpg,0
+..\..\dataset\4500\owner\GESU2726933_131224_01.jpg,0
+..\..\dataset\4500\shipper\GESU3904990_140603_02.jpg,1
+..\..\dataset\4500\shipper\GESU2237850_130805_03.jpg,1
+..\..\dataset\4500\owner\KWLU2121700_131224_04.jpg,0
+..\..\dataset\4500\owner\TEMU2422850-2.jpg,0
+..\..\dataset\4500\owner\CRXU4596452-2.jpg,0
+..\..\dataset\4500\owner\KWLU5092251_131202_03.jpg,0
+..\..\dataset\4500\shipper\CRXU9463030_140607_03.jpg,1
+..\..\dataset\4500\owner\WFHU1351380-3.jpg,0
+..\..\dataset\4500\shipper\GESU3903653_131207_03.jpg,1
+..\..\dataset\4500\shipper\KWLU5090876_140604_09.jpg,1
+..\..\dataset\4500\owner\GESU3905213_130619_04.jpg,0
+..\..\dataset\4500\shipper\GESU3587215_140603_03.jpg,1
+..\..\dataset\4500\owner\KWLU2122809_130507_07.jpg,0
+..\..\dataset\4500\owner\TRLU8075404_130617_06.jpg,0
+..\..\dataset\4500\shipper\GESU2941474_130625_02.jpg,1
+..\..\dataset\4500\owner\2920381.jpg,0
+..\..\dataset\4500\owner\KWLU2092920_140227_05.jpg,0
+..\..\dataset\4500\owner\KWLU5090080_130909_02.jpg,0
+..\..\dataset\4500\shipper\GESU3303659_130624_02.jpg,1
+..\..\dataset\4500\owner\KWLU2092746_131224_07.jpg,0
+..\..\dataset\4500\owner\TEMU2420651_130812_03.jpg,0
+..\..\dataset\4500\owner\XINU8196040-3.jpg,0
+..\..\dataset\4500\owner\KWLU2070027_131129_02.jpg,0
+..\..\dataset\4500\owner\GESU1406513-2.jpg,0
+..\..\dataset\4500\owner\KWLU2090152_140219_02.jpg,0
+..\..\dataset\4500\owner\KWLU2090532_140603_04.jpg,0
+..\..\dataset\4500\shipper\TEMU2420266- (2).JPG,1
+..\..\dataset\4500\shipper\GESU 3904731-4-1.JPG,1
+..\..\dataset\4500\owner\KWLU5090773-A.jpg,0
+..\..\dataset\4500\owner\TEMU2421344_140512_02.jpg,0
+..\..\dataset\4500\shipper\WFHU1285057_130520_05.jpg,1
+..\..\dataset\4500\owner\GESU3903490_140603_02.jpg,0
+..\..\dataset\4500\shipper\CRXU9842522_140210_02.jpg,1
+..\..\dataset\4500\owner\WFHU5137850_131129_04.jpg,0
+..\..\dataset\4500\owner\KWLU5092035_140604_02.jpg,0
+..\..\dataset\4500\shipper\KWLU5091403_130930_03.jpg,1
+..\..\dataset\4500\owner\KWLU 2121931-1.JPG,0
+..\..\dataset\4500\owner\装柜前照片1_0.jpg,0
+..\..\dataset\4500\owner\GESU3904963_130326_03.jpg,0
+..\..\dataset\4500\owner\GESU1406046_130520_02.jpg,0
+..\..\dataset\4500\owner\GESU6575120-4.jpg,0
+..\..\dataset\4500\owner\TGHU6256553_130702_01.jpg,0
+..\..\dataset\4500\owner\KWLU2120874_140617_01.jpg,0
+..\..\dataset\4500\shipper\1702354399037.jpg,1
+..\..\dataset\4500\shipper\WFHU1349758_140219_02.jpg,1
+..\..\dataset\4500\shipper\GESU3233377_140307_04.jpg,1
+..\..\dataset\4500\owner\GESU5906271_130617_01.jpg,0
+..\..\dataset\4500\owner\CAXU2509069_140226_05.jpg,0
+..\..\dataset\4500\owner\GESU1407757_130528_02.jpg,0
+..\..\dataset\4500\shipper\GESU1408012_130716_04 (2).jpg,1
+..\..\dataset\4500\shipper\KWLU 2091903-1-1.JPG,1
+..\..\dataset\4500\shipper\GESU3903720_130824_01.jpg,1
+..\..\dataset\4500\shipper\GESU2265908_130730_01.jpg,1
+..\..\dataset\4500\shipper\WFHU5133535_130930_04.jpg,1
+..\..\dataset\4500\shipper\TEMU 2421508-3.JPG,1
+..\..\dataset\4500\shipper\KWLU2070027_131129_03.jpg,1
+..\..\dataset\4500\shipper\GESU3904032_131207_06.jpg,1
+..\..\dataset\4500\owner\TGHU6550906_131004_16.jpg,0
+..\..\dataset\4500\shipper\4183130-DM-1209-003_0.jpg,1
+..\..\dataset\4500\owner\MOTU0638005_131021_03.jpg,0
+..\..\dataset\4500\owner\KWLU5090259+ (1).JPG,0
+..\..\dataset\4500\shipper\KWLU2092601_140219_02.jpg,1
+..\..\dataset\4500\owner\GESU3905070-3.jpg,0
+..\..\dataset\4500\owner\GESU2320203_131118_01.jpg,0
+..\..\dataset\4500\owner\GATU0320683_130610_04.jpg,0
+..\..\dataset\4500\owner\KWLU4070582-1.jpg,0
+..\..\dataset\4500\owner\TEMU2420944-A.jpg,0
+..\..\dataset\4500\owner\GESU2275681_130708_03.jpg,0
+..\..\dataset\4500\owner\GESU6919360_130726_04.jpg,0
+..\..\dataset\4500\owner\KWLU2090580_130603_02.jpg,0
+..\..\dataset\4500\owner\CAXU2996368_140618_04.jpg,0
+..\..\dataset\4500\owner\KWLU 2090785-3.JPG,0
+..\..\dataset\4500\shipper\TEMU2425186_130812_01.jpg,1
+..\..\dataset\4500\owner\KWLU2090580-C.jpg,0
+..\..\dataset\4500\owner\GESU 1406107-1.jpg,0
+..\..\dataset\4500\owner\GESU1405395_130528_02.jpg,0
+..\..\dataset\4500\owner\KWLU5091759-A.jpg,0
+..\..\dataset\4500\shipper\GESU  3903910-4.jpg,1
+..\..\dataset\4500\owner\KWLU5130876_131202_02.jpg,0
+..\..\dataset\4500\owner\KWLU3919633-D.jpg,0
+..\..\dataset\4500\owner\KWLU 2091288-2.jpg,0
+..\..\dataset\4500\owner\KWLU2970184_131118_03.jpg,0
+..\..\dataset\4500\owner\XINU8196040-5.jpg,0
+..\..\dataset\4500\owner\GESU2730070_130611_02.jpg,0
+..\..\dataset\4500\owner\TEMU 2422839-1.jpg,0
+..\..\dataset\4500\owner\WFHU 1349681-2.JPG,0
+..\..\dataset\4500\owner\KWLU5090789-C.jpg,0
+..\..\dataset\4500\shipper\K SEGU 5509915R (3) (Small)_0.jpg,1
+..\..\dataset\4500\owner\KWLU2092480_131209_02.jpg,0
+..\..\dataset\4500\owner\TEMU2422741_131118_04.jpg,0
+..\..\dataset\4500\owner\TEMU2421072-2.jpg,0
+..\..\dataset\4500\owner\KWLU2970712_130502_03.jpg,0
+..\..\dataset\4500\shipper\KWLU5121534-4.jpg,1
+..\..\dataset\4500\owner\GESU3902929_130816_01.jpg,0
+..\..\dataset\4500\owner\WFHU5140410-4.jpg,0
+..\..\dataset\4500\shipper\KWLU3627396+ (2).JPG,1
+..\..\dataset\4500\owner\KWLU2122650_130812_04.jpg,0
+..\..\dataset\4500\owner\KWLU2121464-2.jpg,0
+..\..\dataset\4500\owner\TEMU2422931-2.jpg,0
+..\..\dataset\4500\shipper\GESU 3628000-2-1.jpg,1
+..\..\dataset\4500\owner\GESU6920248_131004_03.jpg,0
+..\..\dataset\4500\owner\TEMU2420651_130812_04.jpg,0
+..\..\dataset\4500\owner\TEMU2423795-2.jpg,0
+..\..\dataset\4500\shipper\1697183732257_0.jpg,1
+..\..\dataset\4500\owner\GESU6574823_130701_01.jpg,0
+..\..\dataset\4500\owner\XINU4026318_131004_08.jpg,0
+..\..\dataset\4500\owner\KWLU2070135_131220_02.jpg,0
+..\..\dataset\4500\owner\GESU1405667_140219_03.jpg,0
+..\..\dataset\4500\owner\GESU 3904198-1-1.jpg,0
+..\..\dataset\4500\owner\TEMU2420311-1.jpg,0
+..\..\dataset\4500\owner\GESU3106562_130702_02.jpg,0
+..\..\dataset\4500\shipper\KWLU 5090475-2.jpg,1
+..\..\dataset\4500\shipper\KWLU 2091800-3.JPG,1
+..\..\dataset\4500\owner\GESU3903036_130520_03.jpg,0
+..\..\dataset\4500\shipper\TGHU 6246302-2.jpg,1
+..\..\dataset\4500\owner\GESU3903632_130625_03.jpg,0
+..\..\dataset\4500\owner\WFHU5137783-3.jpg,0
+..\..\dataset\4500\owner\PCIU 3519474-4.jpg,0
+..\..\dataset\4500\owner\GESU 2985430-1.jpg,0
+..\..\dataset\4500\shipper\GESU2643588_130619_03.jpg,1
+..\..\dataset\4500\owner\GESU5424710_130617_05.jpg,0
+..\..\dataset\4500\shipper\KWLU2121952_131224_03.jpg,1
+..\..\dataset\4500\owner\KWLU2090065-A.jpg,0
+..\..\dataset\4500\owner\KWLU2121037_130611_03.jpg,0
+..\..\dataset\4500\owner\TEMU2420461-C.jpg,0
+..\..\dataset\4500\owner\KWLU5130942_131203_02.jpg,0
+..\..\dataset\4500\shipper\GESU1406030_130520_07.jpg,1
+..\..\dataset\4500\owner\GESU6574130_140617_05.jpg,0
+..\..\dataset\4500\shipper\WFHU5094254_140604_04.jpg,1
+..\..\dataset\4500\owner\KWLU2091230_130720_01.jpg,0
+..\..\dataset\4500\shipper\1697183732514_0 (2).jpg,1
+..\..\dataset\4500\shipper\WFHU1349655_131202_08.jpg,1
+..\..\dataset\4500\owner\KWLU5092950-A.jpg,0
+..\..\dataset\4500\shipper\GESU2841768_130824_07.jpg,1
+..\..\dataset\4500\owner\KWLU2070752_140307_02.jpg,0
+..\..\dataset\4500\owner\GESU6574989-1.jpg,0
+..\..\dataset\4500\shipper\TEMU2421344_140512_05.jpg,1
+..\..\dataset\4500\shipper\GESU3135832_130716_02.jpg,1
+..\..\dataset\4500\owner\KWLU2122748_140624_01.jpg,0
+..\..\dataset\4500\shipper\KWLU5091363_130619_05.jpg,1
+..\..\dataset\4500\owner\KWLU5130520-3.jpg,0
+..\..\dataset\4500\owner\KWLU2970076_131220_01.jpg,0
+..\..\dataset\4500\owner\KWLU2090635_130626_01.jpg,0
+..\..\dataset\4500\owner\TEMU2421344_140512_06.jpg,0
+..\..\dataset\4500\owner\TEMU2420311-3.jpg,0
+..\..\dataset\4500\shipper\GESU5294129_130624_04.jpg,1
+..\..\dataset\4500\owner\KWLU2091143_130520_01.jpg,0
+..\..\dataset\4500\owner\CAXU6605100_140603_02.jpg,0
+..\..\dataset\4500\owner\TEMU2421160_140219_03.jpg,0
+..\..\dataset\4500\shipper\TEMU2420707-3.jpg,1
+..\..\dataset\4500\owner\GESU2320203_131118_03.jpg,0
+..\..\dataset\4500\owner\UESU4782652-4.jpg,0
+..\..\dataset\4500\shipper\KWLU5090053_131004_06.jpg,1
+..\..\dataset\4500\owner\YMLU2705375_130702_04.jpg,0
+..\..\dataset\4500\shipper\KWLU2092710_131004_03.jpg,1
+..\..\dataset\4500\owner\KWLU5090789-1.jpg,0
+..\..\dataset\4500\owner\GESU6379811_140617_05.jpg,0
+..\..\dataset\4500\owner\WFHU5029053-B.jpg,0
+..\..\dataset\4500\owner\KWLU2070876-B.jpg,0
+..\..\dataset\4500\owner\TEMU2422660_140326_05.jpg,0
+..\..\dataset\4500\owner\WFHU5141079_130723_02.jpg,0
+..\..\dataset\4500\owner\GESU6576750_140623_02.jpg,0
+..\..\dataset\4500\owner\KWLU2090580_131011_05.jpg,0
+..\..\dataset\4500\owner\KWLU 2091349-2.JPG,0
+..\..\dataset\4500\shipper\GESU 3904074-2.JPG,1
+..\..\dataset\4500\owner\YMLU2705375_130702_01.jpg,0
+..\..\dataset\4500\shipper\TEMU2420820_130528_02.jpg,1
+..\..\dataset\4500\shipper\TEMU 2420250-1.JPG,1
+..\..\dataset\4500\owner\KWLU2970163-4.jpg,0
+..\..\dataset\4500\shipper\KWLU2090759_140226_05.jpg,1
+..\..\dataset\4500\owner\TEMU2420482_140624_02.jpg,0
+..\..\dataset\4500\shipper\GESU6908279_130909_02.jpg,1
+..\..\dataset\4500\shipper\DSCF5475_0.jpg,1
+..\..\dataset\4500\shipper\GESU6808897-2.jpg,1
+..\..\dataset\4500\shipper\GESU 2726933-2.JPG,1
+..\..\dataset\4500\shipper\TEMU2421684_130603_06.jpg,1
+..\..\dataset\4500\shipper\GESU6575305_140617_05.jpg,1
+..\..\dataset\4500\owner\GESU3514693-B.jpg,0
+..\..\dataset\4500\shipper\FSCU3435602_130603_03.jpg,1
+..\..\dataset\4500\shipper\GESU2640300_140618_03.jpg,1
+..\..\dataset\4500\shipper\KWLU2091210- (1).JPG,1
+..\..\dataset\4500\owner\KWLU 2070161-2.JPG,0
