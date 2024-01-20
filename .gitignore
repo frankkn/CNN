@@ -2,6 +2,8 @@ dataset/*
 !dataset/demo/
 augmentation/*
 !/augmentation/data_aug/
-weight/
-2classes/4500/TEST.ipynb
+
+
 2classes/4500/.ipynb_checkpoints/
+2classes/4500/checkpoint/
+2classes/4500/dataset
