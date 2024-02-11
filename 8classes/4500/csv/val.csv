@@ -1,0 +1,448 @@
+img_path,label
+dataset\OWNER1_Door Damage\MOTU0638005_131021_03.jpg,0
+dataset\OWNER1_Door Damage\TEMU2421160_140219_02.jpg,0
+dataset\OWNER1_Door Damage\GESU6920248_131004_01.jpg,0
+dataset\OWNER4_Placards removal\KWLU5092950-3.jpg,3
+dataset\OWNER2_Panel dents or scratches\KWLU5120820_130723_05.jpg,1
+dataset\OWNER1_Door Damage\GESU6574989_140604_02.jpg,0
+"dataset\OWNER3_Panel aging, rust or breach\TEMU 2421508-2.JPG",2
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU 2090954-3-1.JPG",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU6580796_130904_03.jpg",4
+dataset\OWNER1_Door Damage\KWLU2070773_130528_01.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\2002865 (2)_0.jpg",4
+dataset\SHIPPER2_Panel or Sidewall protrusion\KKTU7291359_130520_04.jpg,5
+dataset\OWNER4_Placards removal\WFHU1172929_131220_03.jpg,3
+dataset\OWNER1_Door Damage\GESU2320203_131118_02.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU 6784584-2.jpg",4
+dataset\OWNER1_Door Damage\GESU6574865-3.jpg,0
+dataset\OWNER1_Door Damage\TEMU2422700_130702_02.jpg,0
+dataset\OWNER2_Panel dents or scratches\KWLU4130906-B.jpg,1
+dataset\SHIPPER2_Panel or Sidewall protrusion\GESU6575291-11.jpg,5
+dataset\OWNER2_Panel dents or scratches\KWLU2120200_130528_03.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU5091403_130930_02.jpg",4
+dataset\OWNER2_Panel dents or scratches\KWLU5092586_140531_03.jpg,1
+dataset\OWNER2_Panel dents or scratches\GESU2841768_130824_02.jpg,1
+dataset\OWNER2_Panel dents or scratches\UESU5069121-B.jpg,1
+dataset\OWNER1_Door Damage\TEMU2422778_131224_02.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU5518574_130925_02.jpg",4
+dataset\OWNER1_Door Damage\KWLU2091396_140307_03.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\FSCU3425055_130610_05.jpg",4
+dataset\OWNER1_Door Damage\KWLU 2090152-1.JPG,0
+dataset\OWNER1_Door Damage\GESU2865013_130610_02.jpg,0
+dataset\OWNER1_Door Damage\GESU1408012_130716_01.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\TGHU6550927-D.jpg",4
+dataset\OWNER1_Door Damage\GESU 3903925-1.jpg,0
+dataset\OWNER2_Panel dents or scratches\TEMU2421257-C.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU2092448_130603_05.jpg",4
+dataset\OWNER2_Panel dents or scratches\KWLU5120287-C.jpg,1
+dataset\OWNER1_Door Damage\TEMU 2424106-1.JPG,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU2890968_130823_02.jpg",4
+"dataset\OWNER3_Panel aging, rust or breach\KWLU 2120940-2.JPG",2
+dataset\OWNER1_Door Damage\KWLU5121262_130720_02.jpg,0
+dataset\OWNER2_Panel dents or scratches\GESU3458394_130326_04.jpg,1
+dataset\OWNER2_Panel dents or scratches\TEMU2420970_130923_01.jpg,1
+dataset\OWNER1_Door Damage\GESU6576750_140623_05.jpg,0
+dataset\SHIPPER3_Cross member or forklift pocket overweight-deformation\DSCF5474_0.jpg,6
+dataset\OWNER1_Door Damage\GESU3233377_140307_03.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\CRXU1613900_131224_02.jpg",4
+"dataset\OWNER3_Panel aging, rust or breach\WFHU5022320-B.jpg",2
+dataset\OWNER1_Door Damage\GESU2723940_140618_02.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU5532377_140611_04.jpg",4
+dataset\OWNER2_Panel dents or scratches\KWLU2070080_140624_02.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU2130569_140624_03.jpg",4
+dataset\OWNER1_Door Damage\KWLU2090635_140617_01.jpg,0
+dataset\OWNER1_Door Damage\GESU2723929_130716_02.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\TEMU2420878_140319_03.jpg",4
+dataset\OWNER2_Panel dents or scratches\GESU1407952_130824_05.jpg,1
+dataset\OWNER1_Door Damage\GESU 3902699-1.jpg,0
+dataset\SHIPPER4_Panel or Sidewalls dirts\GESU6017999 (1).JPG,7
+dataset\SHIPPER2_Panel or Sidewall protrusion\GESU6380005_140623_03.jpg,5
+dataset\OWNER1_Door Damage\KWLU6580796_130730_03.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU 3628000-2.jpg",4
+dataset\OWNER1_Door Damage\KWLU2270540_130430_01.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\FSCU 3416665-1.JPG",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU3902981_131207_09.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\WFHU1351288_140616_02.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU6574546_131202_05.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU3135832_130625_01.jpg",4
+dataset\OWNER2_Panel dents or scratches\GATU0320683_130610_01.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\WFHU5132858_131004_03.jpg",4
+dataset\OWNER2_Panel dents or scratches\KWLU2092474-5.jpg,1
+dataset\OWNER1_Door Damage\GESU3904773_130610_03.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU6380556_131004_04.jpg",4
+dataset\OWNER1_Door Damage\GATU0115821_130619_02.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU5813933_130805_06.jpg",4
+dataset\OWNER1_Door Damage\CCLU2435576_130528_05.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\XINU8199292_131007_05.jpg",4
+dataset\OWNER4_Placards removal\GESU3724745_140531_03.jpg,3
+dataset\SHIPPER3_Cross member or forklift pocket overweight-deformation\XINU4026386_131015_01.jpg,6
+dataset\OWNER1_Door Damage\GESU 1263080-1.jpg,0
+dataset\OWNER2_Panel dents or scratches\GESU1406180_130626_05.jpg,1
+dataset\OWNER1_Door Damage\KWLU2970353_130930_03.jpg,0
+dataset\OWNER1_Door Damage\GESU5906271_130617_02.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU2970163_131207_03.jpg",4
+dataset\OWNER1_Door Damage\KWLU5120517-2.jpg,0
+dataset\OWNER1_Door Damage\WFHU1350893_140618_01.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU5122084_131203_04.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\XINU8200855_130930_03.jpg",4
+dataset\OWNER1_Door Damage\TEMU2421642-A.jpg,0
+dataset\OWNER2_Panel dents or scratches\KWLU5090773-A.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\TTNU1411004 (2).JPG",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\XINU8199292_131007_03.jpg",4
+dataset\OWNER1_Door Damage\GATU0320683_130610_05.jpg,0
+dataset\OWNER2_Panel dents or scratches\GESU5828800_140617_10.jpg,1
+dataset\SHIPPER3_Cross member or forklift pocket overweight-deformation\KWLU2122440-2.jpg,6
+dataset\OWNER1_Door Damage\GESU6380793_131004_06.jpg,0
+dataset\OWNER1_Door Damage\YMLU2705375_130702_03.jpg,0
+dataset\OWNER2_Panel dents or scratches\圖片1.jpg,1
+dataset\OWNER2_Panel dents or scratches\KWLU5130644-3.jpg,1
+dataset\OWNER1_Door Damage\KWLU5132185_140607_02.jpg,0
+dataset\OWNER2_Panel dents or scratches\GESU3902940_131224_03.jpg,1
+dataset\OWNER1_Door Damage\KWLU5092288_131004_01.jpg,0
+dataset\OWNER2_Panel dents or scratches\KWLU1190476_130904_03.jpg,1
+dataset\OWNER2_Panel dents or scratches\KWLU2070900_131220_03.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU6574989_140604_03.jpg",4
+dataset\OWNER1_Door Damage\KWLU5090053_131004_04.jpg,0
+dataset\OWNER1_Door Damage\GESU3903484_131207_02.jpg,0
+dataset\OWNER1_Door Damage\TEMU2421914_131225_03.jpg,0
+dataset\OWNER1_Door Damage\KWLU2091230_130720_03.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\TGHU6257992_131007_05.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU3639134_140603_02.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU3904881_131207_03.jpg",4
+"dataset\OWNER3_Panel aging, rust or breach\44.jpg",2
+dataset\SHIPPER4_Panel or Sidewalls dirts\GESU 1407715-1-3.JPG,7
+dataset\SHIPPER2_Panel or Sidewall protrusion\1702354399037.jpg,5
+dataset\SHIPPER3_Cross member or forklift pocket overweight-deformation\GESU5076636_131210_02.jpg,6
+dataset\OWNER2_Panel dents or scratches\KWLU2092495_130704_02.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU2120046_130401_05.jpg",4
+"dataset\OWNER3_Panel aging, rust or breach\KWLU9695567-B.jpg",2
+dataset\OWNER2_Panel dents or scratches\TEMU2421025_130611_01.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU2841768_130824_07.jpg",4
+dataset\SHIPPER4_Panel or Sidewalls dirts\K SEKU 1102063R (6) (Small)_0.jpg,7
+dataset\OWNER1_Door Damage\GESU1299035_140616_04.jpg,0
+dataset\OWNER2_Panel dents or scratches\KWLU 2091760-2.JPG,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU3905091_140626_04.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU2070032_131004_02.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU3905039_130520_01.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU6379832_130928_01.jpg",4
+dataset\OWNER2_Panel dents or scratches\PCIU 3519474-3.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU6576770_131004_02.jpg",4
+dataset\OWNER1_Door Damage\GESU5763484-A.jpg,0
+dataset\OWNER2_Panel dents or scratches\8900353-AV-1110-002.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\WFHU1349969_140609_02.jpg",4
+dataset\OWNER2_Panel dents or scratches\KWLU2121504_130401_04.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\FHMU4191469_130909_03.jpg",4
+"dataset\OWNER3_Panel aging, rust or breach\GESU5555768_140506_15.jpg",2
+"dataset\SHIPPER1_Floor stains, contamination or cracks\TEMU2421344_140512_05.jpg",4
+dataset\OWNER2_Panel dents or scratches\TEMU2422850_140210_05.jpg,1
+dataset\OWNER1_Door Damage\XINU4026160_131129_02.jpg,0
+dataset\OWNER2_Panel dents or scratches\GESU6379431_140607_05.jpg,1
+dataset\OWNER2_Panel dents or scratches\TGHU6550906_131004_03.jpg,1
+dataset\OWNER1_Door Damage\TCNU9010936+ (1).JPG,0
+dataset\SHIPPER4_Panel or Sidewalls dirts\GESU 3459678-1.jpg,7
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GATU0115821_130619_03.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU2070011_131207_03.jpg",4
+dataset\OWNER1_Door Damage\KWLU2092134-3.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\TEMU2420646_130520_02.jpg",4
+dataset\OWNER2_Panel dents or scratches\CLHU2452974_130619_02.jpg,1
+dataset\OWNER2_Panel dents or scratches\KWLU5092204_130930_04.jpg,1
+dataset\OWNER1_Door Damage\KWLU2970029-3.jpg,0
+dataset\OWNER1_Door Damage\GESU2320203_131118_01.jpg,0
+dataset\OWNER2_Panel dents or scratches\KWLU2121700_131224_05.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU 3903484-2.jpg",4
+dataset\OWNER1_Door Damage\KWLU5090259+ (1).JPG,0
+dataset\OWNER1_Door Damage\KWLU3608689_130904_01.jpg,0
+dataset\OWNER1_Door Damage\XINU8199800-1.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU5555768_140506_07.jpg",4
+dataset\OWNER1_Door Damage\KWLU2121464-2.jpg,0
+dataset\OWNER1_Door Damage\WFHU1349980_130702_03.jpg,0
+dataset\SHIPPER2_Panel or Sidewall protrusion\KWLU2120236_140609_03.jpg,5
+dataset\OWNER1_Door Damage\GESU3107424-1.jpg,0
+dataset\OWNER1_Door Damage\GESU2409456_131004_02.jpg,0
+dataset\OWNER1_Door Damage\TEMU2421344-B.jpg,0
+dataset\SHIPPER2_Panel or Sidewall protrusion\GESU2841768_130824_06.jpg,5
+dataset\OWNER1_Door Damage\FSCU3435602_130603_02.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU2091375_130603_02.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU2723929_140219_03.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\TEMU 2421621-1.jpg",4
+dataset\OWNER1_Door Damage\XINU4026149_130909_01.jpg,0
+dataset\OWNER1_Door Damage\GESU3106562_130702_03.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU3904644_130430_02.jpg",4
+dataset\SHIPPER4_Panel or Sidewalls dirts\K SEKU 1102063R (4) (Small)_0.jpg,7
+dataset\OWNER2_Panel dents or scratches\GESU6916660_130617_01.jpg,1
+dataset\OWNER1_Door Damage\GESU3905023_131118_03.jpg,0
+dataset\SHIPPER3_Cross member or forklift pocket overweight-deformation\DSCF5476_0.jpg,6
+dataset\OWNER1_Door Damage\KWLU2070942_140219_01.jpg,0
+dataset\OWNER1_Door Damage\KWLU5122459-A.jpg,0
+dataset\OWNER2_Panel dents or scratches\GESU3903782_130619_03.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU5132550_140617_03.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\WFHU1072391+.JPG",4
+dataset\OWNER1_Door Damage\WFHU1350337_140616_02.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU2503652_130930_03.jpg",4
+dataset\OWNER2_Panel dents or scratches\KWLU 2091288-3.jpg,1
+dataset\OWNER1_Door Damage\CRXU1726207_130708_04.jpg,0
+dataset\OWNER1_Door Damage\KWLU4070582-3.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\WFHU5133670_130613_03.jpg",4
+"dataset\OWNER3_Panel aging, rust or breach\WFHU5133535_130930_02.jpg",2
+dataset\OWNER1_Door Damage\TGHU6549438-2.jpg,0
+dataset\OWNER1_Door Damage\KWLU3607980_130730_02.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU5091466_140617_04.jpg",4
+dataset\OWNER1_Door Damage\TEMU2425170-1.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU 1407757-2-1.JPG",4
+dataset\SHIPPER2_Panel or Sidewall protrusion\KWLU2120236_140609_02 (2).jpg,5
+dataset\OWNER1_Door Damage\KWLU2090532_140603_03.jpg,0
+dataset\OWNER4_Placards removal\KWLU5131764_140604_02.jpg,3
+"dataset\SHIPPER1_Floor stains, contamination or cracks\WFHU1350893_140618_02.jpg",4
+dataset\SHIPPER3_Cross member or forklift pocket overweight-deformation\KWLU2090928_140411_03.jpg,6
+dataset\OWNER2_Panel dents or scratches\XINU4026160_131129_03.jpg,1
+dataset\OWNER1_Door Damage\CRXU1726207_130708_03.jpg,0
+dataset\OWNER2_Panel dents or scratches\GESU2833989_130731_02.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU1407931_130520_03.jpg",4
+dataset\OWNER1_Door Damage\KWLU2122650_130812_01.jpg,0
+dataset\OWNER1_Door Damage\KWLU5132185_140607_07.jpg,0
+dataset\SHIPPER3_Cross member or forklift pocket overweight-deformation\85838_0.jpg,6
+dataset\OWNER2_Panel dents or scratches\WFHU1350430_130824_03.jpg,1
+dataset\OWNER2_Panel dents or scratches\TEMU2420435_130507_03.jpg,1
+dataset\OWNER1_Door Damage\GESU3106562_130702_04.jpg,0
+"dataset\OWNER3_Panel aging, rust or breach\XINU8198193_131129_03.jpg",2
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU2122590_130716_02.jpg",4
+dataset\OWNER2_Panel dents or scratches\TRLU5907922_140623_03.jpg,1
+dataset\OWNER1_Door Damage\IDCU2014325-A.jpg,0
+dataset\SHIPPER4_Panel or Sidewalls dirts\WFHU1072391+ (2).JPG,7
+dataset\OWNER2_Panel dents or scratches\UESU5069121-C.jpg,1
+dataset\OWNER1_Door Damage\TEMU2424913_140625_03.jpg,0
+dataset\OWNER1_Door Damage\KWLU 2091349-1.JPG,0
+dataset\OWNER2_Panel dents or scratches\KWLU2120956_130720_01.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU3593774_140617_04.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU5092668_131004_03.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU 3903484-1-1.jpg",4
+dataset\SHIPPER3_Cross member or forklift pocket overweight-deformation\KWLU5121534-8.jpg,6
+dataset\OWNER2_Panel dents or scratches\TGHU6256928-C.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU 6116369-1.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU1406180_130626_03.jpg",4
+dataset\OWNER4_Placards removal\GESU 6920103-1.jpg,3
+dataset\OWNER1_Door Damage\KWLU2070496-1.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\85836_0.jpg",4
+dataset\OWNER1_Door Damage\GESU4088930_140531_02.jpg,0
+dataset\OWNER1_Door Damage\WFHU1350620_140227_03.jpg,0
+dataset\OWNER1_Door Damage\KWLU4130573-2.jpg,0
+dataset\OWNER2_Panel dents or scratches\XINU8200979_131217_07.jpg,1
+dataset\SHIPPER3_Cross member or forklift pocket overweight-deformation\GESU5076636_131210_03 (2).jpg,6
+dataset\OWNER1_Door Damage\GESU6380793_131004_02.jpg,0
+dataset\OWNER2_Panel dents or scratches\TEMU2420311_130625_02.jpg,1
+dataset\OWNER1_Door Damage\KWLU3616473_130731_01.jpg,0
+"dataset\OWNER3_Panel aging, rust or breach\WFHU5022320-2.jpg",2
+dataset\SHIPPER3_Cross member or forklift pocket overweight-deformation\GESU3902678_130710_01.jpg,6
+dataset\OWNER1_Door Damage\KWLU2120350_130812_02.jpg,0
+dataset\OWNER2_Panel dents or scratches\GESU1405369_130610_01.jpg,1
+dataset\SHIPPER4_Panel or Sidewalls dirts\GESU 3904074-2.JPG,7
+dataset\OWNER2_Panel dents or scratches\KWLU2070475_130702_03.jpg,1
+"dataset\OWNER3_Panel aging, rust or breach\GESU2833989_130731_01.jpg",2
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU5828800_140617_05.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\WFHU1349758_140219_02.jpg",4
+dataset\OWNER1_Door Damage\KWLU2121530_140618_03.jpg,0
+dataset\OWNER1_Door Damage\KWLU5122818_131118_02.jpg,0
+dataset\OWNER1_Door Damage\KWLU 2090492-2.JPG,0
+dataset\OWNER1_Door Damage\KWLU2120350_130812_03.jpg,0
+dataset\OWNER2_Panel dents or scratches\GESU3902641_130520_04.jpg,1
+dataset\OWNER1_Door Damage\KWLU5090876_140604_02.jpg,0
+dataset\OWNER2_Panel dents or scratches\GESU5532377_140611_02.jpg,1
+dataset\OWNER2_Panel dents or scratches\GESU5418410- (4).JPG,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU 3904958-4.JPG",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU5555768_140506_05.jpg",4
+dataset\OWNER1_Door Damage\XINU8196230_131001_02.jpg,0
+dataset\OWNER1_Door Damage\KWLU1190476_130904_02.jpg,0
+dataset\OWNER1_Door Damage\KWLU2092746_131224_01.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU2122054_131207_05.jpg",4
+dataset\OWNER2_Panel dents or scratches\KWLU2092746_131224_09.jpg,1
+dataset\OWNER1_Door Damage\KWLU2120576_131118_02.jpg,0
+dataset\OWNER2_Panel dents or scratches\KWLU5091050-B.jpg,1
+dataset\OWNER1_Door Damage\GESU1406513-2.jpg,0
+dataset\OWNER2_Panel dents or scratches\GATU0019371-2.jpg,1
+dataset\OWNER2_Panel dents or scratches\KWLU 2091420-1.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU6541254_130716_03.jpg",4
+"dataset\OWNER3_Panel aging, rust or breach\GESU1406030_130823_02.jpg",2
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU6574546_131202_03.jpg",4
+dataset\OWNER1_Door Damage\KWLU2090297_130528_02.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU1408394_130520_01.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\WFHU5133704_131217_02.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\WFHU 1350527-2.JPG",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU6379832_130930_08.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\WFHU1350569_140219_03.jpg",4
+dataset\OWNER1_Door Damage\GESU6379811_140617_02.jpg,0
+dataset\OWNER1_Door Damage\GESU 5410044-2-1.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\TEMU 2421534-1.jpg",4
+dataset\OWNER2_Panel dents or scratches\KWLU2090569_131224_07.jpg,1
+dataset\OWNER1_Door Damage\GATU0823287.jpg,0
+dataset\OWNER1_Door Damage\KWLU5091851_140604_01.jpg,0
+dataset\OWNER2_Panel dents or scratches\GESU2240896_130603_01.jpg,1
+dataset\OWNER1_Door Damage\GESU 2727082-1.JPG,0
+dataset\OWNER1_Door Damage\KWLU5090310+.JPG,0
+dataset\OWNER1_Door Damage\GESU3904156_130507_01.jpg,0
+dataset\OWNER1_Door Damage\WFHU5141124_130723_01.jpg,0
+dataset\OWNER2_Panel dents or scratches\KWLU2120832_131224_04.jpg,1
+dataset\OWNER1_Door Damage\XINU8194834_130726_02.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU 3904665-3.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU2070475_130430_01.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU3903484_130528_02.jpg",4
+dataset\OWNER2_Panel dents or scratches\GESU2632135_130823_02.jpg,1
+dataset\OWNER1_Door Damage\GESU3904217_130507_02.jpg,0
+dataset\OWNER2_Panel dents or scratches\GESU6574865_131203_05.jpg,1
+dataset\OWNER1_Door Damage\KWLU 2092453-1.JPG,0
+dataset\OWNER1_Door Damage\KWLU4070089-3.jpg,0
+dataset\OWNER2_Panel dents or scratches\KWLU2091544_131004_03.jpg,1
+dataset\OWNER1_Door Damage\GESU1131550_140624_02.jpg,0
+dataset\OWNER2_Panel dents or scratches\GESU3904963_130326_04.jpg,1
+dataset\OWNER2_Panel dents or scratches\GESU3902791_130611_05.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU5130644_140531_02.jpg",4
+dataset\OWNER2_Panel dents or scratches\TEMU2421025_130611_02.jpg,1
+dataset\OWNER1_Door Damage\WFHU1350466_130610_02.jpg,0
+dataset\SHIPPER3_Cross member or forklift pocket overweight-deformation\85839.jpg,6
+dataset\OWNER1_Door Damage\WFHU1350553- (1).JPG,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\TTNU2168270_140624_03.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU6379766 (1).JPG",4
+dataset\OWNER2_Panel dents or scratches\KWLU2536500-3.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\TGHU6256390_131004_04.jpg",4
+dataset\OWNER2_Panel dents or scratches\GESU1405667_140219_06.jpg,1
+dataset\OWNER2_Panel dents or scratches\TGHU6549485_130726_02.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\TEMU2423584_131118_02.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\TEMU2421365_140618_09.jpg",4
+dataset\OWNER1_Door Damage\KWLU2070876-1.jpg,0
+dataset\OWNER1_Door Damage\FSCU7538511_131207_02.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU2070602_130812_01.jpg",4
+dataset\SHIPPER4_Panel or Sidewalls dirts\WFHU1351170_130702_06.jpg,7
+dataset\OWNER1_Door Damage\KWLU6580796_130730_04.jpg,0
+dataset\OWNER1_Door Damage\KWLU5132992-C.jpg,0
+dataset\OWNER1_Door Damage\GESU2530302_130619_03.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU 5966373-2-1.jpg",4
+dataset\OWNER1_Door Damage\KWLU2091689_140625_02.jpg,0
+dataset\OWNER2_Panel dents or scratches\GESU 2726933-1.JPG,1
+dataset\OWNER2_Panel dents or scratches\TEMU2420461-C.jpg,1
+dataset\OWNER1_Door Damage\GESU 3903530-2.jpg,0
+dataset\OWNER1_Door Damage\KWLU 2090954-1.JPG,0
+dataset\SHIPPER2_Panel or Sidewall protrusion\WFHU4083147_130930_05.jpg,5
+dataset\OWNER2_Panel dents or scratches\GESU6575265_130930_06.jpg,1
+dataset\OWNER1_Door Damage\GESU6380263-3.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\TGHU6549968_131126_05.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU6380793_131004_08.jpg",4
+dataset\OWNER1_Door Damage\KWLU5090201_131217_03.jpg,0
+dataset\OWNER2_Panel dents or scratches\GESU6576744.JPG,1
+dataset\OWNER1_Door Damage\CAXU2996368_140618_03.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU2092746_140603_04.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU6380448_140617_04.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU3701507_130904_02.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\UESU4622715_131004_03.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\WFHU5133788_131203_02.jpg",4
+dataset\OWNER1_Door Damage\KWLU2122007_140124_04.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU2091591_131002_06.jpg",4
+dataset\OWNER1_Door Damage\GESU1299035_140616_07.jpg,0
+dataset\OWNER1_Door Damage\GESU3516320_130619_01.jpg,0
+dataset\OWNER1_Door Damage\KWLU5132992-2.jpg,0
+dataset\OWNER2_Panel dents or scratches\KWLU5091229_131203_04.jpg,1
+dataset\OWNER1_Door Damage\GESU3902744_140603_02.jpg,0
+dataset\OWNER2_Panel dents or scratches\KWLU2092406_140625_04.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU 5091738-1.jpg",4
+"dataset\OWNER3_Panel aging, rust or breach\KWLU 2122408-1.JPG",2
+dataset\OWNER2_Panel dents or scratches\TEMU2421196_140114_02.jpg,1
+dataset\SHIPPER3_Cross member or forklift pocket overweight-deformation\WFHU 1351462-2-1 (2).jpg,6
+dataset\OWNER2_Panel dents or scratches\XINU8200979_131217_06.jpg,1
+dataset\OWNER1_Door Damage\XINU8200937_140526_02.jpg,0
+dataset\OWNER1_Door Damage\KWLU 2092772-2.JPG,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU 5415215-4-1.jpg",4
+dataset\SHIPPER3_Cross member or forklift pocket overweight-deformation\KWLU5813933- (1).JPG,6
+dataset\OWNER2_Panel dents or scratches\TTNU4362500-4.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU6379431_140607_03.jpg",4
+dataset\SHIPPER3_Cross member or forklift pocket overweight-deformation\GESU6919360_130726_08.jpg,6
+dataset\OWNER2_Panel dents or scratches\GESU6380200_131217_02.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU3904259_140618_05.jpg",4
+dataset\OWNER2_Panel dents or scratches\GESU3904156_130507_03.jpg,1
+dataset\OWNER2_Panel dents or scratches\TEMU2422660_140326_05.jpg,1
+dataset\OWNER2_Panel dents or scratches\8900353-AV-1110-005.jpg,1
+dataset\OWNER2_Panel dents or scratches\KWLU 2070557-2.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU2070794_130805_05.jpg",4
+dataset\OWNER1_Door Damage\TTNU1411004 (1).JPG,0
+dataset\OWNER1_Door Damage\KWLU4070582-1.jpg,0
+dataset\SHIPPER3_Cross member or forklift pocket overweight-deformation\WFHU 1350358-1.JPG,6
+dataset\OWNER2_Panel dents or scratches\KWLU2090677_140618_03.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU5130876_131202_03.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\TEMU 2420651-3.jpg",4
+dataset\OWNER2_Panel dents or scratches\XINU4026658_130805_03.jpg,1
+dataset\OWNER2_Panel dents or scratches\GATU0851150_130702_01.jpg,1
+dataset\OWNER1_Door Damage\WFHU1349568_130824_02.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU 2091550-1.jpg",4
+dataset\OWNER1_Door Damage\KWLU2122136_140617_02.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU2970693_131118_04.jpg",4
+dataset\OWNER2_Panel dents or scratches\WFHU 5132945-1.JPG,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU3903289_130930_03.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU2092073_130520_01.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU3903479_140625_03.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\TEMU2420878_140319_02.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU2092181_140227_02.jpg",4
+dataset\OWNER2_Panel dents or scratches\WFHU1350050_140609_02.jpg,1
+dataset\OWNER1_Door Damage\KWLU2092134-C.jpg,0
+dataset\OWNER2_Panel dents or scratches\TGHU 6246302-1.jpg,1
+dataset\SHIPPER4_Panel or Sidewalls dirts\K SEKU 1102063R (3) (Small)_0.jpg,7
+dataset\OWNER1_Door Damage\KWLU2130574_140227_04.jpg,0
+dataset\OWNER1_Door Damage\KWLU5090259+ (3).JPG,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU3902390_130610_04.jpg",4
+dataset\OWNER2_Panel dents or scratches\WFHU5133427_131118_06.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU4070387_131004_03.jpg",4
+dataset\OWNER2_Panel dents or scratches\GESU2405912_131118_02.jpg,1
+dataset\OWNER1_Door Damage\GESU3904773_130610_01.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\WFHU5138265_131004_02.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU5091511_140506_04.jpg",4
+dataset\OWNER1_Door Damage\KWLU 5121853-1.jpg,0
+dataset\OWNER1_Door Damage\TEMU2424209_130812_04.jpg,0
+dataset\OWNER1_Door Damage\FCIU2403920_140127_02.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\TEMU2424913_140625_04.jpg",4
+dataset\OWNER2_Panel dents or scratches\GESU3902770-3.jpg,1
+dataset\SHIPPER3_Cross member or forklift pocket overweight-deformation\GESU 3904958-1.JPG,6
+"dataset\OWNER3_Panel aging, rust or breach\GESU1406180_130626_04.jpg",2
+dataset\OWNER2_Panel dents or scratches\KWLU2091821-3.jpg,1
+dataset\OWNER2_Panel dents or scratches\KWLU2091230_130720_02.jpg,1
+dataset\OWNER1_Door Damage\TRLU8075404_130617_01.jpg,0
+dataset\SHIPPER3_Cross member or forklift pocket overweight-deformation\TGHU6256928-3.jpg,6
+dataset\OWNER2_Panel dents or scratches\GESU6574546_131202_07.jpg,1
+dataset\OWNER2_Panel dents or scratches\KWLU2120370_130720_03.jpg,1
+dataset\OWNER1_Door Damage\KWLU 2122584-2.JPG,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU2130044_140607_03.jpg",4
+"dataset\OWNER3_Panel aging, rust or breach\TRLU5883395-2.jpg",2
+dataset\OWNER1_Door Damage\CAXU2509069_140226_02.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\XINU8202879_130726_02.jpg",4
+dataset\OWNER1_Door Damage\KWLU2120956-1.jpg,0
+dataset\OWNER2_Panel dents or scratches\KWLU4046415-3.jpg,1
+dataset\OWNER1_Door Damage\KWLU2090050_140307_01.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU5131276_140604_02.jpg",4
+dataset\OWNER1_Door Damage\GESU3904731-2.jpg,0
+dataset\OWNER1_Door Damage\KWLU2121150_140607_02.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\XINU8198193_130930_02.jpg",4
+dataset\OWNER1_Door Damage\GESU3903885_130619_01.jpg,0
+dataset\OWNER1_Door Damage\TEMU2420461-1.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU 2070557-4.jpg",4
+dataset\OWNER2_Panel dents or scratches\TGHU6550906_131004_15.jpg,1
+dataset\OWNER2_Panel dents or scratches\KWLU2092772-3.jpg,1
+dataset\OWNER1_Door Damage\KWLU2970203_140624_01.jpg,0
+dataset\OWNER2_Panel dents or scratches\GESU5115898_140606_04.jpg,1
+dataset\OWNER2_Panel dents or scratches\TEMU2420409- (2).JPG,1
+dataset\OWNER2_Panel dents or scratches\WFHU5140410-4.jpg,1
+dataset\OWNER2_Panel dents or scratches\WFHU5133427_131118_04.jpg,1
+dataset\SHIPPER2_Panel or Sidewall protrusion\GESU2723940_140227_06.jpg,5
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU3905091_140626_03.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU2593635_131129_02.jpg",4
+dataset\OWNER2_Panel dents or scratches\UMLU2023684_130423_02.jpg,1
+dataset\OWNER1_Door Damage\KWLU2090717_130625_01.jpg,0
+dataset\OWNER2_Panel dents or scratches\TEMU2421133_131118_04.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU3634359_140307_02.jpg",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU3627396+ (2).JPG",4
+"dataset\SHIPPER1_Floor stains, contamination or cracks\XINU8199306_130720_02.jpg",4
+dataset\OWNER1_Door Damage\GESU3905213_130619_03.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU5310847_140617_08.jpg",4
+dataset\OWNER2_Panel dents or scratches\KWLU2122901_130603_01.jpg,1
+"dataset\SHIPPER1_Floor stains, contamination or cracks\GESU 6380010-1.jpg",4
+dataset\OWNER1_Door Damage\WFHU1351375-2.jpg,0
+dataset\OWNER2_Panel dents or scratches\WFHU1350553- (4).JPG,1
+"dataset\OWNER3_Panel aging, rust or breach\TEMU2422720- (2).JPG",2
+dataset\OWNER1_Door Damage\KWLU5090428-B.jpg,0
+"dataset\SHIPPER1_Floor stains, contamination or cracks\KWLU5090747_130715_02.jpg",4
+dataset\OWNER1_Door Damage\SCZU7934813+ (1).JPG,0
+dataset\OWNER1_Door Damage\GESU 3904140-1.jpg,0
