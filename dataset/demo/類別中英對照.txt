@@ -1,0 +1,28 @@
+OWNER:
+
+1) 櫃門撞擊損壞(含門桿) 
+Door damage 
+
+2) 壁板撞擊內凹或刮花
+Panel dents or scratches
+
+3) 壁板/頂板老化生鏽或破洞3
+Panel aging, rust or breach
+
+4) 貨櫃危險標誌撕除
+Placards removal
+
+
+SHIPPER:
+
+1) 地板髒汙或裂痕
+Floor stains, contamination or cracks
+
+2) 貨物撞擊壁板凸出
+Panel/Sidewall protrusion
+
+3) 底架樑柱/插槽過重變形
+Cross member or forklift pocket overweight-deformation
+
+4) 內部壁板髒污
+Panel or Sidewalls dirts
