@@ -1,0 +1,2001 @@
+img_path,label
+dataset\CARRIER\WFHU5133670_130613_02.jpg,0
+dataset\SHIPPER\2315_selected_image (2).jpg,1
+dataset\SHIPPER\722_selected_image (2).jpg,1
+dataset\CARRIER\797_selected_image (2).jpg,0
+dataset\SHIPPER\1047_selected_image.jpg,1
+dataset\SHIPPER\1322_selected_image.jpg,1
+dataset\SHIPPER\890_selected_image.jpg,1
+dataset\SHIPPER\KWLU 5091738-1.jpg,1
+dataset\CARRIER\1355_selected_image.jpg,0
+dataset\CARRIER\1684_selected_image (2).jpg,0
+dataset\SHIPPER\2161_selected_image (2).jpg,1
+dataset\CARRIER\313_selected_image.jpg,0
+dataset\CARRIER\2067_selected_image.jpg,0
+dataset\SHIPPER\KWLU2092284- (3).JPG,1
+dataset\SHIPPER\TGHU6266525_131004_05.jpg,1
+dataset\SHIPPER\TEMU2420380_131202_03.jpg,1
+dataset\SHIPPER\1550_selected_image (3).jpg,1
+dataset\SHIPPER\1432_selected_image (3).jpg,1
+dataset\CARRIER\289_selected_image (3).jpg,0
+dataset\CARRIER\2337_selected_image (2).jpg,0
+dataset\CARRIER\TGHU6256126-B.jpg,0
+dataset\SHIPPER\1044_selected_image (2).jpg,1
+dataset\CARRIER\108_selected_image.jpg,0
+dataset\CARRIER\942_selected_image (2).jpg,0
+dataset\SHIPPER\XINU8199292_131007_05.jpg,1
+dataset\CARRIER\325_selected_image (2).jpg,0
+dataset\SHIPPER\2323_selected_image (3).jpg,1
+dataset\CARRIER\298_selected_image (3).jpg,0
+dataset\SHIPPER\1569_selected_image (2).jpg,1
+dataset\CARRIER\TEMU2422700_130702_01.jpg,0
+dataset\CARRIER\WFHU1285817-.JPG,0
+dataset\CARRIER\1734_selected_image.jpg,0
+dataset\CARRIER\KWLU2070182_131004_06.jpg,0
+dataset\SHIPPER\941_selected_image (4).jpg,1
+dataset\SHIPPER\GESU5555768_140506_03.jpg,1
+dataset\CARRIER\WFHU5137593_131004_04.jpg,0
+dataset\SHIPPER\883_selected_image (2).jpg,1
+dataset\CARRIER\322_selected_image (2).jpg,0
+dataset\SHIPPER\1530_selected_image.jpg,1
+dataset\SHIPPER\4_selected_image (2).jpg,1
+dataset\CARRIER\KWLU 2090785-3.JPG,0
+dataset\SHIPPER\314_selected_image.jpg,1
+dataset\CARRIER\1650_selected_image.jpg,0
+dataset\CARRIER\TEMU2422850_140210_04.jpg,0
+dataset\CARRIER\1338_selected_image.jpg,0
+dataset\SHIPPER\1048_selected_image (4).jpg,1
+dataset\CARRIER\61_selected_image (2).jpg,0
+dataset\SHIPPER\1703_selected_image (2).jpg,1
+dataset\CARRIER\2211_selected_image (2).jpg,0
+dataset\SHIPPER\448_selected_image.jpg,1
+dataset\CARRIER\1920_selected_image.jpg,0
+dataset\CARRIER\594_selected_image (2).jpg,0
+dataset\CARRIER\WFHU5140410-3.jpg,0
+dataset\SHIPPER\519_selected_image (4).jpg,1
+dataset\CARRIER\543_selected_image.jpg,0
+dataset\SHIPPER\611_selected_image (4).jpg,1
+dataset\CARRIER\587_selected_image (3).jpg,0
+dataset\SHIPPER\1446_selected_image (2).jpg,1
+dataset\CARRIER\TGHU6549572_140409_03.jpg,0
+dataset\SHIPPER\2332_selected_image.jpg,1
+dataset\SHIPPER\625_selected_image.jpg,1
+dataset\CARRIER\1181_selected_image (2).jpg,0
+dataset\CARRIER\1272_selected_image (2).jpg,0
+dataset\CARRIER\625_selected_image (3).jpg,0
+dataset\SHIPPER\2094_selected_image (2).jpg,1
+dataset\SHIPPER\1888_selected_image (3).jpg,1
+dataset\CARRIER\KWLU4070828-A.jpg,0
+dataset\SHIPPER\1950_selected_image.jpg,1
+dataset\SHIPPER\650_selected_image (3).jpg,1
+dataset\CARRIER\858_selected_image.jpg,0
+dataset\CARRIER\191_selected_image (3).jpg,0
+dataset\SHIPPER\649_selected_image.jpg,1
+dataset\SHIPPER\292_selected_image (2).jpg,1
+dataset\SHIPPER\425_selected_image (2).jpg,1
+dataset\CARRIER\2282_selected_image (2).jpg,0
+dataset\CARRIER\110_selected_image (2).jpg,0
+dataset\SHIPPER\KWLU2092303_131224_06.jpg,1
+dataset\CARRIER\653_selected_image (2).jpg,0
+dataset\CARRIER\2283_selected_image.jpg,0
+dataset\CARRIER\1169_selected_image (2).jpg,0
+dataset\CARRIER\98_selected_image (2).jpg,0
+dataset\CARRIER\377_selected_image (4).jpg,0
+dataset\CARRIER\WFHU1349803+ (5).JPG,0
+dataset\CARRIER\572_selected_image (2).jpg,0
+dataset\SHIPPER\1893_selected_image (2).jpg,1
+dataset\CARRIER\600_selected_image.jpg,0
+dataset\SHIPPER\GESU3584535_130430_02.jpg,1
+dataset\CARRIER\507_selected_image (3).jpg,0
+dataset\SHIPPER\795_selected_image (3).jpg,1
+dataset\SHIPPER\1408_selected_image (2).jpg,1
+dataset\SHIPPER\2135_selected_image (3).jpg,1
+dataset\SHIPPER\1244_selected_image (2).jpg,1
+dataset\CARRIER\KWLU2090297_130528_01.jpg,0
+dataset\SHIPPER\KWLU5091511_140506_02.jpg,1
+dataset\CARRIER\XINU8200855_130930_04.jpg,0
+dataset\CARRIER\817_selected_image (3).jpg,0
+dataset\SHIPPER\368_selected_image.jpg,1
+dataset\CARRIER\1218_selected_image (3).jpg,0
+dataset\CARRIER\1709_selected_image.jpg,0
+dataset\SHIPPER\830_selected_image.jpg,1
+dataset\SHIPPER\2231_selected_image (2).jpg,1
+dataset\SHIPPER\1850_selected_image.jpg,1
+dataset\CARRIER\GESU6574150_131004_04.jpg,0
+dataset\SHIPPER\1267_selected_image.jpg,1
+dataset\CARRIER\KWLU2070768_130625_02.jpg,0
+dataset\CARRIER\40_selected_image (4).jpg,0
+dataset\SHIPPER\WFHU4026738_130805_05.jpg,1
+dataset\SHIPPER\948_selected_image (2).jpg,1
+dataset\SHIPPER\497_selected_image (4).jpg,1
+dataset\CARRIER\298_selected_image (4).jpg,0
+dataset\SHIPPER\237_selected_image.jpg,1
+dataset\SHIPPER\2195_selected_image.jpg,1
+dataset\SHIPPER\2037_selected_image.jpg,1
+dataset\SHIPPER\1810_selected_image (3).jpg,1
+dataset\SHIPPER\2094_selected_image (3).jpg,1
+dataset\CARRIER\30_selected_image (4).jpg,0
+dataset\CARRIER\2358_selected_image.jpg,0
+dataset\CARRIER\1063_selected_image (3).jpg,0
+dataset\CARRIER\226_selected_image (2).jpg,0
+dataset\SHIPPER\928_selected_image (2).jpg,1
+dataset\CARRIER\693_selected_image (4).jpg,0
+dataset\CARRIER\FSCU7626232_131224_02.jpg,0
+dataset\CARRIER\TRLU5883395-3.jpg,0
+dataset\CARRIER\775_selected_image.jpg,0
+dataset\CARRIER\1545_selected_image.jpg,0
+dataset\SHIPPER\526_selected_image (4).jpg,1
+dataset\SHIPPER\943_selected_image (2).jpg,1
+dataset\CARRIER\TEMU2423769-4.jpg,0
+dataset\SHIPPER\2087_selected_image (2).jpg,1
+dataset\CARRIER\839_selected_image (2).jpg,0
+dataset\CARRIER\KWLU5092420_140115_02.jpg,0
+dataset\SHIPPER\KWLU2090928_140411_03.jpg,1
+dataset\SHIPPER\287_selected_image.jpg,1
+dataset\CARRIER\2299_selected_image.jpg,0
+dataset\CARRIER\688_selected_image (3).jpg,0
+dataset\SHIPPER\908_selected_image (2).jpg,1
+dataset\SHIPPER\1468_selected_image (3).jpg,1
+dataset\CARRIER\737_selected_image.jpg,0
+dataset\SHIPPER\415_selected_image.jpg,1
+dataset\SHIPPER\2009_selected_image.jpg,1
+dataset\SHIPPER\2283_selected_image (3).jpg,1
+dataset\CARRIER\16_selected_image.jpg,0
+dataset\CARRIER\GESU6379787_140607_03.jpg,0
+dataset\CARRIER\395_selected_image (2).jpg,0
+dataset\CARRIER\CAXU6605100_140603_02.jpg,0
+dataset\CARRIER\387_selected_image (2).jpg,0
+dataset\CARRIER\XINU8199498_130726_01.jpg,0
+dataset\SHIPPER\TEMU 2424148-2.jpg,1
+dataset\SHIPPER\1841_selected_image (3).jpg,1
+dataset\CARRIER\988_selected_image (4).jpg,0
+dataset\SHIPPER\255_selected_image (4).jpg,1
+dataset\SHIPPER\997_selected_image (4).jpg,1
+dataset\CARRIER\71_selected_image (4).jpg,0
+dataset\CARRIER\298_selected_image (2).jpg,0
+dataset\CARRIER\328_selected_image (2).jpg,0
+dataset\CARRIER\196_selected_image (3).jpg,0
+dataset\CARRIER\580_selected_image (4).jpg,0
+dataset\CARRIER\195_selected_image.jpg,0
+dataset\SHIPPER\2134_selected_image.jpg,1
+dataset\SHIPPER\178_selected_image (2).jpg,1
+dataset\SHIPPER\2312_selected_image.jpg,1
+dataset\SHIPPER\837_selected_image.jpg,1
+dataset\SHIPPER\2305_selected_image.jpg,1
+dataset\SHIPPER\490_selected_image.jpg,1
+dataset\CARRIER\813_selected_image (4).jpg,0
+dataset\SHIPPER\764_selected_image (4).jpg,1
+dataset\CARRIER\634_selected_image (3).jpg,0
+dataset\CARRIER\263_selected_image (4).jpg,0
+dataset\SHIPPER\WFHU 1351267-1.jpg,1
+dataset\CARRIER\KWLU2123003_140603_03.jpg,0
+dataset\CARRIER\KWLU2092936_130326_02.jpg,0
+dataset\SHIPPER\2193_selected_image (2).jpg,1
+dataset\SHIPPER\1753_selected_image (2).jpg,1
+dataset\CARRIER\KWLU2092772-5.jpg,0
+dataset\SHIPPER\2236_selected_image.jpg,1
+dataset\SHIPPER\2329_selected_image (3).jpg,1
+dataset\CARRIER\725_selected_image (3).jpg,0
+dataset\CARRIER\2122_selected_image.jpg,0
+dataset\SHIPPER\179_selected_image.jpg,1
+dataset\SHIPPER\1682_selected_image.jpg,1
+dataset\CARRIER\74_selected_image (3).jpg,0
+dataset\CARRIER\TGHU6257884-4.jpg,0
+dataset\SHIPPER\1323_selected_image (2).jpg,1
+dataset\SHIPPER\893_selected_image.jpg,1
+dataset\SHIPPER\WFHU5133788_131203_03.jpg,1
+dataset\SHIPPER\KWLU2091441_130520_02.jpg,1
+dataset\SHIPPER\795_selected_image (4).jpg,1
+dataset\CARRIER\257_selected_image.jpg,0
+dataset\CARRIER\281_selected_image.jpg,0
+dataset\SHIPPER\116_selected_image (3).jpg,1
+dataset\CARRIER\1003_selected_image (3).jpg,0
+dataset\SHIPPER\2166_selected_image (3).jpg,1
+dataset\SHIPPER\1286_selected_image (3).jpg,1
+dataset\CARRIER\1623_selected_image.jpg,0
+dataset\SHIPPER\504_selected_image.jpg,1
+dataset\CARRIER\2094_selected_image (2).jpg,0
+dataset\SHIPPER\1426_selected_image.jpg,1
+dataset\SHIPPER\1179_selected_image.jpg,1
+dataset\CARRIER\692_selected_image (2).jpg,0
+dataset\SHIPPER\1439_selected_image (3).jpg,1
+dataset\SHIPPER\2233_selected_image (3).jpg,1
+dataset\CARRIER\KWLU2092638-3.jpg,0
+dataset\SHIPPER\619_selected_image (4).jpg,1
+dataset\SHIPPER\224_selected_image.jpg,1
+dataset\SHIPPER\1485_selected_image (3).jpg,1
+dataset\SHIPPER\602_selected_image (3).jpg,1
+dataset\CARRIER\296_selected_image (4).jpg,0
+dataset\SHIPPER\1929_selected_image (2).jpg,1
+dataset\CARRIER\GESU3904114_130624_03.jpg,0
+dataset\CARRIER\KWLU1190476_130904_02.jpg,0
+dataset\SHIPPER\1361_selected_image (2).jpg,1
+dataset\SHIPPER\GESU1405667_140219_04.jpg,1
+dataset\CARRIER\538_selected_image.jpg,0
+dataset\CARRIER\TEMU2422783_131224_06.jpg,0
+dataset\SHIPPER\54_selected_image.jpg,1
+dataset\SHIPPER\1305_selected_image (3).jpg,1
+dataset\SHIPPER\1886_selected_image.jpg,1
+dataset\CARRIER\929_selected_image.jpg,0
+dataset\CARRIER\GESU 3904752-1.jpg,0
+dataset\SHIPPER\2318_selected_image (2).jpg,1
+dataset\CARRIER\1718_selected_image (2).jpg,0
+dataset\SHIPPER\1295_selected_image (2).jpg,1
+dataset\SHIPPER\1974_selected_image (3).jpg,1
+dataset\SHIPPER\390_selected_image (2).jpg,1
+dataset\SHIPPER\GESU3902981_130720_01.jpg,1
+dataset\CARRIER\127_selected_image.jpg,0
+dataset\CARRIER\233_selected_image.jpg,0
+dataset\SHIPPER\1520_selected_image.jpg,1
+dataset\SHIPPER\TEMU2421684_130603_05.jpg,1
+dataset\SHIPPER\2110_selected_image (3).jpg,1
+dataset\CARRIER\156_selected_image (3).jpg,0
+dataset\CARRIER\GESU2336431_130702_01.jpg,0
+dataset\SHIPPER\KWLU4070216_131004_02.jpg,1
+dataset\SHIPPER\1541_selected_image (2).jpg,1
+dataset\SHIPPER\1669_selected_image.jpg,1
+dataset\SHIPPER\1127_selected_image (3).jpg,1
+dataset\SHIPPER\333_selected_image (4).jpg,1
+dataset\SHIPPER\KWLU2091591_131002_05.jpg,1
+dataset\CARRIER\KWLU2070259_130812_01.jpg,0
+dataset\SHIPPER\TEMU 2422850-1.JPG,1
+dataset\CARRIER\2194_selected_image.jpg,0
+dataset\CARRIER\2169_selected_image.jpg,0
+dataset\SHIPPER\1478_selected_image (2).jpg,1
+dataset\SHIPPER\1151_selected_image.jpg,1
+dataset\CARRIER\531_selected_image.jpg,0
+dataset\SHIPPER\1040_selected_image.jpg,1
+dataset\SHIPPER\2369_selected_image (2).jpg,1
+dataset\SHIPPER\1793_selected_image (2).jpg,1
+dataset\CARRIER\568_selected_image (3).jpg,0
+dataset\CARRIER\916_selected_image.jpg,0
+dataset\CARRIER\KWLU5092668_131004_02.jpg,0
+dataset\SHIPPER\2356_selected_image (2).jpg,1
+dataset\CARRIER\1845_selected_image.jpg,0
+dataset\CARRIER\TRLU3454787_130824_04.jpg,0
+dataset\CARRIER\933_selected_image (4).jpg,0
+dataset\CARRIER\177_selected_image.jpg,0
+dataset\SHIPPER\2058_selected_image.jpg,1
+dataset\SHIPPER\70_selected_image (3).jpg,1
+dataset\CARRIER\1818_selected_image.jpg,0
+dataset\CARRIER\1164_selected_image.jpg,0
+dataset\CARRIER\191_selected_image (2).jpg,0
+dataset\SHIPPER\GESU3303659_130624_01.jpg,1
+dataset\CARRIER\KWLU2120832_131224_10.jpg,0
+dataset\SHIPPER\1459_selected_image (2).jpg,1
+dataset\SHIPPER\1429_selected_image (2).jpg,1
+dataset\SHIPPER\1037_selected_image (4).jpg,1
+dataset\CARRIER\KWLU2070053_130507_02.jpg,0
+dataset\CARRIER\794_selected_image (2).jpg,0
+dataset\CARRIER\1071_selected_image (3).jpg,0
+dataset\CARRIER\1501_selected_image (2).jpg,0
+dataset\SHIPPER\GESU2833989_130731_06.jpg,1
+dataset\SHIPPER\1493_selected_image (2).jpg,1
+dataset\SHIPPER\281_selected_image (3).jpg,1
+dataset\CARRIER\KWLU2092181_140227_04.jpg,0
+dataset\SHIPPER\2182_selected_image.jpg,1
+dataset\CARRIER\171_selected_image.jpg,0
+dataset\CARRIER\2359_selected_image.jpg,0
+dataset\SHIPPER\1094_selected_image (4).jpg,1
+dataset\CARRIER\1358_selected_image (2).jpg,0
+dataset\SHIPPER\1262_selected_image (2).jpg,1
+dataset\SHIPPER\225_selected_image.jpg,1
+dataset\SHIPPER\571_selected_image (2).jpg,1
+dataset\CARRIER\652_selected_image (4).jpg,0
+dataset\CARRIER\GESU2833989_130731_01.jpg,0
+dataset\CARRIER\1290_selected_image (2).jpg,0
+dataset\SHIPPER\1811_selected_image (2).jpg,1
+dataset\SHIPPER\GESU 6380010-1.jpg,1
+dataset\CARRIER\271_selected_image (2).jpg,0
+dataset\CARRIER\689_selected_image.jpg,0
+dataset\SHIPPER\560_selected_image.jpg,1
+dataset\CARRIER\990_selected_image (3).jpg,0
+dataset\SHIPPER\1665_selected_image.jpg,1
+dataset\CARRIER\XINU4026365_131011_10.jpg,0
+dataset\CARRIER\2399_selected_image.jpg,0
+dataset\CARRIER\SCZU7934813+.JPG,0
+dataset\SHIPPER\4183130-DM-1209-006_0.jpg,1
+dataset\SHIPPER\1760_selected_image (3).jpg,1
+dataset\SHIPPER\1013_selected_image.jpg,1
+dataset\CARRIER\768_selected_image.jpg,0
+dataset\CARRIER\2232_selected_image (2).jpg,0
+dataset\CARRIER\2278_selected_image.jpg,0
+dataset\SHIPPER\2394_selected_image.jpg,1
+dataset\CARRIER\XINU8199501-4.jpg,0
+dataset\SHIPPER\KWLU2090888_130619_03.jpg,1
+dataset\SHIPPER\1045_selected_image (4).jpg,1
+dataset\SHIPPER\1405_selected_image.jpg,1
+dataset\CARRIER\2426_selected_image.jpg,0
+dataset\SHIPPER\GESU3458394_130326_03.jpg,1
+dataset\CARRIER\467_selected_image (2).jpg,0
+dataset\CARRIER\128_selected_image (3).jpg,0
+dataset\SHIPPER\781_selected_image (3).jpg,1
+dataset\SHIPPER\747_selected_image (2).jpg,1
+dataset\SHIPPER\1302_selected_image (3).jpg,1
+dataset\CARRIER\1377_selected_image.jpg,0
+dataset\SHIPPER\2364_selected_image (2).jpg,1
+dataset\SHIPPER\GESU2503652_130930_04.jpg,1
+dataset\CARRIER\480_selected_image (2).jpg,0
+dataset\CARRIER\1981_selected_image (2).jpg,0
+dataset\SHIPPER\TEMU 2421004-1-1-1.jpg,1
+dataset\CARRIER\958_selected_image (2).jpg,0
+dataset\CARRIER\360_selected_image (3).jpg,0
+dataset\SHIPPER\GESU6379766_131004_05.jpg,1
+dataset\SHIPPER\243_selected_image (3).jpg,1
+dataset\SHIPPER\2280_selected_image (3).jpg,1
+dataset\CARRIER\1416_selected_image.jpg,0
+dataset\CARRIER\1794_selected_image (2).jpg,0
+dataset\SHIPPER\579_selected_image.jpg,1
+dataset\SHIPPER\1965_selected_image (2).jpg,1
+dataset\CARRIER\896_selected_image.jpg,0
+dataset\CARRIER\213_selected_image (4).jpg,0
+dataset\SHIPPER\KWLU2091586_130507_03.jpg,1
+dataset\SHIPPER\GESU3535968_130625_03.jpg,1
+dataset\SHIPPER\1790_selected_image (2).jpg,1
+dataset\CARRIER\1091_selected_image.jpg,0
+dataset\CARRIER\GESU2632135_130823_02.jpg,0
+dataset\SHIPPER\856_selected_image (2).jpg,1
+dataset\SHIPPER\700_selected_image (2).jpg,1
+dataset\SHIPPER\139_selected_image.jpg,1
+dataset\CARRIER\536_selected_image (4).jpg,0
+dataset\SHIPPER\620_selected_image (3).jpg,1
+dataset\CARRIER\GESU3904156_130507_03.jpg,0
+dataset\CARRIER\618_selected_image (3).jpg,0
+dataset\CARRIER\31_selected_image (3).jpg,0
+dataset\SHIPPER\1820_selected_image (2).jpg,1
+dataset\SHIPPER\1642_selected_image.jpg,1
+dataset\CARRIER\415_selected_image.jpg,0
+dataset\CARRIER\580_selected_image.jpg,0
+dataset\CARRIER\KWLU5122314_130930_03.jpg,0
+dataset\SHIPPER\593_selected_image (2).jpg,1
+dataset\SHIPPER\454_selected_image (3).jpg,1
+dataset\CARRIER\WFHU1350553- (1).JPG,0
+dataset\SHIPPER\356_selected_image (2).jpg,1
+dataset\SHIPPER\KWLU5130670_140617_04.jpg,1
+dataset\SHIPPER\GESU 1407715-1-4.JPG,1
+dataset\SHIPPER\1132_selected_image (3).jpg,1
+dataset\SHIPPER\KWLU5120245.JPG,1
+dataset\CARRIER\189_selected_image (4).jpg,0
+dataset\SHIPPER\1445_selected_image (2).jpg,1
+dataset\SHIPPER\1649_selected_image (2).jpg,1
+dataset\CARRIER\1651_selected_image.jpg,0
+dataset\CARRIER\1185_selected_image.jpg,0
+dataset\SHIPPER\GESU5828800_140617_06.jpg,1
+dataset\SHIPPER\192_selected_image (3).jpg,1
+dataset\CARRIER\GESU 2491084-2.jpg,0
+dataset\CARRIER\132_selected_image (3).jpg,0
+dataset\CARRIER\849_selected_image.jpg,0
+dataset\CARRIER\910_selected_image (3).jpg,0
+dataset\CARRIER\759_selected_image (4).jpg,0
+dataset\SHIPPER\482_selected_image (3).jpg,1
+dataset\SHIPPER\424_selected_image.jpg,1
+dataset\SHIPPER\179_selected_image (3).jpg,1
+dataset\CARRIER\750_selected_image (4).jpg,0
+dataset\CARRIER\1848_selected_image.jpg,0
+dataset\CARRIER\170_selected_image (3).jpg,0
+dataset\CARRIER\GESU6574546_131202_10.jpg,0
+dataset\SHIPPER\1898_selected_image (2).jpg,1
+dataset\CARRIER\GESU 3904731-3.JPG,0
+dataset\SHIPPER\586_selected_image.jpg,1
+dataset\CARRIER\1_selected_image (3).jpg,0
+dataset\CARRIER\608_selected_image (4).jpg,0
+dataset\SHIPPER\1728_selected_image (3).jpg,1
+dataset\SHIPPER\174_selected_image (4).jpg,1
+dataset\SHIPPER\1124_selected_image (3).jpg,1
+dataset\SHIPPER\366_selected_image (2).jpg,1
+dataset\SHIPPER\551_selected_image (3).jpg,1
+dataset\SHIPPER\1334_selected_image (3).jpg,1
+dataset\CARRIER\1320_selected_image.jpg,0
+dataset\SHIPPER\2269_selected_image (3).jpg,1
+dataset\SHIPPER\858_selected_image (3).jpg,1
+dataset\CARRIER\501_selected_image (4).jpg,0
+dataset\SHIPPER\372_selected_image (2).jpg,1
+dataset\SHIPPER\447_selected_image (4).jpg,1
+dataset\CARRIER\1366_selected_image (2).jpg,0
+dataset\SHIPPER\811_selected_image (4).jpg,1
+dataset\CARRIER\2086_selected_image.jpg,0
+dataset\CARRIER\KWLU2092181_140227_05.jpg,0
+dataset\SHIPPER\2374_selected_image.jpg,1
+dataset\CARRIER\1961_selected_image (2).jpg,0
+dataset\CARRIER\1999_selected_image.jpg,0
+dataset\SHIPPER\993_selected_image.jpg,1
+dataset\SHIPPER\2028_selected_image.jpg,1
+dataset\SHIPPER\973_selected_image.jpg,1
+dataset\SHIPPER\812_selected_image (4).jpg,1
+dataset\SHIPPER\634_selected_image (2).jpg,1
+dataset\SHIPPER\2328_selected_image (2).jpg,1
+dataset\CARRIER\1068_selected_image.jpg,0
+dataset\CARRIER\696_selected_image (4).jpg,0
+dataset\CARRIER\1995_selected_image.jpg,0
+dataset\SHIPPER\44_selected_image (4).jpg,1
+dataset\CARRIER\FCIU2403920_140616_04.jpg,0
+dataset\SHIPPER\713_selected_image (4).jpg,1
+dataset\CARRIER\227_selected_image (4).jpg,0
+dataset\SHIPPER\KWLU 3607126-1.jpg,1
+dataset\SHIPPER\70_selected_image (4).jpg,1
+dataset\SHIPPER\2381_selected_image.jpg,1
+dataset\CARRIER\1359_selected_image (2).jpg,0
+dataset\SHIPPER\GESU2613433_130619_01.jpg,1
+dataset\SHIPPER\921_selected_image.jpg,1
+dataset\SHIPPER\770_selected_image (2).jpg,1
+dataset\CARRIER\1731_selected_image (2).jpg,0
+dataset\SHIPPER\1937_selected_image.jpg,1
+dataset\SHIPPER\830_selected_image (3).jpg,1
+dataset\SHIPPER\1600_selected_image (3).jpg,1
+dataset\CARRIER\826_selected_image (4).jpg,0
+dataset\CARRIER\499_selected_image.jpg,0
+dataset\CARRIER\2323_selected_image.jpg,0
+dataset\SHIPPER\1792_selected_image (3).jpg,1
+dataset\CARRIER\621_selected_image.jpg,0
+dataset\CARRIER\1772_selected_image.jpg,0
+dataset\SHIPPER\1352_selected_image.jpg,1
+dataset\CARRIER\KWLU2070794_130805_01.jpg,0
+dataset\CARRIER\2070_selected_image (2).jpg,0
+dataset\SHIPPER\GESU6007115_131203_02.jpg,1
+dataset\CARRIER\363_selected_image (3).jpg,0
+dataset\SHIPPER\245_selected_image (2).jpg,1
+dataset\CARRIER\PCIU 3519474-2.jpg,0
+dataset\SHIPPER\70_selected_image.jpg,1
+dataset\CARRIER\MOTU0638005_131021_03.jpg,0
+dataset\CARRIER\1050_selected_image.jpg,0
+dataset\SHIPPER\670_selected_image (3).jpg,1
+dataset\SHIPPER\1360_selected_image.jpg,1
+dataset\SHIPPER\1373_selected_image (3).jpg,1
+dataset\CARRIER\924_selected_image (4).jpg,0
+dataset\SHIPPER\482_selected_image (2).jpg,1
+dataset\SHIPPER\610_selected_image (3).jpg,1
+dataset\SHIPPER\1264_selected_image.jpg,1
+dataset\SHIPPER\1437_selected_image (2).jpg,1
+dataset\CARRIER\2176_selected_image (2).jpg,0
+dataset\CARRIER\2002_selected_image (2).jpg,0
+dataset\SHIPPER\2048_selected_image (2).jpg,1
+dataset\CARRIER\841_selected_image (2).jpg,0
+dataset\CARRIER\GESU 6380833-1.jpg,0
+dataset\SHIPPER\1809_selected_image.jpg,1
+dataset\CARRIER\930_selected_image (4).jpg,0
+dataset\CARRIER\1019_selected_image.jpg,0
+dataset\CARRIER\766_selected_image (4).jpg,0
+dataset\SHIPPER\1963_selected_image (2).jpg,1
+dataset\CARRIER\1135_selected_image (3).jpg,0
+dataset\CARRIER\61_selected_image (3).jpg,0
+dataset\SHIPPER\KWLU2070623_130824_01 (2).jpg,1
+dataset\SHIPPER\259_selected_image (2).jpg,1
+dataset\CARRIER\1777_selected_image (2).jpg,0
+dataset\CARRIER\WFHU1351077_140617_04.jpg,0
+dataset\CARRIER\183_selected_image (4).jpg,0
+dataset\CARRIER\KWLU2070053_130603_01.jpg,0
+dataset\CARRIER\97_selected_image (2).jpg,0
+dataset\CARRIER\648_selected_image (2).jpg,0
+dataset\CARRIER\KWLU2092746_131224_10.jpg,0
+dataset\SHIPPER\298_selected_image.jpg,1
+dataset\CARRIER\2316_selected_image (2).jpg,0
+dataset\SHIPPER\14_selected_image (2).jpg,1
+dataset\SHIPPER\1937_selected_image (2).jpg,1
+dataset\SHIPPER\651_selected_image (3).jpg,1
+dataset\SHIPPER\382_selected_image (4).jpg,1
+dataset\SHIPPER\997_selected_image (2).jpg,1
+dataset\CARRIER\2397_selected_image.jpg,0
+dataset\CARRIER\GESU6920248_131004_03.jpg,0
+dataset\CARRIER\1861_selected_image (2).jpg,0
+dataset\CARRIER\1377_selected_image (3).jpg,0
+dataset\SHIPPER\1822_selected_image (2).jpg,1
+dataset\CARRIER\2074_selected_image.jpg,0
+dataset\CARRIER\TEMU2421365_140618_01.jpg,0
+dataset\CARRIER\1122_selected_image.jpg,0
+dataset\CARRIER\TEMU2421508_130716_01.jpg,0
+dataset\CARRIER\995_selected_image.jpg,0
+dataset\SHIPPER\2242_selected_image (3).jpg,1
+dataset\CARRIER\1945_selected_image (2).jpg,0
+dataset\SHIPPER\2176_selected_image (3).jpg,1
+dataset\SHIPPER\465_selected_image (2).jpg,1
+dataset\SHIPPER\2035_selected_image.jpg,1
+dataset\CARRIER\WFHU1285817- (1).JPG,0
+dataset\SHIPPER\89_selected_image (2).jpg,1
+dataset\SHIPPER\2359_selected_image (2).jpg,1
+dataset\CARRIER\529_selected_image (3).jpg,0
+dataset\CARRIER\729_selected_image (2).jpg,0
+dataset\SHIPPER\324_selected_image.jpg,1
+dataset\SHIPPER\1507_selected_image (2).jpg,1
+dataset\SHIPPER\2314_selected_image (3).jpg,1
+dataset\CARRIER\KWLU3130183_131129_02.jpg,0
+dataset\SHIPPER\1876_selected_image (3).jpg,1
+dataset\CARRIER\83_selected_image (2).jpg,0
+dataset\SHIPPER\848_selected_image (3).jpg,1
+dataset\CARRIER\2330_selected_image (2).jpg,0
+dataset\SHIPPER\1755_selected_image (2).jpg,1
+dataset\SHIPPER\1374_selected_image (2).jpg,1
+dataset\CARRIER\643_selected_image (4).jpg,0
+dataset\CARRIER\984_selected_image (2).jpg,0
+dataset\CARRIER\2082_selected_image (2).jpg,0
+dataset\SHIPPER\1129_selected_image (3).jpg,1
+dataset\CARRIER\1571_selected_image.jpg,0
+dataset\CARRIER\102_selected_image (3).jpg,0
+dataset\SHIPPER\699_selected_image (4).jpg,1
+dataset\SHIPPER\2104_selected_image (3).jpg,1
+dataset\CARRIER\KWLU2090532_140603_03.jpg,0
+dataset\CARRIER\KWLU2091821-B.jpg,0
+dataset\CARRIER\GESU6915792_130726_03.jpg,0
+dataset\CARRIER\GESU1405395_130528_04.jpg,0
+dataset\SHIPPER\75_selected_image (4).jpg,1
+dataset\CARRIER\1535_selected_image.jpg,0
+dataset\CARRIER\833_selected_image (3).jpg,0
+dataset\SHIPPER\1456_selected_image (3).jpg,1
+dataset\SHIPPER\1542_selected_image (2).jpg,1
+dataset\CARRIER\1654_selected_image (2).jpg,0
+dataset\SHIPPER\768_selected_image.jpg,1
+dataset\CARRIER\35_selected_image (3).jpg,0
+dataset\CARRIER\KWLU 2091328-1.JPG,0
+dataset\CARRIER\GESU3262729_140618_04.jpg,0
+dataset\CARRIER\1578_selected_image.jpg,0
+dataset\SHIPPER\87_selected_image (3).jpg,1
+dataset\CARRIER\369_selected_image (4).jpg,0
+dataset\CARRIER\932_selected_image (4).jpg,0
+dataset\CARRIER\KWLU2090065-1.jpg,0
+dataset\CARRIER\GESU6576404-2.jpg,0
+dataset\CARRIER\394_selected_image (4).jpg,0
+dataset\SHIPPER\1247_selected_image (3).jpg,1
+dataset\SHIPPER\1201_selected_image (3).jpg,1
+dataset\SHIPPER\1402_selected_image (2).jpg,1
+dataset\SHIPPER\550_selected_image.jpg,1
+dataset\CARRIER\TEMU2422783_131224_02.jpg,0
+dataset\SHIPPER\1041_selected_image (4).jpg,1
+dataset\SHIPPER\2218_selected_image.jpg,1
+dataset\CARRIER\162_selected_image (3).jpg,0
+dataset\SHIPPER\1081_selected_image (2).jpg,1
+dataset\SHIPPER\1168_selected_image (4).jpg,1
+dataset\SHIPPER\984_selected_image (3).jpg,1
+dataset\SHIPPER\1713_selected_image (2).jpg,1
+dataset\CARRIER\503_selected_image (3).jpg,0
+dataset\CARRIER\658_selected_image (2).jpg,0
+dataset\CARRIER\961_selected_image.jpg,0
+dataset\SHIPPER\XINU4026365_131011_09.jpg,1
+dataset\CARRIER\GESU3276039_130802_02.jpg,0
+dataset\CARRIER\999_selected_image.jpg,0
+dataset\SHIPPER\711_selected_image (3).jpg,1
+dataset\CARRIER\1189_selected_image (3).jpg,0
+dataset\SHIPPER\922_selected_image (3).jpg,1
+dataset\SHIPPER\1851_selected_image.jpg,1
+dataset\SHIPPER\1365_selected_image (3).jpg,1
+dataset\CARRIER\757_selected_image (2).jpg,0
+dataset\CARRIER\TEMU2422931-3.jpg,0
+dataset\SHIPPER\CMUU2266756_131004_02.jpg,1
+dataset\SHIPPER\659_selected_image (3).jpg,1
+dataset\CARRIER\38_selected_image (4).jpg,0
+dataset\CARRIER\416_selected_image.jpg,0
+dataset\SHIPPER\1664_selected_image.jpg,1
+dataset\CARRIER\GESU1405667_140219_07.jpg,0
+dataset\SHIPPER\1673_selected_image (2).jpg,1
+dataset\CARRIER\KWLU4504713-B.jpg,0
+dataset\SHIPPER\2241_selected_image.jpg,1
+dataset\CARRIER\1189_selected_image (2).jpg,0
+dataset\CARRIER\1801_selected_image (2).jpg,0
+dataset\CARRIER\1975_selected_image (2).jpg,0
+dataset\SHIPPER\174_selected_image.jpg,1
+dataset\CARRIER\1133_selected_image.jpg,0
+dataset\SHIPPER\1288_selected_image (3).jpg,1
+dataset\SHIPPER\2386_selected_image (2).jpg,1
+dataset\SHIPPER\876_selected_image.jpg,1
+dataset\CARRIER\1395_selected_image (3).jpg,0
+dataset\SHIPPER\2079_selected_image (2).jpg,1
+dataset\CARRIER\67_selected_image.jpg,0
+dataset\SHIPPER\GESU6576683_130930_05.jpg,1
+dataset\CARRIER\768_selected_image (3).jpg,0
+dataset\CARRIER\750_selected_image (2).jpg,0
+dataset\SHIPPER\606_selected_image (3).jpg,1
+dataset\SHIPPER\KWLU 5121895-3.jpg,1
+dataset\SHIPPER\498_selected_image (3).jpg,1
+dataset\SHIPPER\186_selected_image.jpg,1
+dataset\CARRIER\KWLU2090297_130528_02.jpg,0
+dataset\SHIPPER\71_selected_image.jpg,1
+dataset\CARRIER\2176_selected_image.jpg,0
+dataset\SHIPPER\891_selected_image (2).jpg,1
+dataset\CARRIER\2162_selected_image (2).jpg,0
+dataset\CARRIER\1222_selected_image.jpg,0
+dataset\SHIPPER\543_selected_image (2).jpg,1
+dataset\SHIPPER\KWLU2091544_130502_02.jpg,1
+dataset\SHIPPER\1282_selected_image (3).jpg,1
+dataset\CARRIER\262_selected_image (4).jpg,0
+dataset\CARRIER\72_selected_image (4).jpg,0
+dataset\SHIPPER\1763_selected_image.jpg,1
+dataset\CARRIER\KWLU2120730_130824_02.jpg,0
+dataset\SHIPPER\KWLU2092068_130507_02.jpg,1
+dataset\SHIPPER\1908_selected_image (2).jpg,1
+dataset\CARRIER\KWLU 2090492-1.JPG,0
+dataset\SHIPPER\3_selected_image (2).jpg,1
+dataset\SHIPPER\1088_selected_image (3).jpg,1
+dataset\SHIPPER\873_selected_image (3).jpg,1
+dataset\SHIPPER\KWLU5092293_130909_02.jpg,1
+dataset\CARRIER\727_selected_image (4).jpg,0
+dataset\SHIPPER\KWLU2092129_130619_02.jpg,1
+dataset\CARRIER\1951_selected_image (2).jpg,0
+dataset\SHIPPER\513_selected_image.jpg,1
+dataset\CARRIER\TEMU2421914_131225_03.jpg,0
+dataset\CARRIER\232_selected_image (2).jpg,0
+dataset\CARRIER\1148_selected_image (2).jpg,0
+dataset\SHIPPER\296_selected_image (2).jpg,1
+dataset\SHIPPER\665_selected_image.jpg,1
+dataset\CARRIER\1705_selected_image.jpg,0
+dataset\CARRIER\1198_selected_image.jpg,0
+dataset\CARRIER\1254_selected_image.jpg,0
+dataset\SHIPPER\327_selected_image (4).jpg,1
+dataset\SHIPPER\1636_selected_image.jpg,1
+dataset\CARRIER\793_selected_image (2).jpg,0
+dataset\SHIPPER\352_selected_image (2).jpg,1
+dataset\CARRIER\553_selected_image (4).jpg,0
+dataset\CARRIER\513_selected_image.jpg,0
+dataset\CARRIER\1556_selected_image (2).jpg,0
+dataset\CARRIER\457_selected_image (3).jpg,0
+dataset\SHIPPER\K SEGU 4048676R (3) (Medium)_1.jpg,1
+dataset\CARRIER\1769_selected_image (2).jpg,0
+dataset\CARRIER\733_selected_image.jpg,0
+dataset\CARRIER\77_selected_image (2).jpg,0
+dataset\SHIPPER\1120_selected_image.jpg,1
+dataset\CARRIER\GESU1406513-C.jpg,0
+dataset\SHIPPER\460_selected_image.jpg,1
+dataset\CARRIER\1156_selected_image.jpg,0
+dataset\SHIPPER\GESU6919360_130726_07.jpg,1
+dataset\SHIPPER\1092_selected_image.jpg,1
+dataset\CARRIER\223_selected_image (4).jpg,0
+dataset\CARRIER\GATU0320683_130610_02.jpg,0
+dataset\SHIPPER\334_selected_image (4).jpg,1
+dataset\CARRIER\TEMU2421257-2.jpg,0
+dataset\SHIPPER\536_selected_image (4).jpg,1
+dataset\SHIPPER\294_selected_image.jpg,1
+dataset\SHIPPER\699_selected_image (3).jpg,1
+dataset\SHIPPER\GESU6575291-8.jpg,1
+dataset\SHIPPER\1680_selected_image (3).jpg,1
+dataset\SHIPPER\652_selected_image (4).jpg,1
+dataset\CARRIER\YMLU2705375_130702_03.jpg,0
+dataset\CARRIER\820_selected_image (3).jpg,0
+dataset\SHIPPER\1400_selected_image.jpg,1
+dataset\CARRIER\196_selected_image (2).jpg,0
+dataset\CARRIER\1751_selected_image.jpg,0
+dataset\SHIPPER\1067_selected_image (4).jpg,1
+dataset\SHIPPER\GESU3903885_130619_03.jpg,1
+dataset\CARRIER\KWLU 2071002-1.JPG,0
+dataset\CARRIER\1757_selected_image (2).jpg,0
+dataset\SHIPPER\117_selected_image (4).jpg,1
+dataset\SHIPPER\1676_selected_image.jpg,1
+dataset\CARRIER\1123_selected_image.jpg,0
+dataset\SHIPPER\1152_selected_image (2).jpg,1
+dataset\CARRIER\2033_selected_image.jpg,0
+dataset\CARRIER\112_selected_image.jpg,0
+dataset\SHIPPER\1697_selected_image (2).jpg,1
+dataset\SHIPPER\192_selected_image.jpg,1
+dataset\SHIPPER\426_selected_image (4).jpg,1
+dataset\CARRIER\KWLU5120820_130723_07.jpg,0
+dataset\SHIPPER\610_selected_image (4).jpg,1
+dataset\CARRIER\867_selected_image (3).jpg,0
+dataset\SHIPPER\1749_selected_image.jpg,1
+dataset\SHIPPER\559_selected_image (4).jpg,1
+dataset\SHIPPER\2379_selected_image (2).jpg,1
+dataset\CARRIER\500_selected_image.jpg,0
+dataset\SHIPPER\1524_selected_image.jpg,1
+dataset\SHIPPER\WFHU1351056_130520_04.jpg,1
+dataset\SHIPPER\GESU3904984_130702_05.jpg,1
+dataset\SHIPPER\2341_selected_image (3).jpg,1
+dataset\CARRIER\1398_selected_image.jpg,0
+dataset\CARRIER\771_selected_image (2).jpg,0
+dataset\CARRIER\1358_selected_image.jpg,0
+dataset\CARRIER\1965_selected_image (2).jpg,0
+dataset\CARRIER\715_selected_image (4).jpg,0
+dataset\CARRIER\1029_selected_image.jpg,0
+dataset\CARRIER\345_selected_image (4).jpg,0
+dataset\SHIPPER\833_selected_image (3).jpg,1
+dataset\CARRIER\1876_selected_image (2).jpg,0
+dataset\SHIPPER\830_selected_image (2).jpg,1
+dataset\CARRIER\2356_selected_image.jpg,0
+dataset\SHIPPER\TEMU2422778_131224_03.jpg,1
+dataset\SHIPPER\400_selected_image (3).jpg,1
+dataset\SHIPPER\824_selected_image (4).jpg,1
+dataset\SHIPPER\KWLU3130183_131129_03.jpg,1
+dataset\CARRIER\WFHU5140827-5.jpg,0
+dataset\CARRIER\276_selected_image (2).jpg,0
+dataset\SHIPPER\2227_selected_image (2).jpg,1
+dataset\CARRIER\837_selected_image (3).jpg,0
+dataset\SHIPPER\2176_selected_image (2).jpg,1
+dataset\SHIPPER\1975_selected_image.jpg,1
+dataset\SHIPPER\GESU6915792_140617_02.jpg,1
+dataset\SHIPPER\2004_selected_image (2).jpg,1
+dataset\SHIPPER\892_selected_image (3).jpg,1
+dataset\CARRIER\KWLU2091842-2.jpg,0
+dataset\SHIPPER\1947_selected_image (2).jpg,1
+dataset\SHIPPER\904_selected_image (3).jpg,1
+dataset\CARRIER\1356_selected_image (3).jpg,0
+dataset\CARRIER\311_selected_image (4).jpg,0
+dataset\CARRIER\356_selected_image (4).jpg,0
+dataset\CARRIER\965_selected_image (2).jpg,0
+dataset\SHIPPER\KWLU5012430-3.jpg,1
+dataset\CARRIER\863_selected_image (4).jpg,0
+dataset\CARRIER\338_selected_image (4).jpg,0
+dataset\SHIPPER\764_selected_image (3).jpg,1
+dataset\CARRIER\502_selected_image (4).jpg,0
+dataset\CARRIER\UESU5092878_140623_03.jpg,0
+dataset\CARRIER\2388_selected_image.jpg,0
+dataset\SHIPPER\676_selected_image (2).jpg,1
+dataset\CARRIER\2127_selected_image (2).jpg,0
+dataset\SHIPPER\GESU5424710_130617_08.jpg,1
+dataset\CARRIER\1187_selected_image (3).jpg,0
+dataset\CARRIER\527_selected_image (3).jpg,0
+dataset\SHIPPER\749_selected_image (4).jpg,1
+dataset\SHIPPER\1282_selected_image.jpg,1
+dataset\SHIPPER\297_selected_image (2).jpg,1
+dataset\CARRIER\1333_selected_image.jpg,0
+dataset\CARRIER\1215_selected_image.jpg,0
+dataset\CARRIER\2020_selected_image (2).jpg,0
+dataset\CARRIER\892_selected_image (3).jpg,0
+dataset\SHIPPER\KWLU5132122_131203_02.jpg,1
+dataset\CARRIER\GESU2721525_131118_04.jpg,0
+dataset\CARRIER\1874_selected_image (2).jpg,0
+dataset\SHIPPER\971_selected_image (2).jpg,1
+dataset\CARRIER\324_selected_image (4).jpg,0
+dataset\SHIPPER\GESU2594014_130731_05.jpg,1
+dataset\SHIPPER\587_selected_image (3).jpg,1
+dataset\SHIPPER\131_selected_image (2).jpg,1
+dataset\CARRIER\KWLU5845186_131004_02.jpg,0
+dataset\CARRIER\1171_selected_image (3).jpg,0
+dataset\CARRIER\712_selected_image (4).jpg,0
+dataset\SHIPPER\730_selected_image (2).jpg,1
+dataset\CARRIER\2095_selected_image (2).jpg,0
+dataset\CARRIER\KWLU2130574_140227_04.jpg,0
+dataset\CARRIER\KWLU5090876_140604_06.jpg,0
+dataset\CARRIER\KWLU2120719_130528_01.jpg,0
+dataset\SHIPPER\KWLU5092668_131004_03.jpg,1
+dataset\CARRIER\2320_selected_image.jpg,0
+dataset\CARRIER\792_selected_image (3).jpg,0
+dataset\SHIPPER\1559_selected_image (3).jpg,1
+dataset\CARRIER\431_selected_image.jpg,0
+dataset\CARRIER\TGHU6549973_140408_02.jpg,0
+dataset\SHIPPER\KWLU2120236_140609_02.jpg,1
+dataset\CARRIER\1037_selected_image (3).jpg,0
+dataset\SHIPPER\632_selected_image (4).jpg,1
+dataset\CARRIER\CCLU2345600-1.jpg,0
+dataset\SHIPPER\576_selected_image (2).jpg,1
+dataset\CARRIER\17_selected_image (3).jpg,0
+dataset\SHIPPER\2091_selected_image (3).jpg,1
+dataset\CARRIER\GESU6380448_140617_02.jpg,0
+dataset\CARRIER\136_selected_image (2).jpg,0
+dataset\CARRIER\1078_selected_image (3).jpg,0
+dataset\SHIPPER\537_selected_image (4).jpg,1
+dataset\SHIPPER\KWLU2070916- (1).JPG,1
+dataset\SHIPPER\2127_selected_image (3).jpg,1
+dataset\CARRIER\1100_selected_image (3).jpg,0
+dataset\SHIPPER\660_selected_image (3).jpg,1
+dataset\CARRIER\KWLU2091210_130401_01.jpg,0
+dataset\CARRIER\149_selected_image (2).jpg,0
+dataset\CARRIER\2099_selected_image.jpg,0
+dataset\SHIPPER\1676_selected_image (2).jpg,1
+dataset\SHIPPER\1827_selected_image (2).jpg,1
+dataset\CARRIER\TEMU2423769-3.jpg,0
+dataset\CARRIER\GESU6574546_131202_06.jpg,0
+dataset\SHIPPER\328_selected_image (3).jpg,1
+dataset\CARRIER\GESU 3904670-2.jpg,0
+dataset\CARRIER\763_selected_image (2).jpg,0
+dataset\CARRIER\990_selected_image (2).jpg,0
+dataset\CARRIER\GESU5076636_131202_02.jpg,0
+dataset\CARRIER\WFHU1350337_140616_03.jpg,0
+dataset\CARRIER\2232_selected_image.jpg,0
+dataset\SHIPPER\1490_selected_image.jpg,1
+dataset\SHIPPER\486_selected_image (3).jpg,1
+dataset\SHIPPER\2347_selected_image.jpg,1
+dataset\SHIPPER\1097_selected_image (3).jpg,1
+dataset\CARRIER\1531_selected_image (2).jpg,0
+dataset\CARRIER\KWLU5092652_131004_07.jpg,0
+dataset\CARRIER\TGHU6256928-2.jpg,0
+dataset\CARRIER\1372_selected_image.jpg,0
+dataset\SHIPPER\854_selected_image (3).jpg,1
+dataset\SHIPPER\2105_selected_image (2).jpg,1
+dataset\CARRIER\GESU 6920103-1.jpg,0
+dataset\SHIPPER\162_selected_image (4).jpg,1
+dataset\SHIPPER\KWLU2970712_131207_04.jpg,1
+dataset\SHIPPER\GESU5310847_140617_15.jpg,1
+dataset\CARRIER\647_selected_image.jpg,0
+dataset\CARRIER\440_selected_image.jpg,0
+dataset\CARRIER\2150_selected_image (2).jpg,0
+dataset\SHIPPER\1178_selected_image (2).jpg,1
+dataset\CARRIER\KWLU 5092647-1.JPG,0
+dataset\CARRIER\1690_selected_image (2).jpg,0
+dataset\CARRIER\886_selected_image (4).jpg,0
+dataset\CARRIER\1774_selected_image (2).jpg,0
+dataset\SHIPPER\2185_selected_image (3).jpg,1
+dataset\SHIPPER\429_selected_image (4).jpg,1
+dataset\SHIPPER\1563_selected_image (2).jpg,1
+dataset\CARRIER\UESU4683541-7.jpg,0
+dataset\CARRIER\1835_selected_image.jpg,0
+dataset\CARRIER\2389_selected_image.jpg,0
+dataset\CARRIER\759_selected_image (3).jpg,0
+dataset\CARRIER\1519_selected_image (2).jpg,0
+dataset\CARRIER\247_selected_image (4).jpg,0
+dataset\CARRIER\1130_selected_image.jpg,0
+dataset\SHIPPER\GESU6576744_140604_04.jpg,1
+dataset\CARRIER\1648_selected_image (2).jpg,0
+dataset\CARRIER\KWLU2970184_131118_02.jpg,0
+dataset\SHIPPER\2261_selected_image (2).jpg,1
+dataset\CARRIER\448_selected_image (2).jpg,0
+dataset\CARRIER\621_selected_image (3).jpg,0
+dataset\CARRIER\KWLU2970712_131207_02.jpg,0
+dataset\CARRIER\KWLU5091872_131129_02.jpg,0
+dataset\CARRIER\WFHU5094254_140604_05.jpg,0
+dataset\CARRIER\2013_selected_image (2).jpg,0
+dataset\SHIPPER\1252_selected_image (3).jpg,1
+dataset\SHIPPER\1771_selected_image.jpg,1
+dataset\SHIPPER\648_selected_image.jpg,1
+dataset\CARRIER\GESU1407931_130524_01.jpg,0
+dataset\SHIPPER\1661_selected_image.jpg,1
+dataset\CARRIER\1270_selected_image.jpg,0
+dataset\SHIPPER\957_selected_image (2).jpg,1
+dataset\SHIPPER\1209_selected_image (3).jpg,1
+dataset\CARRIER\2337_selected_image.jpg,0
+dataset\CARRIER\2327_selected_image (2).jpg,0
+dataset\CARRIER\830_selected_image (2).jpg,0
+dataset\SHIPPER\239_selected_image (2).jpg,1
+dataset\SHIPPER\1345_selected_image (3).jpg,1
+dataset\SHIPPER\1116_selected_image (2).jpg,1
+dataset\CARRIER\2189_selected_image (2).jpg,0
+dataset\CARRIER\TEMU 2420902-2.jpg,0
+dataset\SHIPPER\KWLU2970688_140624_04.jpg,1
+dataset\SHIPPER\1492_selected_image.jpg,1
+dataset\CARRIER\1102_selected_image (2).jpg,0
+dataset\CARRIER\606_selected_image (2).jpg,0
+dataset\SHIPPER\2162_selected_image.jpg,1
+dataset\CARRIER\371_selected_image (4).jpg,0
+dataset\SHIPPER\WFHU1349969_140609_03.jpg,1
+dataset\CARRIER\259_selected_image (4).jpg,0
+dataset\SHIPPER\592_selected_image.jpg,1
+dataset\CARRIER\2345_selected_image.jpg,0
+dataset\CARRIER\TEMU2420311-2.jpg,0
+dataset\SHIPPER\1608_selected_image (2).jpg,1
+dataset\CARRIER\WFHU5132919_130720_03.jpg,0
+dataset\SHIPPER\GESU6380556_131004_05.jpg,1
+dataset\SHIPPER\1827_selected_image (3).jpg,1
+dataset\SHIPPER\KWLU2092746_140603_03.jpg,1
+dataset\CARRIER\2233_selected_image (2).jpg,0
+dataset\CARRIER\791_selected_image (2).jpg,0
+dataset\CARRIER\578_selected_image (3).jpg,0
+dataset\CARRIER\265_selected_image.jpg,0
+dataset\SHIPPER\GESU2623745_140624_03.jpg,1
+dataset\CARRIER\1790_selected_image.jpg,0
+dataset\CARRIER\KWLU5092950-3.jpg,0
+dataset\SHIPPER\861_selected_image (4).jpg,1
+dataset\SHIPPER\85838_0 (2).jpg,1
+dataset\SHIPPER\483_selected_image (2).jpg,1
+dataset\CARRIER\KWLU 2070372-1.jpg,0
+dataset\SHIPPER\1285_selected_image (2).jpg,1
+dataset\SHIPPER\1975_selected_image (3).jpg,1
+dataset\CARRIER\742_selected_image.jpg,0
+dataset\CARRIER\KWLU2090532_140603_04.jpg,0
+dataset\SHIPPER\2227_selected_image (3).jpg,1
+dataset\SHIPPER\2248_selected_image (2).jpg,1
+dataset\CARRIER\GESU2823023_140603_02.jpg,0
+dataset\SHIPPER\2141_selected_image.jpg,1
+dataset\CARRIER\KWLU2092406_140625_01.jpg,0
+dataset\CARRIER\KWLU4070279_131004_02.jpg,0
+dataset\SHIPPER\1772_selected_image (3).jpg,1
+dataset\CARRIER\768_selected_image (2).jpg,0
+dataset\SHIPPER\1244_selected_image.jpg,1
+dataset\CARRIER\806_selected_image (3).jpg,0
+dataset\CARRIER\XINU4026318_131004_08.jpg,0
+dataset\CARRIER\262_selected_image (2).jpg,0
+dataset\CARRIER\1804_selected_image.jpg,0
+dataset\SHIPPER\2050_selected_image.jpg,1
+dataset\CARRIER\2006_selected_image.jpg,0
+dataset\CARRIER\KWLU 2091420-3.jpg,0
+dataset\CARRIER\496_selected_image (4).jpg,0
+dataset\CARRIER\1337_selected_image.jpg,0
+dataset\CARRIER\KWLU4070828-B.jpg,0
+dataset\CARRIER\XINU8199501-3.jpg,0
+dataset\CARRIER\KWLU2090580-A.jpg,0
+dataset\CARRIER\WFHU1351170_130702_04.jpg,0
+dataset\SHIPPER\KWLU 2090168-1.JPG,1
+dataset\SHIPPER\1920_selected_image.jpg,1
+dataset\CARRIER\211_selected_image (3).jpg,0
+dataset\CARRIER\GESU3904120_140603_02.jpg,0
+dataset\CARRIER\TEMU 2423007-1.jpg,0
+dataset\SHIPPER\1455_selected_image.jpg,1
+dataset\SHIPPER\292_selected_image (4).jpg,1
+dataset\SHIPPER\1696_selected_image.jpg,1
+dataset\CARRIER\KWLU2092535_130812_01.jpg,0
+dataset\CARRIER\373_selected_image.jpg,0
+dataset\SHIPPER\170_selected_image (3).jpg,1
+dataset\CARRIER\806_selected_image (4).jpg,0
+dataset\SHIPPER\1049_selected_image (2).jpg,1
+dataset\CARRIER\2339_selected_image.jpg,0
+dataset\CARRIER\KWLU5131548-B.jpg,0
+dataset\SHIPPER\2302_selected_image (3).jpg,1
+dataset\CARRIER\POCU0481314_140618_01.jpg,0
+dataset\SHIPPER\1574_selected_image.jpg,1
+dataset\CARRIER\1435_selected_image.jpg,0
+dataset\CARRIER\671_selected_image (4).jpg,0
+dataset\SHIPPER\880_selected_image (2).jpg,1
+dataset\CARRIER\2072_selected_image.jpg,0
+dataset\CARRIER\156_selected_image (2).jpg,0
+dataset\CARRIER\2208_selected_image (2).jpg,0
+dataset\SHIPPER\1510_selected_image (3).jpg,1
+dataset\CARRIER\GESU1405538-2.jpg,0
+dataset\SHIPPER\1766_selected_image (2).jpg,1
+dataset\CARRIER\892_selected_image (2).jpg,0
+dataset\SHIPPER\2352_selected_image.jpg,1
+dataset\SHIPPER\GESU5424710_130617_06.jpg,1
+dataset\CARRIER\885_selected_image.jpg,0
+dataset\CARRIER\XINU8193294_130624_04.jpg,0
+dataset\CARRIER\2148_selected_image (2).jpg,0
+dataset\CARRIER\2256_selected_image.jpg,0
+dataset\SHIPPER\388_selected_image (2).jpg,1
+dataset\SHIPPER\1608_selected_image (3).jpg,1
+dataset\CARRIER\1293_selected_image (3).jpg,0
+dataset\CARRIER\804_selected_image (3).jpg,0
+dataset\CARRIER\245_selected_image (2).jpg,0
+dataset\SHIPPER\1296_selected_image.jpg,1
+dataset\CARRIER\1887_selected_image (2).jpg,0
+dataset\SHIPPER\2095_selected_image (2).jpg,1
+dataset\CARRIER\TGHU6549968_131126_02.jpg,0
+dataset\SHIPPER\1823_selected_image.jpg,1
+dataset\CARRIER\879_selected_image (2).jpg,0
+dataset\CARRIER\KWLU3611851-B.jpg,0
+dataset\SHIPPER\1424_selected_image.jpg,1
+dataset\SHIPPER\WFHU 1351462-2 (2).jpg,1
+dataset\CARRIER\955_selected_image.jpg,0
+dataset\CARRIER\314_selected_image (2).jpg,0
+dataset\CARRIER\57_selected_image (4).jpg,0
+dataset\CARRIER\681_selected_image (2).jpg,0
+dataset\CARRIER\KWLU 5092924-1.jpg,0
+dataset\SHIPPER\918_selected_image (3).jpg,1
+dataset\CARRIER\GESU5828800_140617_09.jpg,0
+dataset\CARRIER\1610_selected_image (2).jpg,0
+dataset\CARRIER\786_selected_image (2).jpg,0
+dataset\CARRIER\339_selected_image (2).jpg,0
+dataset\SHIPPER\WFHU1350105_140618_04.jpg,1
+dataset\CARRIER\TEMU2420311_130625_02.jpg,0
+dataset\SHIPPER\2267_selected_image (3).jpg,1
+dataset\SHIPPER\1070_selected_image (3).jpg,1
+dataset\CARRIER\2219_selected_image.jpg,0
+dataset\CARRIER\GESU3903822-2.jpg,0
+dataset\CARRIER\333_selected_image (2).jpg,0
+dataset\SHIPPER\1874_selected_image (2).jpg,1
+dataset\SHIPPER\2337_selected_image (3).jpg,1
+dataset\CARRIER\KWLU2970163_131207_01.jpg,0
+dataset\SHIPPER\421_selected_image (3).jpg,1
+dataset\CARRIER\120_selected_image (2).jpg,0
+dataset\SHIPPER\127_selected_image.jpg,1
+dataset\SHIPPER\1096_selected_image.jpg,1
+dataset\CARRIER\GESU6574989-1.jpg,0
+dataset\CARRIER\2142_selected_image (2).jpg,0
+dataset\CARRIER\TEMU2425170-A.jpg,0
+dataset\CARRIER\1478_selected_image (2).jpg,0
+dataset\SHIPPER\816_selected_image (2).jpg,1
+dataset\SHIPPER\924_selected_image (3).jpg,1
+dataset\SHIPPER\KWLU2121910_140617_02.jpg,1
+dataset\CARRIER\100_selected_image (4).jpg,0
+dataset\SHIPPER\WFHU1349655_131202_08.jpg,1
+dataset\CARRIER\399_selected_image.jpg,0
+dataset\CARRIER\TEMU2421175-3.jpg,0
+dataset\SHIPPER\2920378_0.jpg,1
+dataset\SHIPPER\1144_selected_image (2).jpg,1
+dataset\SHIPPER\973_selected_image (4).jpg,1
+dataset\CARRIER\328_selected_image (3).jpg,0
+dataset\CARRIER\1036_selected_image (3).jpg,0
+dataset\SHIPPER\1934_selected_image (2).jpg,1
+dataset\CARRIER\563_selected_image (2).jpg,0
+dataset\CARRIER\1221_selected_image.jpg,0
+dataset\SHIPPER\684_selected_image (2).jpg,1
+dataset\SHIPPER\1048_selected_image (2).jpg,1
+dataset\SHIPPER\628_selected_image (3).jpg,1
+dataset\SHIPPER\652_selected_image (3).jpg,1
+dataset\CARRIER\1883_selected_image (2).jpg,0
+dataset\CARRIER\261_selected_image (3).jpg,0
+dataset\CARRIER\18_selected_image (2).jpg,0
+dataset\SHIPPER\GESU2726933_131223_08.jpg,1
+dataset\SHIPPER\GESU1407757_130528_03.jpg,1
+dataset\SHIPPER\636_selected_image (2).jpg,1
+dataset\CARRIER\1041_selected_image.jpg,0
+dataset\SHIPPER\WFHU5137593_131004_05.jpg,1
+dataset\CARRIER\KWLU5130876_131202_02.jpg,0
+dataset\SHIPPER\940_selected_image.jpg,1
+dataset\CARRIER\1835_selected_image (2).jpg,0
+dataset\SHIPPER\1229_selected_image.jpg,1
+dataset\CARRIER\KWLU2120956_130720_01.jpg,0
+dataset\SHIPPER\283_selected_image (2).jpg,1
+dataset\SHIPPER\57_selected_image (3).jpg,1
+dataset\SHIPPER\556_selected_image (3).jpg,1
+dataset\CARRIER\1688_selected_image (2).jpg,0
+dataset\CARRIER\1798_selected_image.jpg,0
+dataset\CARRIER\789_selected_image (3).jpg,0
+dataset\SHIPPER\365_selected_image (3).jpg,1
+dataset\CARRIER\2131_selected_image (2).jpg,0
+dataset\CARRIER\765_selected_image (3).jpg,0
+dataset\SHIPPER\KWLU2070475_130430_02.jpg,1
+dataset\SHIPPER\1941_selected_image (2).jpg,1
+dataset\CARRIER\2077_selected_image.jpg,0
+dataset\SHIPPER\2225_selected_image (2).jpg,1
+dataset\CARRIER\149_selected_image.jpg,0
+dataset\SHIPPER\858_selected_image (4).jpg,1
+dataset\SHIPPER\616_selected_image (4).jpg,1
+dataset\CARRIER\1932_selected_image.jpg,0
+dataset\SHIPPER\1981_selected_image.jpg,1
+dataset\CARRIER\1984_selected_image.jpg,0
+dataset\SHIPPER\2254_selected_image.jpg,1
+dataset\CARRIER\1987_selected_image (2).jpg,0
+dataset\SHIPPER\937_selected_image.jpg,1
+dataset\SHIPPER\412_selected_image (3).jpg,1
+dataset\CARRIER\514_selected_image (4).jpg,0
+dataset\CARRIER\1479_selected_image (2).jpg,0
+dataset\CARRIER\GATU0320683_130610_04.jpg,0
+dataset\SHIPPER\XINU4026386_131015_04.jpg,1
+dataset\SHIPPER\GESU3903273_131207_04.jpg,1
+dataset\SHIPPER\2073_selected_image (3).jpg,1
+dataset\CARRIER\1199_selected_image (2).jpg,0
+dataset\CARRIER\KWLU5090201_131217_03.jpg,0
+dataset\CARRIER\739_selected_image (2).jpg,0
+dataset\CARRIER\609_selected_image (2).jpg,0
+dataset\SHIPPER\326_selected_image (4).jpg,1
+dataset\SHIPPER\138_selected_image.jpg,1
+dataset\CARRIER\2166_selected_image.jpg,0
+dataset\SHIPPER\1519_selected_image.jpg,1
+dataset\SHIPPER\280_selected_image.jpg,1
+dataset\SHIPPER\955_selected_image (2).jpg,1
+dataset\SHIPPER\1142_selected_image (3).jpg,1
+dataset\CARRIER\KWLU2090147_140210_03.jpg,0
+dataset\SHIPPER\1470_selected_image.jpg,1
+dataset\CARRIER\1069_selected_image (2).jpg,0
+dataset\SHIPPER\GESU3903479_140625_09.jpg,1
+dataset\SHIPPER\806_selected_image (2).jpg,1
+dataset\CARRIER\1512_selected_image (2).jpg,0
+dataset\SHIPPER\539_selected_image (3).jpg,1
+dataset\CARRIER\365_selected_image (3).jpg,0
+dataset\CARRIER\1488_selected_image (2).jpg,0
+dataset\CARRIER\340_selected_image (3).jpg,0
+dataset\CARRIER\1274_selected_image (2).jpg,0
+dataset\SHIPPER\834_selected_image.jpg,1
+dataset\SHIPPER\1622_selected_image (2).jpg,1
+dataset\SHIPPER\1958_selected_image (3).jpg,1
+dataset\CARRIER\249_selected_image.jpg,0
+dataset\CARRIER\349_selected_image (2).jpg,0
+dataset\CARRIER\618_selected_image.jpg,0
+dataset\CARRIER\GESU1407361_140618_02.jpg,0
+dataset\SHIPPER\222_selected_image (3).jpg,1
+dataset\SHIPPER\61_selected_image (4).jpg,1
+dataset\CARRIER\652_selected_image (3).jpg,0
+dataset\SHIPPER\GESU3106109_130726_02.jpg,1
+dataset\CARRIER\830_selected_image.jpg,0
+dataset\SHIPPER\GESU6380448_140617_04.jpg,1
+dataset\CARRIER\1217_selected_image.jpg,0
+dataset\SHIPPER\1995_selected_image.jpg,1
+dataset\CARRIER\993_selected_image (4).jpg,0
+dataset\CARRIER\KWLU2090580_131011_02.jpg,0
+dataset\CARRIER\GESU3902770-B.jpg,0
+dataset\SHIPPER\6_selected_image (4).jpg,1
+dataset\SHIPPER\300_selected_image (2).jpg,1
+dataset\CARRIER\384_selected_image (3).jpg,0
+dataset\CARRIER\1125_selected_image (2).jpg,0
+dataset\SHIPPER\GESU3905039_130520_03.jpg,1
+dataset\SHIPPER\1273_selected_image.jpg,1
+dataset\CARRIER\828_selected_image (4).jpg,0
+dataset\SHIPPER\KWLU2970163_131207_03.jpg,1
+dataset\CARRIER\236_selected_image (4).jpg,0
+dataset\SHIPPER\1385_selected_image (2).jpg,1
+dataset\CARRIER\WFHU5133200_130720_01.jpg,0
+dataset\CARRIER\2375_selected_image.jpg,0
+dataset\CARRIER\395_selected_image (3).jpg,0
+dataset\SHIPPER\400_selected_image (4).jpg,1
+dataset\SHIPPER\1138_selected_image (3).jpg,1
+dataset\SHIPPER\GESU6379766.JPG,1
+dataset\SHIPPER\1960_selected_image.jpg,1
+dataset\CARRIER\IDCU2014182_130823_03.jpg,0
+dataset\CARRIER\897_selected_image (4).jpg,0
+dataset\SHIPPER\732_selected_image (3).jpg,1
+dataset\SHIPPER\614_selected_image (4).jpg,1
+dataset\CARRIER\474_selected_image (4).jpg,0
+dataset\CARRIER\TRLU8075404_130617_05.jpg,0
+dataset\CARRIER\581_selected_image.jpg,0
+dataset\CARRIER\528_selected_image (2).jpg,0
+dataset\CARRIER\1054_selected_image (2).jpg,0
+dataset\CARRIER\KWLU5090310+ (1).JPG,0
+dataset\CARRIER\1321_selected_image (3).jpg,0
+dataset\CARRIER\738_selected_image (4).jpg,0
+dataset\SHIPPER\435_selected_image (3).jpg,1
+dataset\SHIPPER\351_selected_image (3).jpg,1
+dataset\CARRIER\2178_selected_image (2).jpg,0
+dataset\SHIPPER\1625_selected_image (3).jpg,1
+dataset\SHIPPER\1496_selected_image.jpg,1
+dataset\CARRIER\WFHU5140410-4.jpg,0
+dataset\SHIPPER\517_selected_image (4).jpg,1
+dataset\SHIPPER\DSCF6254_0.jpg,1
+dataset\CARRIER\789_selected_image (2).jpg,0
+dataset\CARRIER\699_selected_image (2).jpg,0
+dataset\CARRIER\TEMU2421344_140512_07.jpg,0
+dataset\CARRIER\752_selected_image.jpg,0
+dataset\CARRIER\605_selected_image (2).jpg,0
+dataset\SHIPPER\WFHU1349969_140609_02.jpg,1
+dataset\CARRIER\KWLU5090428-B.jpg,0
+dataset\CARRIER\KWLU5120040_140531_03.jpg,0
+dataset\CARRIER\611_selected_image (3).jpg,0
+dataset\SHIPPER\GESU2833989_130731_04.jpg,1
+dataset\CARRIER\1904_selected_image (2).jpg,0
+dataset\CARRIER\674_selected_image (4).jpg,0
+dataset\CARRIER\966_selected_image (2).jpg,0
+dataset\SHIPPER\1487_selected_image.jpg,1
+dataset\CARRIER\GESU3033698_130611_01.jpg,0
+dataset\SHIPPER\1930_selected_image.jpg,1
+dataset\CARRIER\431_selected_image (3).jpg,0
+dataset\SHIPPER\480_selected_image.jpg,1
+dataset\CARRIER\1647_selected_image.jpg,0
+dataset\CARRIER\50_selected_image (2).jpg,0
+dataset\SHIPPER\1134_selected_image (2).jpg,1
+dataset\CARRIER\KWLU2090070_130625_01.jpg,0
+dataset\CARRIER\KWLU5090773-2.jpg,0
+dataset\CARRIER\GESU2833989_130731_07.jpg,0
+dataset\CARRIER\411_selected_image (4).jpg,0
+dataset\SHIPPER\946_selected_image.jpg,1
+dataset\CARRIER\28_selected_image (4).jpg,0
+dataset\CARRIER\755_selected_image (2).jpg,0
+dataset\SHIPPER\1539_selected_image.jpg,1
+dataset\CARRIER\337_selected_image (2).jpg,0
+dataset\CARRIER\KWLU5132858_140607_03.jpg,0
+dataset\CARRIER\KWLU3616473_130731_06.jpg,0
+dataset\CARRIER\WFHU1349980_130528_01.jpg,0
+dataset\SHIPPER\1299_selected_image (3).jpg,1
+dataset\CARRIER\1523_selected_image (2).jpg,0
+dataset\CARRIER\TCNU9010936+ (1).JPG,0
+dataset\SHIPPER\25_selected_image (2).jpg,1
+dataset\CARRIER\1312_selected_image (2).jpg,0
+dataset\CARRIER\GESU1409852_130610_03.jpg,0
+dataset\CARRIER\361_selected_image (2).jpg,0
+dataset\CARRIER\1691_selected_image (2).jpg,0
+dataset\SHIPPER\WFHU5133725_130702_02.jpg,1
+dataset\SHIPPER\1267_selected_image (2).jpg,1
+dataset\SHIPPER\TGHU6550315_131004_02.jpg,1
+dataset\SHIPPER\734_selected_image (4).jpg,1
+dataset\SHIPPER\1646_selected_image (3).jpg,1
+dataset\CARRIER\166_selected_image (3).jpg,0
+dataset\SHIPPER\498_selected_image (4).jpg,1
+dataset\SHIPPER\207_selected_image.jpg,1
+dataset\SHIPPER\WFHU5133772- (1).JPG,1
+dataset\SHIPPER\GESU5555768_140506_06.jpg,1
+dataset\CARRIER\1492_selected_image (2).jpg,0
+dataset\CARRIER\704_selected_image (2).jpg,0
+dataset\SHIPPER\1199_selected_image (2).jpg,1
+dataset\SHIPPER\147_selected_image.jpg,1
+dataset\CARRIER\53_selected_image (3).jpg,0
+dataset\SHIPPER\255_selected_image.jpg,1
+dataset\CARRIER\1932_selected_image (2).jpg,0
+dataset\SHIPPER\1572_selected_image.jpg,1
+dataset\SHIPPER\1082_selected_image (2).jpg,1
+dataset\CARRIER\WFHU1349980_130702_04.jpg,0
+dataset\SHIPPER\857_selected_image (4).jpg,1
+dataset\SHIPPER\279_selected_image (3).jpg,1
+dataset\SHIPPER\4183130-DM-1209-001_0.jpg,1
+dataset\CARRIER\1434_selected_image (3).jpg,0
+dataset\CARRIER\1401_selected_image (2).jpg,0
+dataset\SHIPPER\266_selected_image.jpg,1
+dataset\SHIPPER\1945_selected_image (3).jpg,1
+dataset\CARRIER\378_selected_image (4).jpg,0
+dataset\CARRIER\855_selected_image (4).jpg,0
+dataset\CARRIER\1806_selected_image (2).jpg,0
+dataset\SHIPPER\429_selected_image.jpg,1
+dataset\SHIPPER\153_selected_image (2).jpg,1
+dataset\CARRIER\967_selected_image (3).jpg,0
+dataset\CARRIER\617_selected_image.jpg,0
+dataset\SHIPPER\613_selected_image (4).jpg,1
+dataset\SHIPPER\1287_selected_image (3).jpg,1
+dataset\CARRIER\KWLU2070080_140624_02.jpg,0
+dataset\CARRIER\KWLU2092129-4.jpg,0
+dataset\SHIPPER\1062_selected_image.jpg,1
+dataset\CARRIER\703_selected_image (2).jpg,0
+dataset\CARRIER\2427_selected_image.jpg,0
+dataset\SHIPPER\XINU8199306_130720_02.jpg,1
+dataset\SHIPPER\642_selected_image (3).jpg,1
+dataset\SHIPPER\696_selected_image (2).jpg,1
+dataset\SHIPPER\1231_selected_image (2).jpg,1
+dataset\SHIPPER\186_selected_image (3).jpg,1
+dataset\CARRIER\1186_selected_image (3).jpg,0
+dataset\CARRIER\1672_selected_image (2).jpg,0
+dataset\SHIPPER\279_selected_image (2).jpg,1
+dataset\CARRIER\359_selected_image (2).jpg,0
+dataset\SHIPPER\19_selected_image (2).jpg,1
+dataset\CARRIER\802_selected_image (3).jpg,0
+dataset\SHIPPER\104_selected_image (3).jpg,1
+dataset\CARRIER\KWLU5091466_140617_02.jpg,0
+dataset\SHIPPER\944_selected_image (3).jpg,1
+dataset\SHIPPER\1536_selected_image (3).jpg,1
+dataset\SHIPPER\414_selected_image (4).jpg,1
+dataset\CARRIER\1342_selected_image.jpg,0
+dataset\SHIPPER\414_selected_image (3).jpg,1
+dataset\SHIPPER\TEMU 2423769-2.jpg,1
+dataset\SHIPPER\2224_selected_image (3).jpg,1
+dataset\SHIPPER\1998_selected_image (3).jpg,1
+dataset\CARRIER\KWLU2070027_131129_05.jpg,0
+dataset\CARRIER\113_selected_image.jpg,0
+dataset\CARRIER\735_selected_image.jpg,0
+dataset\SHIPPER\1163_selected_image (2).jpg,1
+dataset\CARRIER\762_selected_image (4).jpg,0
+dataset\CARRIER\186_selected_image.jpg,0
+dataset\SHIPPER\1938_selected_image (2).jpg,1
+dataset\SHIPPER\1339_selected_image.jpg,1
+dataset\SHIPPER\GESU3902678_130705_05.jpg,1
+dataset\CARRIER\1853_selected_image.jpg,0
+dataset\CARRIER\KWLU2070496-B.jpg,0
+dataset\SHIPPER\1969_selected_image (2).jpg,1
+dataset\SHIPPER\WFHU1351415_130610_02.jpg,1
+dataset\CARRIER\587_selected_image (4).jpg,0
+dataset\SHIPPER\1832_selected_image (2).jpg,1
+dataset\CARRIER\795_selected_image (2).jpg,0
+dataset\SHIPPER\1894_selected_image (3).jpg,1
+dataset\CARRIER\1335_selected_image (2).jpg,0
+dataset\CARRIER\685_selected_image (3).jpg,0
+dataset\CARRIER\15_selected_image (3).jpg,0
+dataset\CARRIER\KWLU2970076_131220_01.jpg,0
+dataset\CARRIER\1286_selected_image.jpg,0
+dataset\CARRIER\231_selected_image (3).jpg,0
+dataset\SHIPPER\555_selected_image (2).jpg,1
+dataset\SHIPPER\381_selected_image (4).jpg,1
+dataset\CARRIER\KWLU 2070120-2.JPG,0
+dataset\SHIPPER\1743_selected_image (3).jpg,1
+dataset\SHIPPER\53_selected_image (3).jpg,1
+dataset\SHIPPER\85834_0.jpg,1
+dataset\CARRIER\890_selected_image.jpg,0
+dataset\CARRIER\1050_selected_image (2).jpg,0
+dataset\SHIPPER\1546_selected_image (2).jpg,1
+dataset\CARRIER\1476_selected_image.jpg,0
+dataset\SHIPPER\598_selected_image (2).jpg,1
+dataset\CARRIER\221_selected_image (2).jpg,0
+dataset\CARRIER\443_selected_image (4).jpg,0
+dataset\CARRIER\37_selected_image (4).jpg,0
+dataset\CARRIER\81_selected_image (4).jpg,0
+dataset\CARRIER\657_selected_image (3).jpg,0
+dataset\SHIPPER\1756_selected_image (3).jpg,1
+dataset\SHIPPER\1554_selected_image.jpg,1
+dataset\CARRIER\375_selected_image (4).jpg,0
+dataset\SHIPPER\GESU 6784584-2.jpg,1
+dataset\CARRIER\290_selected_image (2).jpg,0
+dataset\CARRIER\889_selected_image (3).jpg,0
+dataset\SHIPPER\869_selected_image (2).jpg,1
+dataset\CARRIER\721_selected_image (3).jpg,0
+dataset\CARRIER\2028_selected_image (2).jpg,0
+dataset\SHIPPER\2039_selected_image (3).jpg,1
+dataset\SHIPPER\1388_selected_image.jpg,1
+dataset\CARRIER\1247_selected_image (2).jpg,0
+dataset\CARRIER\1830_selected_image (2).jpg,0
+dataset\SHIPPER\1346_selected_image (3).jpg,1
+dataset\SHIPPER\1118_selected_image.jpg,1
+dataset\CARRIER\1121_selected_image (2).jpg,0
+dataset\SHIPPER\1215_selected_image (3).jpg,1
+dataset\CARRIER\TEMU2423136_130326_01.jpg,0
+dataset\CARRIER\KWLU2092406_140625_04.jpg,0
+dataset\CARRIER\TEMU2420482_140624_02.jpg,0
+dataset\CARRIER\1156_selected_image (2).jpg,0
+dataset\CARRIER\1813_selected_image.jpg,0
+dataset\SHIPPER\1700_selected_image (2).jpg,1
+dataset\SHIPPER\GESU2588937_130603_03.jpg,1
+dataset\CARRIER\GATU0019371-2.jpg,0
+dataset\SHIPPER\1045_selected_image (3).jpg,1
+dataset\SHIPPER\PCIU 3519474-5.jpg,1
+dataset\SHIPPER\1941_selected_image (3).jpg,1
+dataset\SHIPPER\600_selected_image (4).jpg,1
+dataset\SHIPPER\2082_selected_image.jpg,1
+dataset\CARRIER\797_selected_image (3).jpg,0
+dataset\CARRIER\200_selected_image.jpg,0
+dataset\CARRIER\KWLU5130520-5.jpg,0
+dataset\SHIPPER\960_selected_image.jpg,1
+dataset\SHIPPER\514_selected_image.jpg,1
+dataset\CARRIER\159_selected_image (2).jpg,0
+dataset\SHIPPER\175_selected_image.jpg,1
+dataset\SHIPPER\TGHU6256086_140526_02.jpg,1
+dataset\CARRIER\TEMU2424209_130812_03.jpg,0
+dataset\SHIPPER\1846_selected_image (3).jpg,1
+dataset\SHIPPER\1164_selected_image (3).jpg,1
+dataset\SHIPPER\1201_selected_image.jpg,1
+dataset\SHIPPER\594_selected_image.jpg,1
+dataset\CARRIER\680_selected_image.jpg,0
+dataset\CARRIER\TGHU6550906_131004_04.jpg,0
+dataset\SHIPPER\2293_selected_image (3).jpg,1
+dataset\SHIPPER\1983_selected_image.jpg,1
+dataset\CARRIER\468_selected_image (2).jpg,0
+dataset\CARRIER\2329_selected_image (2).jpg,0
+dataset\CARRIER\1250_selected_image (3).jpg,0
+dataset\CARRIER\619_selected_image (2).jpg,0
+dataset\CARRIER\1170_selected_image (2).jpg,0
+dataset\SHIPPER\254_selected_image (3).jpg,1
+dataset\CARRIER\1679_selected_image (2).jpg,0
+dataset\CARRIER\467_selected_image (4).jpg,0
+dataset\SHIPPER\419_selected_image (3).jpg,1
+dataset\CARRIER\1898_selected_image.jpg,0
+dataset\SHIPPER\1761_selected_image (2).jpg,1
+dataset\SHIPPER\TGHU6256337_130718_02.jpg,1
+dataset\CARRIER\86_selected_image (2).jpg,0
+dataset\CARRIER\1251_selected_image (3).jpg,0
+dataset\SHIPPER\2016_selected_image.jpg,1
+dataset\SHIPPER\GESU2723929 (1).JPG,1
+dataset\CARRIER\1120_selected_image.jpg,0
+dataset\CARRIER\1842_selected_image (2).jpg,0
+dataset\CARRIER\967_selected_image (4).jpg,0
+dataset\SHIPPER\197_selected_image (3).jpg,1
+dataset\SHIPPER\2143_selected_image (3).jpg,1
+dataset\SHIPPER\GESU3902390_130610_03.jpg,1
+dataset\CARRIER\1784_selected_image.jpg,0
+dataset\SHIPPER\KWLU 2091903-1-1.JPG,1
+dataset\SHIPPER\808_selected_image (2).jpg,1
+dataset\CARRIER\159_selected_image.jpg,0
+dataset\CARRIER\37_selected_image (3).jpg,0
+dataset\CARRIER\KWLU2092406_140625_02.jpg,0
+dataset\SHIPPER\2184_selected_image (3).jpg,1
+dataset\SHIPPER\1248_selected_image (2).jpg,1
+dataset\CARRIER\829_selected_image (4).jpg,0
+dataset\CARRIER\XINU8199800-3.jpg,0
+dataset\SHIPPER\348_selected_image (3).jpg,1
+dataset\SHIPPER\1231_selected_image.jpg,1
+dataset\SHIPPER\1123_selected_image (3).jpg,1
+dataset\SHIPPER\1461_selected_image (3).jpg,1
+dataset\CARRIER\220_selected_image.jpg,0
+dataset\SHIPPER\1487_selected_image (2).jpg,1
+dataset\CARRIER\973_selected_image (4).jpg,0
+dataset\SHIPPER\435_selected_image (4).jpg,1
+dataset\CARRIER\915_selected_image.jpg,0
+dataset\CARRIER\GESU2594014_130731_06.jpg,0
+dataset\SHIPPER\1733_selected_image.jpg,1
+dataset\CARRIER\366_selected_image (3).jpg,0
+dataset\SHIPPER\624_selected_image (3).jpg,1
+dataset\CARRIER\604_selected_image.jpg,0
+dataset\SHIPPER\1105_selected_image.jpg,1
+dataset\SHIPPER\545_selected_image (2).jpg,1
+dataset\SHIPPER\321_selected_image (4).jpg,1
+dataset\SHIPPER\KWLU2877019_130905_01.jpg,1
+dataset\CARRIER\2032_selected_image (2).jpg,0
+dataset\CARRIER\1498_selected_image (2).jpg,0
+dataset\SHIPPER\1314_selected_image (2).jpg,1
+dataset\CARRIER\685_selected_image.jpg,0
+dataset\SHIPPER\KWLU5091466_140617_03.jpg,1
+dataset\CARRIER\KWLU2122590_140512_04.jpg,0
+dataset\SHIPPER\1401_selected_image.jpg,1
+dataset\CARRIER\1803_selected_image (2).jpg,0
+dataset\CARRIER\GESU3903822-4.jpg,0
+dataset\CARRIER\2336_selected_image.jpg,0
+dataset\SHIPPER\1337_selected_image (2).jpg,1
+dataset\SHIPPER\2330_selected_image (3).jpg,1
+dataset\SHIPPER\2169_selected_image (3).jpg,1
+dataset\CARRIER\1451_selected_image.jpg,0
+dataset\CARRIER\TGHU6256105-A.jpg,0
+dataset\CARRIER\1384_selected_image (2).jpg,0
+dataset\SHIPPER\1755_selected_image.jpg,1
+dataset\CARRIER\977_selected_image.jpg,0
+dataset\CARRIER\1422_selected_image (3).jpg,0
+dataset\CARRIER\18_selected_image.jpg,0
+dataset\SHIPPER\1594_selected_image (2).jpg,1
+dataset\SHIPPER\989_selected_image (2).jpg,1
+dataset\SHIPPER\2246_selected_image (3).jpg,1
+dataset\CARRIER\730_selected_image (3).jpg,0
+dataset\CARRIER\117_selected_image (4).jpg,0
+dataset\SHIPPER\728_selected_image (2).jpg,1
+dataset\SHIPPER\GESU 6380833-3.jpg,1
+dataset\CARRIER\1532_selected_image (2).jpg,0
+dataset\SHIPPER\2021_selected_image (3).jpg,1
+dataset\CARRIER\GESU3903036_130520_02.jpg,0
+dataset\SHIPPER\DSCF6264_0.jpg,1
+dataset\SHIPPER\49_selected_image (4).jpg,1
+dataset\CARRIER\419_selected_image (3).jpg,0
+dataset\SHIPPER\2376_selected_image.jpg,1
+dataset\SHIPPER\2206_selected_image (2).jpg,1
+dataset\CARRIER\GESU6380556_130617_01.jpg,0
+dataset\CARRIER\279_selected_image (4).jpg,0
+dataset\SHIPPER\302_selected_image.jpg,1
+dataset\CARRIER\812_selected_image (3).jpg,0
+dataset\CARRIER\81_selected_image.jpg,0
+dataset\CARRIER\745_selected_image.jpg,0
+dataset\SHIPPER\991_selected_image (3).jpg,1
+dataset\SHIPPER\1670_selected_image (2).jpg,1
+dataset\CARRIER\388_selected_image (3).jpg,0
+dataset\SHIPPER\882_selected_image (4).jpg,1
+dataset\SHIPPER\2244_selected_image (2).jpg,1
+dataset\CARRIER\1952_selected_image.jpg,0
+dataset\CARRIER\241_selected_image.jpg,0
+dataset\SHIPPER\1008_selected_image.jpg,1
+dataset\SHIPPER\2111_selected_image.jpg,1
+dataset\CARRIER\KWLU2070053_130507_01.jpg,0
+dataset\CARRIER\KWLU5813933-3.jpg,0
+dataset\CARRIER\1216_selected_image (2).jpg,0
+dataset\CARRIER\1361_selected_image (3).jpg,0
+dataset\SHIPPER\15_selected_image (3).jpg,1
+dataset\CARRIER\KWLU 5121576-1.jpg,0
+dataset\SHIPPER\897_selected_image (4).jpg,1
+dataset\CARRIER\1698_selected_image.jpg,0
+dataset\CARRIER\XINU8198090_130909_04.jpg,0
+dataset\CARRIER\GESU3303659_130624_03.jpg,0
+dataset\CARRIER\42_selected_image (4).jpg,0
+dataset\SHIPPER\884_selected_image (3).jpg,1
+dataset\SHIPPER\571_selected_image.jpg,1
+dataset\SHIPPER\578_selected_image (4).jpg,1
+dataset\CARRIER\342_selected_image (4).jpg,0
+dataset\SHIPPER\1637_selected_image (3).jpg,1
+dataset\CARRIER\GESU 2726933-1.JPG,0
+dataset\CARRIER\KWLU4070582-4.jpg,0
+dataset\CARRIER\KWLU 2120283-3.JPG,0
+dataset\SHIPPER\1312_selected_image (3).jpg,1
+dataset\SHIPPER\186_selected_image (4).jpg,1
+dataset\SHIPPER\DSCF5474_0.jpg,1
+dataset\CARRIER\1564_selected_image.jpg,0
+dataset\CARRIER\1176_selected_image.jpg,0
+dataset\SHIPPER\1528_selected_image (2).jpg,1
+dataset\SHIPPER\968_selected_image (2).jpg,1
+dataset\SHIPPER\683_selected_image.jpg,1
+dataset\SHIPPER\519_selected_image.jpg,1
+dataset\CARRIER\1775_selected_image (2).jpg,0
+dataset\CARRIER\GESU2980927_140219_05.jpg,0
+dataset\CARRIER\TEMU2425083-3.jpg,0
+dataset\CARRIER\808_selected_image (2).jpg,0
+dataset\SHIPPER\580_selected_image (2).jpg,1
+dataset\CARRIER\1847_selected_image.jpg,0
+dataset\CARRIER\369_selected_image.jpg,0
+dataset\SHIPPER\WFHU1349763_140624_03.jpg,1
+dataset\SHIPPER\453_selected_image.jpg,1
+dataset\SHIPPER\497_selected_image.jpg,1
+dataset\SHIPPER\GESU6575305_140617_05.jpg,1
+dataset\CARRIER\1201_selected_image.jpg,0
+dataset\CARRIER\370_selected_image (3).jpg,0
+dataset\SHIPPER\32_selected_image.jpg,1
+dataset\SHIPPER\1226_selected_image.jpg,1
+dataset\CARRIER\1279_selected_image (3).jpg,0
+dataset\SHIPPER\906_selected_image (2).jpg,1
+dataset\CARRIER\1561_selected_image.jpg,0
+dataset\CARRIER\GESU3903289_130930_04.jpg,0
+dataset\SHIPPER\KWCU 3616473-1.jpg,1
+dataset\CARRIER\1382_selected_image.jpg,0
+dataset\SHIPPER\1887_selected_image (3).jpg,1
+dataset\SHIPPER\1949_selected_image (2).jpg,1
+dataset\SHIPPER\573_selected_image (2).jpg,1
+dataset\CARRIER\554_selected_image (2).jpg,0
+dataset\CARRIER\989_selected_image.jpg,0
+dataset\SHIPPER\2011_selected_image.jpg,1
+dataset\SHIPPER\1561_selected_image (3).jpg,1
+dataset\CARRIER\GSTU2976492_140603_01.jpg,0
+dataset\SHIPPER\1752_selected_image.jpg,1
+dataset\SHIPPER\2151_selected_image (2).jpg,1
+dataset\SHIPPER\GESU5310847_140617_04.jpg,1
+dataset\CARRIER\2054_selected_image (2).jpg,0
+dataset\CARRIER\381_selected_image (2).jpg,0
+dataset\CARRIER\2129_selected_image.jpg,0
+dataset\SHIPPER\HJCU7897011_140607_03.jpg,1
+dataset\CARRIER\1111_selected_image.jpg,0
+dataset\SHIPPER\679_selected_image (4).jpg,1
+dataset\SHIPPER\433_selected_image (2).jpg,1
+dataset\SHIPPER\2384_selected_image (2).jpg,1
+dataset\CARRIER\2314_selected_image.jpg,0
+dataset\CARRIER\TTNU4362500-3.jpg,0
+dataset\CARRIER\655_selected_image (4).jpg,0
+dataset\CARRIER\KWLU2092371_140512_03.jpg,0
+dataset\CARRIER\KWLU4130906-3.jpg,0
+dataset\CARRIER\613_selected_image.jpg,0
+dataset\CARRIER\2431_selected_image.jpg,0
+dataset\SHIPPER\121_selected_image (4).jpg,1
+dataset\SHIPPER\915_selected_image (3).jpg,1
+dataset\SHIPPER\991_selected_image (2).jpg,1
+dataset\SHIPPER\2277_selected_image (3).jpg,1
+dataset\SHIPPER\1979_selected_image (2).jpg,1
+dataset\CARRIER\GESU3902641_130520_04.jpg,0
+dataset\SHIPPER\1796_selected_image.jpg,1
+dataset\CARRIER\GESU 1408202-1.jpg,0
+dataset\SHIPPER\1421_selected_image (3).jpg,1
+dataset\CARRIER\949_selected_image.jpg,0
+dataset\CARRIER\GESU5424710_130617_01.jpg,0
+dataset\CARRIER\758_selected_image (2).jpg,0
+dataset\SHIPPER\598_selected_image.jpg,1
+dataset\CARRIER\616_selected_image (4).jpg,0
+dataset\CARRIER\KWLU 2091992-1.JPG,0
+dataset\SHIPPER\WFHU 1351462-2-1.jpg,1
+dataset\SHIPPER\705_selected_image (3).jpg,1
+dataset\SHIPPER\453_selected_image (2).jpg,1
+dataset\CARRIER\NYKU2465557_130720_02.jpg,0
+dataset\CARRIER\852_selected_image (2).jpg,0
+dataset\SHIPPER\873_selected_image.jpg,1
+dataset\CARRIER\1115_selected_image.jpg,0
+dataset\SHIPPER\479_selected_image.jpg,1
+dataset\SHIPPER\2017_selected_image (3).jpg,1
+dataset\SHIPPER\529_selected_image.jpg,1
+dataset\CARRIER\749_selected_image (2).jpg,0
+dataset\SHIPPER\1130_selected_image.jpg,1
+dataset\CARRIER\GESU2699843_130731_02.jpg,0
+dataset\CARRIER\KWLU 2090785-2.JPG,0
+dataset\SHIPPER\KWLU2070602_130812_01.jpg,1
+dataset\CARRIER\146_selected_image (2).jpg,0
+dataset\CARRIER\317_selected_image.jpg,0
+dataset\SHIPPER\1570_selected_image (3).jpg,1
+dataset\CARRIER\XINU8200670_131129_02.jpg,0
+dataset\SHIPPER\1454_selected_image (2).jpg,1
+dataset\CARRIER\KWLU 5090367-2.jpg,0
+dataset\CARRIER\1364_selected_image (2).jpg,0
+dataset\SHIPPER\249_selected_image.jpg,1
+dataset\CARRIER\GESU6574865-5.jpg,0
+dataset\SHIPPER\124_selected_image (4).jpg,1
+dataset\CARRIER\185_selected_image.jpg,0
+dataset\CARRIER\367_selected_image (3).jpg,0
+dataset\SHIPPER\1980_selected_image.jpg,1
+dataset\CARRIER\2276_selected_image (2).jpg,0
+dataset\CARRIER\1392_selected_image (2).jpg,0
+dataset\SHIPPER\KWLU5131276_140604_02.jpg,1
+dataset\CARRIER\WFHU5137783-4.jpg,0
+dataset\SHIPPER\KWLU5122818_131118_04.jpg,1
+dataset\CARRIER\231_selected_image.jpg,0
+dataset\CARRIER\856_selected_image (3).jpg,0
+dataset\CARRIER\804_selected_image.jpg,0
+dataset\CARRIER\1356_selected_image.jpg,0
+dataset\SHIPPER\1868_selected_image (3).jpg,1
+dataset\SHIPPER\FCIU8524679_131004_04.jpg,1
+dataset\SHIPPER\950_selected_image (4).jpg,1
+dataset\SHIPPER\1538_selected_image.jpg,1
+dataset\SHIPPER\1897_selected_image.jpg,1
+dataset\SHIPPER\1522_selected_image (2).jpg,1
+dataset\SHIPPER\2096_selected_image (3).jpg,1
+dataset\SHIPPER\272_selected_image (4).jpg,1
+dataset\CARRIER\GESU3904731_130816_01.jpg,0
+dataset\CARRIER\569_selected_image (3).jpg,0
+dataset\SHIPPER\GESU6379832_130928_01.jpg,1
+dataset\CARRIER\1326_selected_image.jpg,0
+dataset\CARRIER\908_selected_image (3).jpg,0
+dataset\SHIPPER\642_selected_image.jpg,1
+dataset\CARRIER\913_selected_image (2).jpg,0
+dataset\CARRIER\1172_selected_image (3).jpg,0
+dataset\CARRIER\TEMU2422994_130603_02.jpg,0
+dataset\SHIPPER\1335_selected_image.jpg,1
+dataset\SHIPPER\GESU2623745_140624_02.jpg,1
+dataset\SHIPPER\KWLU2120473_131118_02.jpg,1
+dataset\SHIPPER\683_selected_image (3).jpg,1
+dataset\SHIPPER\2116_selected_image (3).jpg,1
+dataset\CARRIER\GESU2320203_131118_01.jpg,0
+dataset\SHIPPER\695_selected_image (2).jpg,1
+dataset\CARRIER\538_selected_image (2).jpg,0
+dataset\SHIPPER\1866_selected_image (3).jpg,1
+dataset\SHIPPER\1283_selected_image (3).jpg,1
+dataset\SHIPPER\445_selected_image (3).jpg,1
+dataset\CARRIER\470_selected_image.jpg,0
+dataset\CARRIER\957_selected_image.jpg,0
+dataset\SHIPPER\491_selected_image.jpg,1
+dataset\CARRIER\KWLU2070876-B.jpg,0
+dataset\SHIPPER\697_selected_image (4).jpg,1
+dataset\CARRIER\KWLU2070686_140307_02.jpg,0
+dataset\SHIPPER\2357_selected_image (2).jpg,1
+dataset\CARRIER\787_selected_image (2).jpg,0
+dataset\CARRIER\233_selected_image (3).jpg,0
+dataset\CARRIER\TGHU6256424_140616_01.jpg,0
+dataset\SHIPPER\GATU0851150_130610_04.jpg,1
+dataset\SHIPPER\2131_selected_image (2).jpg,1
+dataset\CARRIER\1907_selected_image (2).jpg,0
+dataset\SHIPPER\527_selected_image (4).jpg,1
+dataset\CARRIER\935_selected_image (2).jpg,0
+dataset\SHIPPER\254_selected_image.jpg,1
+dataset\CARRIER\2105_selected_image.jpg,0
+dataset\CARRIER\1449_selected_image.jpg,0
+dataset\CARRIER\2157_selected_image (2).jpg,0
+dataset\CARRIER\WFHU1349758_140219_04.jpg,0
+dataset\CARRIER\21_selected_image (3).jpg,0
+dataset\CARRIER\KWLU5121534-1.jpg,0
+dataset\CARRIER\916_selected_image (3).jpg,0
+dataset\SHIPPER\716_selected_image (2).jpg,1
+dataset\CARRIER\996_selected_image (4).jpg,0
+dataset\CARRIER\79_selected_image (4).jpg,0
+dataset\CARRIER\1178_selected_image (3).jpg,0
+dataset\SHIPPER\56_selected_image (2).jpg,1
+dataset\CARRIER\1663_selected_image.jpg,0
+dataset\CARRIER\300_selected_image (4).jpg,0
+dataset\CARRIER\515_selected_image (4).jpg,0
+dataset\SHIPPER\1427_selected_image (2).jpg,1
+dataset\SHIPPER\961_selected_image.jpg,1
+dataset\CARRIER\GESU3107424-2.jpg,0
+dataset\SHIPPER\834_selected_image (4).jpg,1
+dataset\SHIPPER\901_selected_image (4).jpg,1
+dataset\SHIPPER\249_selected_image (3).jpg,1
+dataset\CARRIER\1461_selected_image.jpg,0
+dataset\SHIPPER\1990_selected_image (2).jpg,1
+dataset\CARRIER\GESU3902739_130619_02.jpg,0
+dataset\SHIPPER\TEMU 2424106-2.jpg,1
+dataset\SHIPPER\390_selected_image (4).jpg,1
+dataset\CARRIER\1431_selected_image.jpg,0
+dataset\SHIPPER\407_selected_image (2).jpg,1
+dataset\SHIPPER\1236_selected_image (3).jpg,1
+dataset\SHIPPER\822_selected_image (2).jpg,1
+dataset\CARRIER\1796_selected_image (2).jpg,0
+dataset\SHIPPER\2286_selected_image.jpg,1
+dataset\SHIPPER\2366_selected_image (2).jpg,1
+dataset\CARRIER\GESU3262729_140618_02.jpg,0
+dataset\CARRIER\TEMU2421914_131225_05.jpg,0
+dataset\CARRIER\2360_selected_image.jpg,0
+dataset\CARRIER\457_selected_image (4).jpg,0
+dataset\CARRIER\870_selected_image.jpg,0
+dataset\SHIPPER\380_selected_image (4).jpg,1
+dataset\SHIPPER\195_selected_image (2).jpg,1
+dataset\CARRIER\2292_selected_image (2).jpg,0
+dataset\SHIPPER\2163_selected_image (3).jpg,1
+dataset\CARRIER\630_selected_image (4).jpg,0
+dataset\CARRIER\1309_selected_image (3).jpg,0
+dataset\SHIPPER\1069_selected_image (3).jpg,1
+dataset\CARRIER\282_selected_image.jpg,0
+dataset\CARRIER\119_selected_image.jpg,0
+dataset\CARRIER\1351_selected_image.jpg,0
+dataset\CARRIER\82_selected_image (2).jpg,0
+dataset\CARRIER\762_selected_image (2).jpg,0
+dataset\SHIPPER\2097_selected_image (3).jpg,1
+dataset\CARRIER\834_selected_image.jpg,0
+dataset\SHIPPER\WFHU5137593_131004_06.jpg,1
+dataset\CARRIER\GESU1409600_140603_03.jpg,0
+dataset\SHIPPER\ECMU 1122649-2.jpg,1
+dataset\SHIPPER\477_selected_image (2).jpg,1
+dataset\SHIPPER\92_selected_image (2).jpg,1
+dataset\SHIPPER\1928_selected_image.jpg,1
+dataset\CARRIER\415_selected_image (4).jpg,0
+dataset\CARRIER\2296_selected_image (2).jpg,0
+dataset\CARRIER\629_selected_image (4).jpg,0
+dataset\SHIPPER\1643_selected_image (3).jpg,1
+dataset\SHIPPER\2191_selected_image.jpg,1
+dataset\SHIPPER\469_selected_image.jpg,1
+dataset\SHIPPER\2302_selected_image (2).jpg,1
+dataset\CARRIER\1346_selected_image (2).jpg,0
+dataset\CARRIER\1012_selected_image (2).jpg,0
+dataset\SHIPPER\643_selected_image (4).jpg,1
+dataset\SHIPPER\975_selected_image (2).jpg,1
+dataset\CARRIER\88_selected_image.jpg,0
+dataset\CARRIER\1116_selected_image.jpg,0
+dataset\SHIPPER\2386_selected_image.jpg,1
+dataset\CARRIER\GESU 3904290-2.JPG,0
+dataset\CARRIER\2319_selected_image (2).jpg,0
+dataset\CARRIER\KWLU2121850-3.jpg,0
+dataset\CARRIER\TGHU6256260_130615_02.jpg,0
+dataset\CARRIER\KWLU2070834_130603_01.jpg,0
+dataset\SHIPPER\360_selected_image (2).jpg,1
+dataset\CARRIER\1870_selected_image (2).jpg,0
+dataset\SHIPPER\WFHU5132919_130720_02.jpg,1
+dataset\CARRIER\68_selected_image.jpg,0
+dataset\SHIPPER\DSCF5475.jpg,1
+dataset\SHIPPER\2223_selected_image (3).jpg,1
+dataset\SHIPPER\67_selected_image (4).jpg,1
+dataset\CARRIER\KWLU2091544_131004_05.jpg,0
+dataset\CARRIER\1339_selected_image (3).jpg,0
+dataset\SHIPPER\13_selected_image (3).jpg,1
+dataset\SHIPPER\2218_selected_image (2).jpg,1
+dataset\SHIPPER\KWLU5091229_131203_02.jpg,1
+dataset\CARRIER\2117_selected_image.jpg,0
+dataset\SHIPPER\707_selected_image (4).jpg,1
+dataset\CARRIER\2308_selected_image.jpg,0
+dataset\CARRIER\2185_selected_image (2).jpg,0
+dataset\CARRIER\1471_selected_image.jpg,0
+dataset\CARRIER\984_selected_image (3).jpg,0
+dataset\CARRIER\KWLU5132971-2.jpg,0
+dataset\SHIPPER\1075_selected_image (2).jpg,1
+dataset\SHIPPER\1393_selected_image (2).jpg,1
+dataset\SHIPPER\687_selected_image.jpg,1
+dataset\CARRIER\1103_selected_image (3).jpg,0
+dataset\CARRIER\KWLU2970923_140607_02.jpg,0
+dataset\CARRIER\1107_selected_image (2).jpg,0
+dataset\CARRIER\KWLU5130520-3.jpg,0
+dataset\CARRIER\747_selected_image (4).jpg,0
+dataset\SHIPPER\KWLU2091570-2.jpg,1
+dataset\CARRIER\2138_selected_image (2).jpg,0
+dataset\CARRIER\1095_selected_image (3).jpg,0
+dataset\SHIPPER\913_selected_image.jpg,1
+dataset\CARRIER\851_selected_image (3).jpg,0
+dataset\CARRIER\1220_selected_image (2).jpg,0
+dataset\SHIPPER\1893_selected_image.jpg,1
+dataset\CARRIER\1723_selected_image.jpg,0
+dataset\SHIPPER\197_selected_image (2).jpg,1
+dataset\CARRIER\499_selected_image (2).jpg,0
+dataset\CARRIER\GATU0320683_130610_05.jpg,0
+dataset\SHIPPER\1093_selected_image (3).jpg,1
+dataset\CARRIER\752_selected_image (4).jpg,0
+dataset\CARRIER\888_selected_image.jpg,0
+dataset\CARRIER\2213_selected_image (2).jpg,0
+dataset\SHIPPER\2150_selected_image.jpg,1
+dataset\SHIPPER\351_selected_image.jpg,1
+dataset\SHIPPER\729_selected_image (2).jpg,1
+dataset\CARRIER\KWLU2121762_130812_01.jpg,0
+dataset\SHIPPER\236_selected_image (4).jpg,1
+dataset\SHIPPER\473_selected_image (4).jpg,1
+dataset\SHIPPER\502_selected_image.jpg,1
+dataset\SHIPPER\870_selected_image (3).jpg,1
+dataset\SHIPPER\1156_selected_image (4).jpg,1
+dataset\SHIPPER\2305_selected_image (3).jpg,1
+dataset\SHIPPER\2348_selected_image.jpg,1
+dataset\SHIPPER\994_selected_image (2).jpg,1
+dataset\SHIPPER\33_selected_image (3).jpg,1
+dataset\CARRIER\656_selected_image (4).jpg,0
+dataset\CARRIER\1385_selected_image.jpg,0
+dataset\CARRIER\GESU3903226-2.jpg,0
+dataset\SHIPPER\1154_selected_image.jpg,1
+dataset\CARRIER\955_selected_image (4).jpg,0
+dataset\SHIPPER\1643_selected_image.jpg,1
+dataset\CARRIER\XINU4026318_131004_05.jpg,0
+dataset\SHIPPER\232_selected_image (4).jpg,1
+dataset\SHIPPER\887_selected_image (3).jpg,1
+dataset\CARRIER\1137_selected_image (3).jpg,0
+dataset\SHIPPER\1877_selected_image.jpg,1
+dataset\CARRIER\XINU4026637_130930_05.jpg,0
+dataset\CARRIER\GESU2244422_131129_04.jpg,0
+dataset\SHIPPER\1139_selected_image (2).jpg,1
+dataset\SHIPPER\1053_selected_image (3).jpg,1
+dataset\SHIPPER\1998_selected_image.jpg,1
+dataset\SHIPPER\160_selected_image (3).jpg,1
+dataset\SHIPPER\271_selected_image (3).jpg,1
+dataset\SHIPPER\1243_selected_image (2).jpg,1
+dataset\CARRIER\GESU6380371-A.jpg,0
+dataset\CARRIER\2044_selected_image (2).jpg,0
+dataset\SHIPPER\2136_selected_image.jpg,1
+dataset\CARRIER\1634_selected_image.jpg,0
+dataset\CARRIER\GESU2985826_130703_01.jpg,0
+dataset\CARRIER\2417_selected_image.jpg,0
+dataset\SHIPPER\1156_selected_image (3).jpg,1
+dataset\CARRIER\564_selected_image (3).jpg,0
+dataset\SHIPPER\GESU6379431_140607_04.jpg,1
+dataset\CARRIER\KWLU2070583_131118_01.jpg,0
+dataset\CARRIER\742_selected_image (3).jpg,0
+dataset\CARRIER\1042_selected_image.jpg,0
+dataset\SHIPPER\689_selected_image (4).jpg,1
+dataset\CARRIER\1188_selected_image (3).jpg,0
+dataset\SHIPPER\135_selected_image (4).jpg,1
+dataset\CARRIER\503_selected_image.jpg,0
+dataset\CARRIER\KWLU5121262_130720_01.jpg,0
+dataset\CARRIER\737_selected_image (4).jpg,0
+dataset\SHIPPER\GESU 6380453-3.jpg,1
+dataset\CARRIER\372_selected_image (3).jpg,0
+dataset\CARRIER\TEMU2420409_130520_03.jpg,0
+dataset\CARRIER\793_selected_image.jpg,0
+dataset\SHIPPER\695_selected_image (3).jpg,1
+dataset\CARRIER\KWLU 2121952-1.JPG,0
+dataset\SHIPPER\1440_selected_image (2).jpg,1
+dataset\SHIPPER\318_selected_image (4).jpg,1
+dataset\CARRIER\842_selected_image (3).jpg,0
+dataset\SHIPPER\1493_selected_image.jpg,1
+dataset\SHIPPER\270_selected_image (2).jpg,1
+dataset\SHIPPER\1850_selected_image (2).jpg,1
+dataset\CARRIER\GESU2358174_130611_02.jpg,0
+dataset\CARRIER\393_selected_image (2).jpg,0
+dataset\CARRIER\KWLU2092617_140624_02.jpg,0
+dataset\SHIPPER\KWLU5091511_140506_03.jpg,1
+dataset\SHIPPER\KWLU2092181_140227_02.jpg,1
+dataset\SHIPPER\1161_selected_image.jpg,1
+dataset\CARRIER\665_selected_image (4).jpg,0
+dataset\SHIPPER\189_selected_image.jpg,1
+dataset\CARRIER\1052_selected_image (2).jpg,0
+dataset\CARRIER\866_selected_image.jpg,0
+dataset\SHIPPER\969_selected_image.jpg,1
+dataset\CARRIER\KWLU2092495_130704_01.jpg,0
+dataset\SHIPPER\718_selected_image.jpg,1
+dataset\CARRIER\666_selected_image (4).jpg,0
+dataset\SHIPPER\647_selected_image (3).jpg,1
+dataset\CARRIER\FSCU3320352_130528_02.jpg,0
+dataset\CARRIER\TEMU2421344_140512_09.jpg,0
+dataset\SHIPPER\471_selected_image (4).jpg,1
+dataset\SHIPPER\1039_selected_image.jpg,1
+dataset\CARRIER\1551_selected_image.jpg,0
+dataset\CARRIER\152_selected_image.jpg,0
+dataset\SHIPPER\16_selected_image (4).jpg,1
+dataset\SHIPPER\GESU2204923_130430_02.jpg,1
+dataset\CARRIER\2271_selected_image (2).jpg,0
+dataset\CARRIER\620_selected_image (3).jpg,0
+dataset\CARRIER\795_selected_image (4).jpg,0
+dataset\CARRIER\743_selected_image.jpg,0
+dataset\CARRIER\811_selected_image (2).jpg,0
+dataset\CARRIER\1726_selected_image.jpg,0
+dataset\SHIPPER\2138_selected_image (3).jpg,1
+dataset\CARRIER\960_selected_image.jpg,0
+dataset\SHIPPER\WFHU1349803+ (3).JPG,1
+dataset\SHIPPER\1611_selected_image (3).jpg,1
+dataset\SHIPPER\233_selected_image (2).jpg,1
+dataset\SHIPPER\321_selected_image (2).jpg,1
+dataset\CARRIER\430_selected_image (4).jpg,0
+dataset\CARRIER\961_selected_image (2).jpg,0
+dataset\SHIPPER\267_selected_image (3).jpg,1
+dataset\CARRIER\1986_selected_image (2).jpg,0
+dataset\CARRIER\950_selected_image (4).jpg,0
+dataset\SHIPPER\836_selected_image (2).jpg,1
+dataset\CARRIER\565_selected_image (2).jpg,0
+dataset\CARRIER\1156_selected_image (3).jpg,0
+dataset\CARRIER\WFHU 1297485-1.JPG,0
+dataset\CARRIER\GESU6575120-2.jpg,0
+dataset\CARRIER\KWLU5092586_140531_03.jpg,0
+dataset\SHIPPER\2175_selected_image (2).jpg,1
+dataset\SHIPPER\GESU6575291-9.jpg,1
+dataset\CARRIER\987_selected_image (4).jpg,0
+dataset\CARRIER\506_selected_image (2).jpg,0
+dataset\SHIPPER\1709_selected_image.jpg,1
+dataset\CARRIER\1438_selected_image (2).jpg,0
+dataset\CARRIER\1128_selected_image (3).jpg,0
+dataset\CARRIER\977_selected_image (3).jpg,0
+dataset\CARRIER\869_selected_image.jpg,0
+dataset\SHIPPER\KWLU 2070834-1.JPG,1
+dataset\SHIPPER\1034_selected_image (4).jpg,1
+dataset\SHIPPER\275_selected_image (4).jpg,1
+dataset\CARRIER\1739_selected_image (2).jpg,0
+dataset\SHIPPER\793_selected_image (2).jpg,1
+dataset\SHIPPER\295_selected_image (3).jpg,1
+dataset\CARRIER\563_selected_image (3).jpg,0
+dataset\SHIPPER\82_selected_image (3).jpg,1
+dataset\SHIPPER\2291_selected_image.jpg,1
+dataset\CARRIER\1373_selected_image.jpg,0
+dataset\CARRIER\KWLU2120956-1.jpg,0
+dataset\CARRIER\KWLU 2092453-1-1.JPG,0
+dataset\SHIPPER\2074_selected_image (3).jpg,1
+dataset\CARRIER\904_selected_image (2).jpg,0
+dataset\CARRIER\KWLU5092884_140604_02.jpg,0
+dataset\CARRIER\10_selected_image.jpg,0
+dataset\SHIPPER\620_selected_image.jpg,1
+dataset\CARRIER\KWLU5121792-2.jpg,0
+dataset\SHIPPER\983_selected_image.jpg,1
+dataset\SHIPPER\117_selected_image (3).jpg,1
+dataset\CARRIER\15_selected_image.jpg,0
+dataset\SHIPPER\30_selected_image (3).jpg,1
+dataset\SHIPPER\676_selected_image (3).jpg,1
+dataset\CARRIER\1023_selected_image (2).jpg,0
+dataset\CARRIER\501_selected_image (3).jpg,0
+dataset\CARRIER\329_selected_image (4).jpg,0
+dataset\CARRIER\466_selected_image (4).jpg,0
+dataset\CARRIER\1121_selected_image (3).jpg,0
+dataset\SHIPPER\1376_selected_image.jpg,1
+dataset\SHIPPER\UESU4707900_140623_03.jpg,1
+dataset\CARRIER\1543_selected_image.jpg,0
+dataset\SHIPPER\GESU2358174_130611_03.jpg,1
+dataset\SHIPPER\256_selected_image.jpg,1
+dataset\SHIPPER\1006_selected_image (2).jpg,1
+dataset\CARRIER\GESU3905213_130619_03.jpg,0
+dataset\CARRIER\2098_selected_image.jpg,0
+dataset\SHIPPER\GESU3902770-6.jpg,1
+dataset\CARRIER\1342_selected_image (2).jpg,0
+dataset\SHIPPER\518_selected_image (3).jpg,1
+dataset\CARRIER\250_selected_image.jpg,0
+dataset\SHIPPER\667_selected_image.jpg,1
+dataset\SHIPPER\101_selected_image.jpg,1
+dataset\CARRIER\144_selected_image.jpg,0
+dataset\SHIPPER\2264_selected_image (2).jpg,1
+dataset\CARRIER\1530_selected_image.jpg,0
+dataset\CARRIER\2156_selected_image (2).jpg,0
+dataset\CARRIER\47_selected_image (3).jpg,0
+dataset\SHIPPER\39_selected_image.jpg,1
+dataset\SHIPPER\1354_selected_image (3).jpg,1
+dataset\CARRIER\2_selected_image (2).jpg,0
+dataset\CARRIER\389_selected_image (4).jpg,0
+dataset\SHIPPER\970_selected_image (3).jpg,1
+dataset\CARRIER\405_selected_image (3).jpg,0
+dataset\CARRIER\1368_selected_image (3).jpg,0
+dataset\CARRIER\KWLU2092772-B.jpg,0
+dataset\CARRIER\CRXU1726207_130708_03.jpg,0
+dataset\SHIPPER\509_selected_image (3).jpg,1
+dataset\CARRIER\1849_selected_image.jpg,0
+dataset\SHIPPER\1388_selected_image (2).jpg,1
+dataset\CARRIER\1380_selected_image (2).jpg,0
+dataset\CARRIER\KWLU2090569_131224_07.jpg,0
+dataset\CARRIER\114_selected_image.jpg,0
+dataset\SHIPPER\1978_selected_image (2).jpg,1
+dataset\CARRIER\975_selected_image.jpg,0
+dataset\SHIPPER\1347_selected_image (3).jpg,1
+dataset\SHIPPER\189_selected_image (2).jpg,1
+dataset\CARRIER\533_selected_image (2).jpg,0
+dataset\CARRIER\542_selected_image.jpg,0
+dataset\SHIPPER\GESU5310847_140617_08.jpg,1
+dataset\SHIPPER\1019_selected_image (3).jpg,1
+dataset\SHIPPER\1903_selected_image (2).jpg,1
+dataset\SHIPPER\1351_selected_image.jpg,1
+dataset\SHIPPER\1502_selected_image (2).jpg,1
+dataset\SHIPPER\1612_selected_image (3).jpg,1
+dataset\SHIPPER\443_selected_image (3).jpg,1
+dataset\CARRIER\CAXU2509069_140226_02.jpg,0
+dataset\SHIPPER\826_selected_image (3).jpg,1
+dataset\CARRIER\KWLU 2122408-1.JPG,0
+dataset\SHIPPER\674_selected_image (2).jpg,1
+dataset\SHIPPER\1874_selected_image (3).jpg,1
+dataset\CARRIER\1921_selected_image (2).jpg,0
+dataset\CARRIER\1622_selected_image (2).jpg,0
+dataset\SHIPPER\KWLU2121253_140625_04.jpg,1
+dataset\SHIPPER\470_selected_image.jpg,1
+dataset\CARRIER\WFHU 5140848-1.jpg,0
+dataset\SHIPPER\164_selected_image (2).jpg,1
+dataset\CARRIER\GESU1407361_140618_03.jpg,0
+dataset\SHIPPER\792_selected_image (2).jpg,1
+dataset\CARRIER\135_selected_image.jpg,0
+dataset\SHIPPER\54_selected_image (4).jpg,1
+dataset\CARRIER\377_selected_image (2).jpg,0
+dataset\CARRIER\577_selected_image (3).jpg,0
+dataset\CARRIER\KWLU2092005_140410_05.jpg,0
+dataset\CARRIER\1455_selected_image (2).jpg,0
+dataset\SHIPPER\831_selected_image (2).jpg,1
+dataset\CARRIER\KWLU2122650_130812_01.jpg,0
+dataset\CARRIER\KWLU2092638-B.jpg,0
+dataset\CARRIER\2024_selected_image.jpg,0
+dataset\CARRIER\520_selected_image (3).jpg,0
+dataset\SHIPPER\1207_selected_image.jpg,1
+dataset\CARRIER\1706_selected_image (2).jpg,0
+dataset\CARRIER\1907_selected_image.jpg,0
+dataset\SHIPPER\392_selected_image (4).jpg,1
+dataset\SHIPPER\150_selected_image (3).jpg,1
+dataset\CARRIER\148_selected_image.jpg,0
+dataset\SHIPPER\DSCF5493_0.jpg,1
+dataset\CARRIER\GESU2503652_130930_02.jpg,0
+dataset\CARRIER\270_selected_image (3).jpg,0
+dataset\SHIPPER\KWLU5813933- (2).JPG,1
+dataset\SHIPPER\27_selected_image.jpg,1
+dataset\CARRIER\1490_selected_image.jpg,0
+dataset\SHIPPER\1032_selected_image (3).jpg,1
+dataset\CARRIER\1906_selected_image.jpg,0
+dataset\SHIPPER\2080_selected_image (3).jpg,1
+dataset\SHIPPER\1767_selected_image (3).jpg,1
+dataset\SHIPPER\856_selected_image (4).jpg,1
+dataset\CARRIER\574_selected_image (3).jpg,0
+dataset\SHIPPER\32_selected_image (2).jpg,1
+dataset\SHIPPER\GESU3904747_131202_02.jpg,1
+dataset\SHIPPER\1518_selected_image.jpg,1
+dataset\SHIPPER\KWLU5092668_131004_04.jpg,1
+dataset\CARRIER\862_selected_image.jpg,0
+dataset\CARRIER\1249_selected_image (3).jpg,0
+dataset\SHIPPER\CAXU6605100_140603_03.jpg,1
+dataset\CARRIER\364_selected_image (3).jpg,0
+dataset\CARRIER\KWLU2120160_130528_03.jpg,0
+dataset\SHIPPER\GESU2841768_130824_07.jpg,1
+dataset\SHIPPER\23_selected_image (3).jpg,1
+dataset\SHIPPER\340_selected_image (4).jpg,1
+dataset\SHIPPER\GESU1409678_130716_04.jpg,1
+dataset\CARRIER\1214_selected_image (2).jpg,0
+dataset\SHIPPER\2369_selected_image.jpg,1
+dataset\CARRIER\GESU 3902847-1.jpg,0
+dataset\SHIPPER\121_selected_image (2).jpg,1
+dataset\CARRIER\1086_selected_image (3).jpg,0
+dataset\SHIPPER\1552_selected_image (2).jpg,1
+dataset\CARRIER\1645_selected_image (2).jpg,0
+dataset\SHIPPER\KWLU2092480_131207_10.jpg,1
+dataset\SHIPPER\2238_selected_image (3).jpg,1
+dataset\CARRIER\GATU0115821_130619_02.jpg,0
+dataset\CARRIER\WFHU1349824_130326_03.jpg,0
+dataset\CARRIER\WFHU1350050_130528_02.jpg,0
+dataset\CARRIER\TGHU6550906_131004_13.jpg,0
+dataset\CARRIER\2241_selected_image (2).jpg,0
+dataset\SHIPPER\2005_selected_image (2).jpg,1
+dataset\CARRIER\401_selected_image (4).jpg,0
+dataset\CARRIER\253_selected_image (2).jpg,0
+dataset\CARRIER\534_selected_image (4).jpg,0
+dataset\SHIPPER\51_selected_image (3).jpg,1
+dataset\CARRIER\KWLU2091879_131202_02.jpg,0
+dataset\CARRIER\UESU5091130_140623_03.jpg,0
+dataset\SHIPPER\256_selected_image (4).jpg,1
+dataset\CARRIER\2236_selected_image.jpg,0
+dataset\CARRIER\77_selected_image (4).jpg,0
+dataset\SHIPPER\GESU3303659_130624_04.jpg,1
+dataset\SHIPPER\648_selected_image (4).jpg,1
+dataset\SHIPPER\1565_selected_image.jpg,1
+dataset\CARRIER\509_selected_image (4).jpg,0
+dataset\CARRIER\104_selected_image.jpg,0
+dataset\CARRIER\2091_selected_image (2).jpg,0
+dataset\CARRIER\476_selected_image (2).jpg,0
+dataset\CARRIER\1440_selected_image.jpg,0
+dataset\SHIPPER\1225_selected_image (2).jpg,1
+dataset\CARRIER\1620_selected_image.jpg,0
+dataset\CARRIER\1258_selected_image (3).jpg,0
+dataset\CARRIER\TEMU2422783_131224_05.jpg,0
+dataset\CARRIER\36_selected_image.jpg,0
+dataset\SHIPPER\120_selected_image.jpg,1
+dataset\SHIPPER\TEMU2420409-+ (1).JPG,1
+dataset\CARRIER\927_selected_image (2).jpg,0
+dataset\CARRIER\803_selected_image.jpg,0
+dataset\SHIPPER\1558_selected_image.jpg,1
+dataset\SHIPPER\942_selected_image.jpg,1
+dataset\CARRIER\252_selected_image (2).jpg,0
+dataset\CARRIER\617_selected_image (4).jpg,0
+dataset\SHIPPER\1843_selected_image (3).jpg,1
+dataset\SHIPPER\451_selected_image (3).jpg,1
+dataset\SHIPPER\668_selected_image (3).jpg,1
+dataset\SHIPPER\GESU3459678_130730_01.jpg,1
+dataset\SHIPPER\1842_selected_image (3).jpg,1
+dataset\CARRIER\1586_selected_image.jpg,0
+dataset\CARRIER\628_selected_image.jpg,0
+dataset\SHIPPER\GESU5076636_131210_04 (2).jpg,1
+dataset\CARRIER\1435_selected_image (3).jpg,0
+dataset\SHIPPER\GESU5555768_140506_12.jpg,1
+dataset\SHIPPER\TGHU6550906_131004_12.jpg,1
+dataset\CARRIER\748_selected_image.jpg,0
+dataset\SHIPPER\394_selected_image (3).jpg,1
+dataset\SHIPPER\2313_selected_image (3).jpg,1
+dataset\CARRIER\1727_selected_image.jpg,0
+dataset\CARRIER\715_selected_image (3).jpg,0
+dataset\SHIPPER\1854_selected_image (2).jpg,1
+dataset\CARRIER\2016_selected_image.jpg,0
+dataset\SHIPPER\721_selected_image (4).jpg,1
+dataset\CARRIER\233_selected_image (2).jpg,0
+dataset\SHIPPER\685_selected_image (4).jpg,1
+dataset\CARRIER\935_selected_image (4).jpg,0
+dataset\CARRIER\KWLU5130644-3.jpg,0
+dataset\CARRIER\1458_selected_image.jpg,0
+dataset\CARRIER\GESU3904773_130610_04.jpg,0
+dataset\SHIPPER\UESU5091130_140623_05.jpg,1
+dataset\CARRIER\74_selected_image (4).jpg,0
+dataset\CARRIER\689_selected_image (3).jpg,0
