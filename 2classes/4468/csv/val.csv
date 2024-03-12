@@ -1,0 +1,448 @@
+img_path,label
+dataset\carrier\KWLU5120820_130723_02.jpg,0
+dataset\carrier\KWLU2092828_131207_01.jpg,0
+dataset\shipper\WFHU1350379_130528_02.jpg,1
+dataset\carrier\KWLU5090201_131217_02.jpg,0
+dataset\carrier\KWLU5120287-C.jpg,0
+dataset\shipper\GESU3904201_130603_06.jpg,1
+dataset\carrier\KWLU5120327-B.jpg,0
+dataset\shipper\KWLU2090888_130619_02.jpg,1
+dataset\shipper\KWLU2092181_140227_02.jpg,1
+dataset\carrier\TEMU2421196_140114_02.jpg,0
+dataset\carrier\KWLU2091396_130611_02.jpg,0
+dataset\carrier\TEMU2422783_131224_07.jpg,0
+dataset\shipper\KWLU2121309_140603_04.jpg,1
+dataset\shipper\KWLU2070310_131129_04.jpg,1
+dataset\carrier\GESU 3566491-1.jpg,0
+dataset\shipper\GESU6919360_130726_06.jpg,1
+dataset\carrier\KWLU5090053_131004_01.jpg,0
+dataset\shipper\KWLU4070216_131004_02.jpg,1
+dataset\carrier\KWLU5092950-B.jpg,0
+dataset\carrier\KWCU 3627396-1.jpg,0
+dataset\carrier\TEMU2424913_140625_02.jpg,0
+dataset\carrier\KWLU2121037_130611_02.jpg,0
+dataset\shipper\KWLU3627396+ (2).JPG,1
+dataset\carrier\KWLU2070161_131118_02.jpg,0
+dataset\carrier\GESU6576404-A.jpg,0
+dataset\shipper\KWLU 5092400-3.jpg,1
+dataset\carrier\KWLU2092812_130507_01.jpg,0
+dataset\carrier\GESU6380371-A.jpg,0
+dataset\shipper\KWLU2091420_130603_04.jpg,1
+dataset\carrier\GESU  3903910-1.jpg,0
+dataset\shipper\KWLU5121534-5.jpg,1
+dataset\shipper\WFHU5133659_131004_03.jpg,1
+dataset\shipper\GESU 1407715-1-5.JPG,1
+dataset\carrier\TEMU 2423007-1.jpg,0
+dataset\shipper\KKTU7291359_130520_03.jpg,1
+dataset\carrier\TEMU2421914_131225_02.jpg,0
+dataset\carrier\POCU0481314_140618_01.jpg,0
+dataset\carrier\TEMU2421257-D.jpg,0
+dataset\carrier\KWLU5120245-.JPG,0
+dataset\carrier\KWLU2070686_140307_03.jpg,0
+dataset\carrier\KWLU2091210- (1).JPG,0
+dataset\carrier\KWLU5090201_131217_01.jpg,0
+dataset\shipper\GESU3725000_140603_02.jpg,1
+dataset\shipper\KWLU2121952_131224_04.jpg,1
+dataset\carrier\KWLU5092267_140607_02.jpg,0
+dataset\carrier\WFHU1285817-.JPG,0
+dataset\carrier\KWLU2121952_131224_06.jpg,0
+dataset\shipper\GESU3289817_130702_04.jpg,1
+dataset\shipper\GESU3725000_130625_02.jpg,1
+dataset\carrier\GESU3902739-A.jpg,0
+dataset\carrier\XINU8199501-3.jpg,0
+dataset\carrier\KWLU5130520-3.jpg,0
+dataset\carrier\GATU0115821_130619_02.jpg,0
+dataset\carrier\GESU1406046_130520_03.jpg,0
+dataset\shipper\WFHU5133448_130726_02.jpg,1
+dataset\shipper\GESU2593635_131129_02.jpg,1
+dataset\carrier\TEMU2421160_140219_04.jpg,0
+dataset\shipper\GESU 6784584-2.jpg,1
+dataset\shipper\WFHU4026738_130805_05.jpg,1
+dataset\shipper\GESU3905002_131207_02.jpg,1
+dataset\carrier\GESU  3903910-3.jpg,0
+dataset\carrier\WFHU5133535_130930_02.jpg,0
+dataset\shipper\KWLU2092284- (3).JPG,1
+dataset\carrier\KWLU4070089-1.jpg,0
+dataset\carrier\TGHU6549572_140409_01.jpg,0
+dataset\carrier\KWLU4037990_130805_01.jpg,0
+dataset\carrier\KWLU2122080_140219_04.jpg,0
+dataset\carrier\KWLU4070279_131004_02.jpg,0
+dataset\carrier\GESU3902744_140603_04.jpg,0
+dataset\carrier\WFHU5012390-B.jpg,0
+dataset\shipper\XINU4026386_131015_06.jpg,1
+dataset\carrier\KWLU2070602_130812_03.jpg,0
+dataset\shipper\TEMU2422931_140227_04.jpg,1
+dataset\carrier\GESU2980927_140219_04.jpg,0
+dataset\shipper\GESU6379832_130930_02.jpg,1
+dataset\carrier\GESU3902981_131207_05.jpg,0
+dataset\carrier\TEMU2422910_130625_03.jpg,0
+dataset\carrier\TEMU 2421508-1.JPG,0
+dataset\carrier\KWLU 5091065-1.jpg,0
+dataset\shipper\GESU3276039_130730_01.jpg,1
+dataset\shipper\KWLU2120473_131118_03.jpg,1
+dataset\carrier\TTNU4362500-C.jpg,0
+dataset\shipper\GESU6379806_140210_03 (2).jpg,1
+dataset\carrier\KWLU5091851_140604_04.jpg,0
+dataset\carrier\GESU5458900-3.jpg,0
+dataset\shipper\GESU6920248_131004_05.jpg,1
+dataset\shipper\GESU2842147_130702_01.jpg,1
+dataset\shipper\K SEGU 5509915R (3) (Small)_0.jpg,1
+dataset\carrier\KWLU2121377_130610_02.jpg,0
+dataset\shipper\TEMU 2421004-1-1-1.jpg,1
+dataset\carrier\KWLU2091605-A.jpg,0
+dataset\carrier\TGHU6257884_131202_03.jpg,0
+dataset\carrier\UESU5069121-C.jpg,0
+dataset\shipper\XINU4026658_131129_03.jpg,1
+dataset\carrier\KWLU2090722_130507_01.jpg,0
+dataset\carrier\KWLU2130445-2.jpg,0
+dataset\carrier\KWLU 5130304-1.jpg,0
+dataset\carrier\WFHU1350430_130824_03.jpg,0
+dataset\carrier\KWLU5120158_131004_01.jpg,0
+dataset\carrier\KWLU5355867_4.jpg,0
+dataset\carrier\KWLU5130520-5.jpg,0
+dataset\carrier\KWLU 2070032-1.jpg,0
+dataset\carrier\TEMU2420440-2.jpg,0
+dataset\carrier\KWLU5130238-B.jpg,0
+dataset\carrier\KWLU3130012-A.jpg,0
+dataset\shipper\GESU6919530_140624_06.jpg,1
+dataset\carrier\KWLU 2092453-1.JPG,0
+dataset\shipper\WFHU 1350419-1.jpg,1
+dataset\carrier\KWLU5121920_131004_05.jpg,0
+dataset\shipper\GESU2594014_130731_05.jpg,1
+dataset\carrier\WFHU1351056_130520_02.jpg,0
+dataset\carrier\WFHU1349655_131004_05.jpg,0
+dataset\carrier\KWLU4070746-4.jpg,0
+dataset\shipper\TEMU2422783_131224_03.jpg,1
+dataset\shipper\XINU4026318_131004_03.jpg,1
+dataset\carrier\KWLU2090532_140603_04.jpg,0
+dataset\carrier\KWLU2092746_131224_09.jpg,0
+dataset\carrier\TEMU2420266- (1).JPG,0
+dataset\shipper\FCIU8524679_131004_04.jpg,1
+dataset\shipper\KWLU2130569_140624_03.jpg,1
+dataset\carrier\KWLU2121504_130401_02.jpg,0
+dataset\shipper\NYKU2465557_130720_03.jpg,1
+dataset\carrier\KWLU2092134-A.jpg,0
+dataset\carrier\KWLU2122809_130507_04.jpg,0
+dataset\shipper\KWLU5120040_140531_04.jpg,1
+dataset\carrier\GATU0320683_130610_01.jpg,0
+dataset\carrier\GESU2898418_130625_04.jpg,0
+dataset\carrier\XINU8200855_130930_02.jpg,0
+dataset\carrier\TGHU6256131_140319_02.jpg,0
+dataset\carrier\KWLU2122521.JPG,0
+dataset\shipper\GESU5828800_140617_04.jpg,1
+dataset\carrier\KWLU2120832_131224_08.jpg,0
+dataset\shipper\KWLU5092462_140617_02.jpg,1
+dataset\carrier\UESU5086690_140623_04.jpg,0
+dataset\carrier\KWLU5092251_131202_01.jpg,0
+dataset\carrier\KWLU2877019_130905_03.jpg,0
+dataset\shipper\WFHU 5133427-1.jpg,1
+dataset\carrier\TEMU2420435_130528_03.jpg,0
+dataset\carrier\GESU 3903530-2.jpg,0
+dataset\carrier\KWLU2090580_131011_05.jpg,0
+dataset\shipper\TGHU6549968_131126_04.jpg,1
+dataset\shipper\DSCF0038_0.jpg,1
+dataset\shipper\GESU6380263-5.jpg,1
+dataset\shipper\KWLU5121750_130715_01.jpg,1
+dataset\carrier\GESU3903740_130520_01.jpg,0
+dataset\carrier\GESU3905213_130619_04.jpg,0
+dataset\shipper\TGHU6549799_131004_03.jpg,1
+dataset\carrier\KWLU4070263-B.jpg,0
+dataset\shipper\DSCF0035_0.jpg,1
+dataset\carrier\GESU 5966373-1.jpg,0
+dataset\shipper\FCIU2459616-4.jpg,1
+dataset\shipper\KWLU 2120961-3.jpg,1
+dataset\carrier\2920372_0.jpg,0
+dataset\carrier\KWLU2091375_130603_03.jpg,0
+dataset\shipper\KWLU2122080_140219_03.jpg,1
+dataset\shipper\KWLU2091863_130823_02.jpg,1
+dataset\carrier\GESU6920248_131004_06.jpg,0
+dataset\carrier\KWLU5090789-C.jpg,0
+dataset\shipper\KWLU5121534-4.jpg,1
+dataset\carrier\GESU 3903530-1.jpg,0
+dataset\carrier\KWLU2090194_140219_02.jpg,0
+dataset\shipper\TEMU2422660_140326_03.jpg,1
+dataset\shipper\FSCU9888859_140617_03.jpg,1
+dataset\carrier\XINU8198090_130909_01.jpg,0
+dataset\shipper\KWLU2091586_130507_03.jpg,1
+dataset\shipper\KWLU2120998_131207_02.jpg,1
+dataset\shipper\KWLU2092284- (5).JPG,1
+dataset\carrier\GESU6380371-2.jpg,0
+dataset\carrier\KWLU5090834-A.jpg,0
+dataset\carrier\TEMU2424209-4.jpg,0
+dataset\carrier\IDCU2014916_130426_03.jpg,0
+dataset\carrier\TEMU2421684_130603_03.jpg,0
+dataset\shipper\KWLU2120874_140617_03.jpg,1
+dataset\shipper\GESU5310847_140617_15.jpg,1
+dataset\shipper\GESU6380556_131004_05.jpg,1
+dataset\carrier\GESU3135107_140617_02.jpg,0
+dataset\carrier\WFHU1350661_140219_04.jpg,0
+dataset\shipper\KKTU7305555_140624_02.jpg,1
+dataset\shipper\GESU6380730_131004_03.jpg,1
+dataset\carrier\GESU1299035_140616_05.jpg,0
+dataset\shipper\GESU1405688_140618_04.jpg,1
+dataset\carrier\KWLU2121417_140228_05.jpg,0
+dataset\carrier\GESU 1406107-1-1.jpg,0
+dataset\shipper\TEMU2420878_140319_03.jpg,1
+dataset\shipper\TGHU6257992_131007_07.jpg,1
+dataset\carrier\KWLU2092448_130603_01.jpg,0
+dataset\shipper\KWLU2091776_130507_02.jpg,1
+dataset\carrier\KWLU5131548-B.jpg,0
+dataset\carrier\KWLU2092129_130619_04.jpg,0
+dataset\shipper\TGHU6256131_140319_03.jpg,1
+dataset\shipper\WFHU5133788_131203_03.jpg,1
+dataset\carrier\2575.jpg,0
+dataset\carrier\KWLU2070053_130507_01.jpg,0
+dataset\carrier\GESU6574989-5.jpg,0
+dataset\carrier\KWLU5092668_131004_02.jpg,0
+dataset\carrier\GESU3903822-C.jpg,0
+dataset\shipper\GESU5294129_130624_03.jpg,1
+dataset\carrier\GESU2829741_130702_01.jpg,0
+dataset\carrier\GESU5763484-2.jpg,0
+dataset\shipper\GESU3903041_140625_04.jpg,1
+dataset\carrier\KWLU5092204_130930_07.jpg,0
+dataset\carrier\KWLU5090053_131004_02.jpg,0
+dataset\shipper\TRLU 8096095-2-1.jpg,1
+dataset\carrier\GESU2302220_131118_03.jpg,0
+dataset\carrier\GESU1299035_140616_06.jpg,0
+dataset\carrier\GESU6919442_140617_02.jpg,0
+dataset\shipper\KWLU2120719_130528_04.jpg,1
+dataset\carrier\WFHU5137530-2.jpg,0
+dataset\carrier\TGHU6549443-3.jpg,0
+dataset\shipper\KWLU2090419_131207_03.jpg,1
+dataset\shipper\GESU1407715_130720_02.jpg,1
+dataset\carrier\KWLU2070536_130812_02.jpg,0
+dataset\shipper\KWLU5092668_131004_04.jpg,1
+dataset\carrier\GESU 5415215-1.jpg,0
+dataset\carrier\TEMU2423769-A.jpg,0
+dataset\carrier\KWLU2091436-1.jpg,0
+dataset\carrier\KWLU3919633-1.jpg,0
+dataset\carrier\NYKU2465557_130720_02.jpg,0
+dataset\carrier\KWLU2092073_130520_02.jpg,0
+dataset\carrier\KWLU2092221_130401_04.jpg,0
+dataset\carrier\TGHU6261020-3.jpg,0
+dataset\shipper\KWLU2121844_130610_03.jpg,1
+dataset\carrier\GESU3903490_130520_03.jpg,0
+dataset\shipper\KWLU5121920_131004_03.jpg,1
+dataset\carrier\GESU 3904958-3.jpg,0
+dataset\carrier\KWLU5092586_140531_03.jpg,0
+dataset\carrier\KWLU2091436-2.jpg,0
+dataset\shipper\TGHU6266525_131004_05.jpg,1
+dataset\shipper\KWLU2091204_140219_02.jpg,1
+dataset\carrier\KWLU2122706_130528_01.jpg,0
+dataset\carrier\XINU4026299_131011_02.jpg,0
+dataset\shipper\KWLU5092652_131004_05.jpg,1
+dataset\carrier\GESU3905213_130619_03.jpg,0
+dataset\shipper\GESU6379766.JPG,1
+dataset\carrier\KWLU2091673_131223_02.jpg,0
+dataset\carrier\WFHU5029053-2.jpg,0
+dataset\shipper\KWLU2091544_130502_02.jpg,1
+dataset\carrier\WFHU5137850_131129_04.jpg,0
+dataset\carrier\KWLU2070773_130528_03.jpg,0
+dataset\shipper\GESU1407757_130528_06.jpg,1
+dataset\shipper\DSCF4745_0.jpg,1
+dataset\carrier\GESU6575413-A.jpg,0
+dataset\carrier\KWLU2070773_130528_05.jpg,0
+dataset\shipper\GESU6576683_130930_06.jpg,1
+dataset\carrier\TEMU2425083-1.jpg,0
+dataset\shipper\KWLU2090620_130603_02.jpg,1
+dataset\carrier\UESU5069121-2.jpg,0
+dataset\carrier\KWLU5091759-C.jpg,0
+dataset\carrier\TEMU2424209_130812_01.jpg,0
+dataset\carrier\KWLU2092556_140619_02.jpg,0
+dataset\carrier\KWLU5122459-2.jpg,0
+dataset\shipper\KWLU5813933- (2).JPG,1
+dataset\carrier\KWLU2122901_130603_02.jpg,0
+dataset\carrier\WFHU5012390-2.jpg,0
+dataset\shipper\KWLU 2121839-2.JPG,1
+dataset\shipper\WFHU4026738_130805_04.jpg,1
+dataset\carrier\KWLU2092509_140616_02.jpg,0
+dataset\shipper\WFHU1351170_130528_01.jpg,1
+dataset\carrier\GESU6574675-B.jpg,0
+dataset\carrier\KWLU2970688_140624_02.jpg,0
+dataset\carrier\TEMU 2422839-1.jpg,0
+dataset\shipper\WFHU1349824_130326_05.jpg,1
+dataset\carrier\TGHU6256424_140616_02.jpg,0
+dataset\shipper\TEMU2423136_130326_07.jpg,1
+dataset\carrier\KWLU2121870_130528_01.jpg,0
+dataset\carrier\KWLU 5090897-1.jpg,0
+dataset\carrier\GESU6380793_131004_06.jpg,0
+dataset\carrier\KWLU2090569_131224_04.jpg,0
+dataset\carrier\KWLU5130238-3.jpg,0
+dataset\shipper\GESU3902981_131207_08.jpg,1
+dataset\carrier\KWLU2090656_140624_01.jpg,0
+dataset\shipper\GESU5424710_130617_08.jpg,1
+dataset\carrier\KWLU5130644-1.jpg,0
+dataset\shipper\TEMU2423584_131118_02.jpg,1
+dataset\carrier\KWLU2070876-B.jpg,0
+dataset\carrier\KWLU2070048_131118_02.jpg,0
+dataset\carrier\GESU2244422_131129_04.jpg,0
+dataset\carrier\TEMU2421684_130603_02.jpg,0
+dataset\carrier\2920371_0.jpg,0
+dataset\carrier\GESU6574865_131203_03.jpg,0
+dataset\shipper\WFHU1350065_140512_02.jpg,1
+dataset\carrier\TEMU 2421093-1.JPG,0
+dataset\carrier\GESU3903289_130930_04.jpg,0
+dataset\shipper\KWLU3614589_130812_03.jpg,1
+dataset\shipper\GESU6380556_131004_06 (2).jpg,1
+dataset\carrier\WFHU1351354_130823_03.jpg,0
+dataset\carrier\GATU0851150_130610_08.jpg,0
+dataset\carrier\KWLU9695567-B.jpg,0
+dataset\carrier\TEMU2420311-2.jpg,0
+dataset\carrier\WFHU1351415_130610_01.jpg,0
+dataset\carrier\GESU6574823_130701_01.jpg,0
+dataset\carrier\TEMU2421914_131225_03.jpg,0
+dataset\carrier\GATU0320683_130702_02.jpg,0
+dataset\carrier\KWLU5090876_140604_01.jpg,0
+dataset\shipper\KWLU2092480_131207_10.jpg,1
+dataset\carrier\圖片8.jpg,0
+dataset\shipper\GESU 3902868-2.jpg,1
+dataset\shipper\GESU6808897-3.jpg,1
+dataset\shipper\WFHU5133788_131203_02.jpg,1
+dataset\carrier\GESU3106562_130702_05.jpg,0
+dataset\carrier\GESU6380371-3.jpg,0
+dataset\carrier\KWLU5130238-A.jpg,0
+dataset\carrier\GESU3902981_131207_07.jpg,0
+dataset\carrier\KWLU2122054_131207_02.jpg,0
+dataset\shipper\KWLU2090928_140411_02.jpg,1
+dataset\carrier\KWLU5092992_130726_01.jpg,0
+dataset\carrier\GESU6916660_130617_01.jpg,0
+dataset\carrier\KWLU2092303_131224_01.jpg,0
+dataset\carrier\KWLU5090834-3.jpg,0
+dataset\shipper\KWLU5091466_140617_04.jpg,1
+dataset\shipper\7.JPG,1
+dataset\carrier\GESU3904032_131207_03.jpg,0
+dataset\carrier\GESU6575413-4.jpg,0
+dataset\carrier\GESU1405395_130528_02.jpg,0
+dataset\carrier\UMLU2023684_130423_04.jpg,0
+dataset\carrier\GESU6576744_140604_02.jpg,0
+dataset\carrier\KWLU 2092453-1-1.JPG,0
+dataset\carrier\MOTU0638005_131021_01.jpg,0
+dataset\shipper\FSCU 6820259-3.jpg,1
+dataset\carrier\TGHU6256403_131129_06.jpg,0
+dataset\carrier\GESU 3904670-1.jpg,0
+dataset\shipper\GESU2985826_130703_04.jpg,1
+dataset\carrier\WFHU5133319-B.jpg,0
+dataset\shipper\WFHU 1351462-2.jpg,1
+dataset\shipper\KWLU2970712_131207_04.jpg,1
+dataset\shipper\WFHU1351056_130520_01.jpg,1
+dataset\carrier\KWLU 2120880-1.JPG,0
+dataset\shipper\K SEGU 6333116R (5) (Small)_0.jpg,1
+dataset\carrier\KWLU 2092685-1.JPG,0
+dataset\carrier\GESU6379787_140607_03.jpg,0
+dataset\shipper\GESU3594430_140609_04.jpg,1
+dataset\shipper\KWLU2090532_140603_06.jpg,1
+dataset\shipper\KWLU2092284- (6).JPG,1
+dataset\shipper\GESU 1408394-1.JPG,1
+dataset\shipper\KWLU2091605_140210_03.jpg,1
+dataset\carrier\WFHU5133725_130702_01.jpg,0
+dataset\shipper\CRXU1433723_130824_02.jpg,1
+dataset\carrier\WFHU5140410-4.jpg,0
+dataset\carrier\TGHU 6246302-1.jpg,0
+dataset\carrier\GESU1406386_130603_01.jpg,0
+dataset\carrier\GESU3902739_130619_01.jpg,0
+dataset\shipper\GESU2723929_140219_03.jpg,1
+dataset\carrier\XINU8199800-4.jpg,0
+dataset\carrier\WFHU5133509_130617_02.jpg,0
+dataset\carrier\CRXU4596452-B.jpg,0
+dataset\carrier\KWLU2090194_140219_03.jpg,0
+dataset\carrier\GESU3904032_131207_05.jpg,0
+dataset\carrier\KWLU2070114-2.jpg,0
+dataset\shipper\TGHU6257992_131007_04.jpg,1
+dataset\carrier\WFHU1349824_130812_06.jpg,0
+dataset\shipper\WFHU1350553- (3).JPG,1
+dataset\shipper\GESU3033698_130611_06.jpg,1
+dataset\carrier\KWLU2091441_130520_03.jpg,0
+dataset\carrier\KWLU5092288_140617_01.jpg,0
+dataset\carrier\KWLU5092225_140526_03.jpg,0
+dataset\carrier\GESU3903484_131207_02.jpg,0
+dataset\carrier\XINU4026597_131129_04.jpg,0
+dataset\carrier\KWLU2970163-2.jpg,0
+dataset\carrier\WFHU1349980_130528_01.jpg,0
+dataset\shipper\DSCF5475.jpg,1
+dataset\shipper\GESU3459678_130730_01.jpg,1
+dataset\carrier\KWLU2092495_130704_03.jpg,0
+dataset\carrier\KWLU2121340_130610_03.jpg,0
+dataset\shipper\WFHU1351170_130702_06.jpg,1
+dataset\carrier\XINU4026365_131011_02.jpg,0
+dataset\shipper\KWLU2070285_130520_04.jpg,1
+dataset\carrier\KWLU5091050-2.jpg,0
+dataset\carrier\TEMU2420311-3.jpg,0
+dataset\shipper\KWLU5132858_140607_05.jpg,1
+dataset\carrier\FCIU2459616-3.jpg,0
+dataset\shipper\KWLU2092140_140624_04.jpg,1
+dataset\carrier\WFHU5141124_130723_02.jpg,0
+dataset\carrier\KWLU3607980_130730_01.jpg,0
+dataset\carrier\KWLU 2070520-2.JPG,0
+dataset\shipper\GESU2721525_131118_02.jpg,1
+dataset\carrier\XINU8199292_131007_07.jpg,0
+dataset\carrier\XINU8196230_130720_01.jpg,0
+dataset\carrier\DSCF0023_0.jpg,0
+dataset\shipper\GESU3725000_130625_03.jpg,1
+dataset\carrier\UESU5092878_140623_03.jpg,0
+dataset\shipper\GESU5226037-3.jpg,1
+dataset\carrier\GESU6574865_131203_05.jpg,0
+dataset\shipper\KWLU 2090300-2.jpg,1
+dataset\carrier\KWLU 5090367-1.jpg,0
+dataset\carrier\K SEGU 5509915R (5) (Small)_0.jpg,0
+dataset\carrier\GESU3903648_130702_02.jpg,0
+dataset\carrier\GATU0019371-1.jpg,0
+dataset\shipper\GSTU2976492_140603_04.jpg,1
+dataset\carrier\GESU2893972_140307_02.jpg,0
+dataset\carrier\KWLU2121130_130610_01.jpg,0
+dataset\shipper\KWLU5092652_131004_06.jpg,1
+dataset\carrier\KWLU5120820_130723_07.jpg,0
+dataset\shipper\FCIU8738794_131118_02.jpg,1
+dataset\shipper\GESU5291285_140604_02.jpg,1
+dataset\carrier\KWLU 2070557-2.jpg,0
+dataset\shipper\GESU6380052_131004_03.jpg,1
+dataset\carrier\TEMU2424209_130812_03.jpg,0
+dataset\carrier\GESU5424710_130617_03.jpg,0
+dataset\shipper\XINU4026149_130910_03.jpg,1
+dataset\carrier\TEMU2421344_140512_07.jpg,0
+dataset\carrier\TGHU6257884_131202_02.jpg,0
+dataset\carrier\GESU3904773_130610_02.jpg,0
+dataset\carrier\TEMU2421196_140114_03.jpg,0
+dataset\carrier\KWCU 2092849-1.jpg,0
+dataset\shipper\TRLU8096794_131203_02.jpg,1
+dataset\shipper\KWLU5120158_131004_03.jpg,1
+dataset\carrier\KWLU2091689_140625_04.jpg,0
+dataset\carrier\IDCU2014182_130823_03.jpg,0
+dataset\shipper\GESU 2383095-1.jpg,1
+dataset\carrier\KWLU 2122584-3.JPG,0
+dataset\carrier\KWLU4070216_131004_01.jpg,0
+dataset\shipper\KWLU 2090790-1.jpg,1
+dataset\carrier\GESU5896363_130502_01.jpg,0
+dataset\carrier\KWLU5090773-A.jpg,0
+dataset\shipper\XINU8200979_130723_01.jpg,1
+dataset\carrier\XINU8196230_131001_04.jpg,0
+dataset\carrier\KWLU 2091288-2.jpg,0
+dataset\carrier\GESU6920248_131004_03.jpg,0
+dataset\carrier\UESU5121050_140617_02.jpg,0
+dataset\carrier\XINU4026318_131004_05.jpg,0
+dataset\carrier\GESU3904855_140219_02.jpg,0
+dataset\carrier\GESU2632135_130823_03.jpg,0
+dataset\carrier\KWLU4070089-A.jpg,0
+dataset\carrier\KWLU2130044_140607_01.jpg,0
+dataset\carrier\KWLU5090773-2.jpg,0
+dataset\shipper\KWLU2122692_131202_02.jpg,1
+dataset\shipper\XINU8198090_130909_05.jpg,1
+dataset\shipper\TEMU2420292_130618_03.jpg,1
+dataset\shipper\GESU3458394_130326_02.jpg,1
+dataset\carrier\GESU6379431_140607_05.jpg,0
+dataset\carrier\TEMU2422783_131224_04.jpg,0
+dataset\carrier\GESU3904942_140210_04.jpg,0
+dataset\carrier\CRXU4596452-2.jpg,0
+dataset\carrier\KWLU2091821-2.jpg,0
+dataset\carrier\XINU8196230_131001_02.jpg,0
+dataset\shipper\KWLU 2091760-3-1.JPG,1
+dataset\shipper\KWLU2092448_130603_05.jpg,1
+dataset\shipper\GESU2275681_130708_02.jpg,1
+dataset\carrier\GESU6575120-3.jpg,0
+dataset\carrier\WFHU1349655_131004_04.jpg,0
+dataset\carrier\WFHU1350893_140618_01.jpg,0
+dataset\carrier\WFHU1349980_130702_04.jpg,0
+dataset\carrier\XINU4026597_131129_07.jpg,0
+dataset\shipper\KWLU 2091992-2.JPG,1
+dataset\shipper\GESU1409678- (1).JPG,1
+dataset\shipper\GESU2237850_130805_02.jpg,1
+dataset\shipper\TEMU 2424106-3.JPG,1
