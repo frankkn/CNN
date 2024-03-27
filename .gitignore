@@ -18,3 +18,6 @@ augmentation/*
 8classes/20000/.ipynb_checkpoints/
 8classes/20000/checkpoint/
 8classes/20000/dataset
+
+blur/*
+!/blur/Blur.ipynb
